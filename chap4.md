@@ -104,10 +104,10 @@ avec mes dents pour leur café, à ce moment), et ils ont posé une tasse
 en plastique pleine d’eau juste devant moi — sans me détacher les
 poignets de derrière le dos, de sorte que je ne pouvais pas la saisir.
 Vraiment très drôle.\
-- “Bonjour Marcus”, a dit Coupe-à-la-Serpe, “est-ce que ton attitude
+— “Bonjour Marcus”, a dit Coupe-à-la-Serpe, “est-ce que ton attitude
 s’est améliorée aujourd’hui ?”\
 Je n’ai rien répondu.\
-- “Ca n’est pas le pire qui puisse t’arriver, tu sais”, a-t-elle dit.
+— “Ca n’est pas le pire qui puisse t’arriver, tu sais”, a-t-elle dit.
 “Ca, c’est le mieux qui peut t’arriver, à partir de maintenant. Même
 quand tu nous auras dit ce que nous voulons savoir, même si ça nous
 convaint que tu étais juste au mauvais endroit au mauvais moment,
@@ -121,17 +121,17 @@ m’étais jamais, au grand jamais, senti si mal et si terrifié. Ces mots,
 “au mauvais endroit au mauvais moment”, ces six mots, étaient comme une
 bouée de sauvetage qui se balotterait devant moi alors que j’aurais
 lutté pour me maintenir à la surface.\
-- “Salut, Marcus ?” Elle a fait claquer ses doigts devant mon visage.
+— “Salut, Marcus ?” Elle a fait claquer ses doigts devant mon visage.
 “Par ici, Marcus.”\
 Il y avait un petit sourir sur osn visage, et je me suis détesté pour
 lui avoir laissé entrevoir ma peur.\
-- “Marcus, ça pourrait être bien pire. Ce n’est pas le pire endroit où
+— “Marcus, ça pourrait être bien pire. Ce n’est pas le pire endroit où
 on pourrait te mettre, de très loin pas.”\
 Elle s’est baissée sous la table et en a tiré une serviette qu’elle a
 ouverte d’un geste sec. Elle en a retiré mon smartphone, mon
 lecteur/duplicateur d’arphid, mon détecteur de WiFi, et mes clefs USB.
 Elle les a disposés sur la table les uns après les autres.\
-- “Voici ce que nous voulons que tu fasses. Tu nous déverrouilles ce
+— “Voici ce que nous voulons que tu fasses. Tu nous déverrouilles ce
 téléphone aujourd’hui. Si tu fais ça, tu gagneras l’autorisation d’aller
 à la promenade et aux toilettes. Tu pourras te doucher et marcher dans
 la cour. Demain, nous te ramènerons ici et nous te demanderons de
@@ -141,8 +141,8 @@ passe de ton compte e-mail, avec lequel tu achèteras le droit d’utiliser
 la bibliothèque.”\
 Le mot “non” affleurait mes lèvres, comme une bulle cherchant à crever
 la surface, mais il ne sortait pas.\
-- “Pourquoi ?” ai-je demandé à la place.\
-- “Nous voulons être sûr que tu es bien ce que tu sembles être. C’est
+— “Pourquoi ?” ai-je demandé à la place.\
+— “Nous voulons être sûr que tu es bien ce que tu sembles être. C’est
 pour ta propre sécurité, Marcus. Mettons que tu sois innocent. Tu
 pourrais bien l’être, encore qu’on se demande vraiment pourquoi un
 innocent se comporterait comme s’il avait autant à cacher. Mais,
@@ -155,13 +155,13 @@ fait quelque chose pour mériter d’être où j’étais, peut-être comme si �
 avait été en partie ma faute, comme si j’avais pu agir pour y changer
 quelque chose. Mais quand elle a entamé ces conneries sur la “sécurité”
 et la défense du pays, je me suis redressé.\
-- “Madame, vous parlez d’attaquer mon pays, mais pour autant que je
+— “Madame, vous parlez d’attaquer mon pays, mais pour autant que je
 puisse en juger, vous êtes les seuls à m’avoir attaqué récemment.
 J’aurais cru vivre dans un pays doté d’une constitution. Je pensais
 vivre dans un pays où j’avais des droits. Vous me parlez de défendre ma
 liberté en jetant les Droits de l’Homme aux orties.”\
 Une nuage d’agacement a parcouru son visage, et s’est dissipé.\
-- “Tu es bien mélodramatique, Marcus. Personne ne t’a attaqué. Tu es
+— “Tu es bien mélodramatique, Marcus. Personne ne t’a attaqué. Tu es
 détenu par le gouvernement de ton pays le temps que nous cherchions des
 indices sur le pire attentat terroriste jamais perpétré sur le sol de
 notre nation. Tu peux très bien nous aider à combattre les ennemis de la
@@ -180,13 +180,13 @@ chemin de la liberté, mon espoir s’était brisé et la seule chose à
 laquelle je pouvais penser, c’était comment y retourner. J’ai donc bougé
 les poignets pour attraper le téléphone et le lui déverrouiller, mais
 elle m’a juste regardé froidement en vérifiant sa montre.\
-- “Le mot de passe”, ai-je dit, comprenant finalement ce qu’elle voulait
+— “Le mot de passe”, ai-je dit, comprenant finalement ce qu’elle voulait
 de moi. Elle voulait que je le dise à haute voix, ici, pour qu’elle
 puisse le noter et que ses copains l’entendent. Elle ne voulait pas
 seulement que je lui déverrouille le smartphone. Elle voulait que je me
 soumette à elle. Que je lui donne le contrôle de moi-même. Que je
 renonce à tous mes secrets, à toute mon intimité.\
-- “Le mot de passe”, ai-je répété, et je lui ai donné le mot de passe.
+— “Le mot de passe”, ai-je répété, et je lui ai donné le mot de passe.
 Dieu ait pitié de moi, je me suis soumis à sa volonté. Elle a souri d’un
 petit air satisfait, sûrement sa version Reine des Glaces d’une danse de
 la victoire, et les gardes m’ont emmené. Quand la porte s’est refermée,
@@ -300,16 +300,16 @@ fatiguée et renfermée, mais pas blessée, et quand elle m’a vu, elle a
 crié mon nom et a couru vers moi. Nous nous sommes pris dans les bras
 l’un de l’autre et j’ai réalisé que je tremblais. Et alors j’ai remarqué
 qu’elle tremblait elle aussi.\
-- “Ca va ?” m’a-t-elle demandé en me tenant à bout de bras\
-- “Ca va”, j’ai dit. “Ils m’ont dit qu’ils me laisseraient partir si je
+— “Ca va ?” m’a-t-elle demandé en me tenant à bout de bras\
+— “Ca va”, j’ai dit. “Ils m’ont dit qu’ils me laisseraient partir si je
 leur donnais mes mots de passe”.\
-- “Ils n’arrêtent pas de me poser des questions sur toi et Darryl”. Une
+— “Ils n’arrêtent pas de me poser des questions sur toi et Darryl”. Une
 voix rugissait au haut-parleur, nous hurlant d’arrêter de parler et de
 marcher, mais nous l’avons ignorée.\
-- “Dis-leur”, j’ai répondu instantanément. “Quoi qu’ils veuillent
+— “Dis-leur”, j’ai répondu instantanément. “Quoi qu’ils veuillent
 savoir, dis-leur. Si ça peut te faire sortir”.\
-- “Comment vont Darryl et Jolu ?”\
-- “Je ne les ai pas vus”\
+— “Comment vont Darryl et Jolu ?”\
+— “Je ne les ai pas vus”\
 La porte s’est ouverte à la volée et quatre gardes barraqués sont sortis
 en trombe. Deux m’ont empoigné, et les deux autres ont pris Vanessa. Ils
 m’ont applati sur le sol et m’ont tourné la tête dans la direction où je
@@ -338,31 +338,31 @@ revenus. Coupe-à-la-Serpe siégeait déjà. Elle était parfaite : coiffée,
 avec juste une touche de maquillage. J’ai senti l’odeur de son produit
 pour les cheveux. Elle a froncé le nez en me voyant. J’ai senti monter
 la honte en moi.\
-- “Eh bien, tu été un vilain garçon, n’est-ce pas ? Tu es vraiment
+— “Eh bien, tu été un vilain garçon, n’est-ce pas ? Tu es vraiment
 répugnant.”\
 Honte. J’ai baissé les yeux sur la table. Je ne pouvais pas soutenir son
 regard. Je voulais lui dire mes mots de passe et partir.\
-- “De quoi avez-vous parlé dans la cour, toi et ton amie ?” J’ai pouffé
+— “De quoi avez-vous parlé dans la cour, toi et ton amie ?” J’ai pouffé
 de rire.\
-- “Je lui ai dit de répondre à vos questions. Je lui ai dit de
+— “Je lui ai dit de répondre à vos questions. Je lui ai dit de
 coopérer.”\
-- “Alors comme ça, c’est toi qui commandes ?” J’ai senti mon sang
+— “Alors comme ça, c’est toi qui commandes ?” J’ai senti mon sang
 chanter dans mes oreilles.\
-- “Oh pour l’amour du ciel”, j’ai dit, “nous jouons à un jeu, ça
+— “Oh pour l’amour du ciel”, j’ai dit, “nous jouons à un jeu, ça
 s’appelle Harajuku Fun Madness. Je suis le capitaine de l’équipe. Nous
 ne sommes pas des terroristes, nous sommes des lycéens. Je ne lui donne
 pas d’ordres. Je lui ai dit que nous devions être sincères avec vous
 pour que vous écartiez vos suspicions et que vous nous laissiez partir.
 ” Elle n’a rien dit pendant un moment. “Comment va Darryl ?”\
-- “Qui ça ?”\
-- “Darryl. Vous nous avez pris ensemble. Mon ami. Quelqu’un lui a donné
+— “Qui ça ?”\
+— “Darryl. Vous nous avez pris ensemble. Mon ami. Quelqu’un lui a donné
 un coup de couteau à la station du BART de Powell Street. C’est la
 raison pour laquelle nous sommes remontés à la surface. Pour avoir de
 l’aide.”\
-- “Je suis sûr qu’il va bien, alors”, elle a dit. Mon estomac a fait un
+— “Je suis sûr qu’il va bien, alors”, elle a dit. Mon estomac a fait un
 bond et j’ai presque au la nausée.\
-- “Vous ne savez pas ? Vous ne l’avez pas ici ?”\
-- “Qui nous détenons ou pas ici est quelque chose que nous ne
+— “Vous ne savez pas ? Vous ne l’avez pas ici ?”\
+— “Qui nous détenons ou pas ici est quelque chose que nous ne
 discuterons pas avec toi, jamais. C’est quelque chose que tu ne sauras
 pas. Marcus, tu as vu ce qui arrive quand on ne coopère pas avec nous.
 Tu as vu ce qui arrive quand on désobéit à nos ordres. Tu as été
@@ -393,10 +393,10 @@ voyait en rouge-orangé à travers le vert de la painture. Mes parents se
 trouvaient quelque part de l’autre côté du soupirail.
 
 On m’a recherché le lendemain.\
-- “Nous avons lu tes mails pendant une journée, maintenant. Nous avons
+— “Nous avons lu tes mails pendant une journée, maintenant. Nous avons
 changé le mot de passe, pour que ton ordinateur ne les récupère pas.”\
 Evidemment. J’aurais fait pareil, maintenant que j’y pense.\
-- “Nous en avons assez sur toi pour te mettre à l’ombre un très long
+— “Nous en avons assez sur toi pour te mettre à l’ombre un très long
 moment, Marcus. La détention de ces articles — ” elle a montré mes
 gadgets d’un geste — “et les données que nous avons récupérées de ton
 téléphone et de tes clefs USB, ainsi que toute la littérature subversive
@@ -407,36 +407,36 @@ Je n’en croyais pas un mot. Il n’y a aucun moyen qu’un juge considère
 tout cela comme un vrai crime. C’était de la liberté d’expression,
 c’était de l’expérimentation technologique. Ca n’était pas un crime.
 Mais qui disait que ces gens me mettraient jamais en face d’un juge ?\
-- “Nous savons où tu vis, nous savons qui sont tes amis. Nous savons
+— “Nous savons où tu vis, nous savons qui sont tes amis. Nous savons
 comment tu opères et comment tu penses.”\
 J’ai commencé à comprendre. Ils allaient me laisser partir. La pièce
 s’est comme illuminée. Je me suis entendu respirer, par petites
 saccades.\
-- “Nous voulons juste savoir une dernière chose : comment les bombes
+— “Nous voulons juste savoir une dernière chose : comment les bombes
 ont-elles été acheminées sur le pont ?” J’ai cessé de respirer. La pièce
 s’est assombrie de nouveau.\
-- “Quoi ?”\
-- “Il y avait dix charges sur le pont, sur toute sa longueur. Elles
+— “Quoi ?”\
+— “Il y avait dix charges sur le pont, sur toute sa longueur. Elles
 n’étaient pas dans des coffres de voitures. Elles avaient été installées
 là. Qui les a placées, et comment y sont-ils arrivés ?”\
-- “Quoi ?”, j’ai répété.\
-- “C’est ta dernière chance, Marcus”, elle a dit. Elle a pris l’air
+— “Quoi ?”, j’ai répété.\
+— “C’est ta dernière chance, Marcus”, elle a dit. Elle a pris l’air
 triste. “Tu t’en tirais si bien jusqu’à maintenant. Dis-nous et tu
 pourras rentrer chez toi. Tu pourras prendre un avocat et te défendre
 devant un tribunal. Il y a certainement des circonstances atténuantes
 que tu pourras plaider pour expliquer tes actes. Dis-nous cette dernière
 chore, et tu seras libre.”\
-- “Je ne sais pas de quoi vous parlez !” Je pleurais et je ne m’en
+— “Je ne sais pas de quoi vous parlez !” Je pleurais et je ne m’en
 souciais même pas. Sanglottant, morveux. “Je n’ai aucune idée de quoi
 vous parlez !” Elle a secoué la tête.\
-- “Marcus, s’il-te-plaît. Laisse-nous t’aider. Depuis le temps, tu as
+— “Marcus, s’il-te-plaît. Laisse-nous t’aider. Depuis le temps, tu as
 compris que nous finissons toujours par obtenir ce que nous voulons.” Il
 y avait une sorte de murmure au fond de mon esprit. Ils étaient fous. Je
 me sus ressaisi, me battant pour ravaler mes larmes.\
-- “Écoutez, madame, c’est du déélire. Vous avez fouillé mes affaires,
+— “Écoutez, madame, c’est du déélire. Vous avez fouillé mes affaires,
 vous avez tout vu. Je suis un lycéen de 17 ans, pas un terroriste ! Vous
 ne pensez pas sérieusement –”\
-- “Marcus, tu n’as pas compris que nous sommes sérieux ?” Elle a secoué
+— “Marcus, tu n’as pas compris que nous sommes sérieux ?” Elle a secoué
 la tête. “Tu as d’assez bonnes notes au lycée. J’aurais cru que tu
 serais plus intelligent que ça.”\
 Elle a fait un geste et les gardes m’ont soulevé par les aisselles.
@@ -452,35 +452,35 @@ brillant et je la poussais aux larmes. Mais vous savez quoi ? Aucune de
 ces paroles ne m’est revenue quand ils m’ont rappelé le lendemain. La
 seule chose à laquelle je pensais, c’était ma liberté. Mes parents.
 
-- “Bonjour, Marcus”, a-t-elle dit. “Comment vas-tu ?”\
+— “Bonjour, Marcus”, a-t-elle dit. “Comment vas-tu ?”\
 J’ai regardé la table. Elle avait une pile de documents bien rangée
 devant elle, et son éternelle tasse de café Starbucks à côté. J’ai
 trouvé ça bizarrement réconfortant, un rappel qu’il existait un monde
 réel dehors quelque part, au-delà des murs.\
-- “Nous avons fini notre enquête sur toi, pour le moment.”\
+— “Nous avons fini notre enquête sur toi, pour le moment.”\
 Elle s’est interrompue là. Peut-être cela signifiait-il qu’elle me
 relâchait. Peut-être que cela voulait dire qu’elle me jetterait dans un
 puit et oublierait mon existance.\
-- “Et ?”, ai-je dit finalement.\
-- “Et je veux te signifier une nouvelle fois à quel point nous sommes
+— “Et ?”, ai-je dit finalement.\
+— “Et je veux te signifier une nouvelle fois à quel point nous sommes
 sérieux. Notre pays a connu lepire attentat terroriste jamais commis sur
 son territoire. Combien de Onze Septembre veux-tu que nous subissions
 avant de collaborer ? Les détails de nos enquêtes sont secrets. Nous ne
 reculerons devant rien pour traîner ceux qui ont perpétré ces crimes
 atroces devant la justice. Tu comprends bien ?”\
-- “Oui”, j’ai marmonné.\
-- “nous allons te renvoyer chez toi aujourd’hui, mais tu es en sursis.
+— “Oui”, j’ai marmonné.\
+— “nous allons te renvoyer chez toi aujourd’hui, mais tu es en sursis.
 Tu restes suspect — nous te relâchons uniquement parce que nous en avons
 fini avec les interrogatoires. Mais depuis maintenant, tu nous
 appartiens. Nous te surveillerons. Nous attendrons que tu fasses une
 erreur. Tu comprends que nous pouvons te surveiller de près, en
 permanence ?”\
-- “Oui”, ai-je murmuré.\
-- “Bien. Tu ne parleras jamais de ce qui s’est psasé ici à personne,
+— “Oui”, ai-je murmuré.\
+— “Bien. Tu ne parleras jamais de ce qui s’est psasé ici à personne,
 jamais. C’est une question de sécurité nationale. Tu as conscience que
 la peine de mort est applicable aux traîtres en temps de guerre ?”\
-- “Oui”.\
-- “Quel gentil garçon”, a-t-elle minaudé. “Nous avons ici des papiers
+— “Oui”.\
+— “Quel gentil garçon”, a-t-elle minaudé. “Nous avons ici des papiers
 que tu dois signer”.\
 Elle a poussé la pile de papiers à travers la table dans ma directoin.
 Des petits post-its imprimés “SIGNER ICI” étaient collés un peu partout.
@@ -489,7 +489,7 @@ se sont mouillés, et ma tête s’est bouillée. Je n’y comprenais rien.
 J’ai tenté de décrypter le jargon légal. Il semble que je signais une
 déclaration selon laquelle j’avais été détenu volontairement et soumis à
 des interrogatoires volontairement, à ma propre demande.\
-- “Qu’est-ce qui se passe si je refuse de signer ?” ai-je demandé.\
+— “Qu’est-ce qui se passe si je refuse de signer ?” ai-je demandé.\
 Elle a repris vivement les papiers et fait ce même geste. Les gardes
 m’ont jeté sur mes pieds. “Attendez !” ai-je crié “S’il-vous-plaît ! Je
 vais signer !”. Ils m’ont traîné vers la porte. Tout ce que je pouvais

@@ -33,12 +33,12 @@ quelqu’un d’autre s’enfonçait dans mon dos. Darryl était toujours à mes
 côtés — assez grand pour être difficile à bousculer, et Jolu était juste
 derrière lui, plus ou moins cramponné à sa ceinture. J’ai entrevu
 Vanessa quelques mètres plus loin, coincée par d’autres personnes.\
-- “Allez vous faire foutre !”, j’ai entendu Vanessa hurler, “Pervers !
+— “Allez vous faire foutre !”, j’ai entendu Vanessa hurler, “Pervers !
 Ôtez vos pattes de moi !”\
 J’ai lutté pour me retourner et j’ai vu Van regarder avec dégoût un type
 plus vieux dans un beau costume qui ricanait en la fixant. Elle
 fouillait dans son sac et je savais ce qu’elle y cherchait.\
-- “Pas ton lacrymo !” j’ai hurlé par-dessus la foule. “Tu vas tous nous
+— “Pas ton lacrymo !” j’ai hurlé par-dessus la foule. “Tu vas tous nous
 gazer !”\
 A la mention du gaz lacrymogène, le type a eu l’air terrifié et à en
 quelque sorte fondu en arrière, malgré la foule qui le poussait en
@@ -61,19 +61,19 @@ que ce que j’aurais jamais été en temps normal.
 Les gens s’empilaient encore sur les escaliers, et d’autres encore se
 faufilaient à travers les tourniquets et les escalators jusqu’aux quais,
 mais il m’apparaissait clairement que tout cela allait mal finir.\
-- “On tente notre chance en haut ?”, j’ai dit à Darryl.\
-- “Oui, ouh là oui !” il a dit. “Ici, c’est l’horreur !”\
+— “On tente notre chance en haut ?”, j’ai dit à Darryl.\
+— “Oui, ouh là oui !” il a dit. “Ici, c’est l’horreur !”\
 J’ai jeté un coup d’oeil à Vanessa — il n’y avait aucune chance pour
 qu’elle m’entende. J’ai réussi à sortir mon téléphone et à lui envoyer
 un message : “on sort d’ici !” Je l’ai vue sentir la vibration de son
 smartphone, baisser son regard vers l’écran, le relever vers moi et
 faire un “oui” vigoureux de la tête. Entre-temps, Darryl avait mis Jolu
 au courant.\
-- “C’est quoi, le plan ?” a hurlé Darryl dans mon oreille\
-- “On va devoir retourner sur nos pas !”, j’ai répliqué en criant et en
+— “C’est quoi, le plan ?” a hurlé Darryl dans mon oreille\
+— “On va devoir retourner sur nos pas !”, j’ai répliqué en criant et en
 montrant du doigt la marée sans pitié des corps.\
-- “C’est impossible !”\
-- “Ca va devenir de plus en plus impossible si on attend !”\
+— “C’est impossible !”\
+— “Ca va devenir de plus en plus impossible si on attend !”\
 Il a haussé les épaules. Van s’est faufilée jusqu’à moi et m’a pris le
 poignet. J’ai saisi Darryl et Darryl a empoigné Jolu par l’autre main,
 et nous nous sommes frayé un chemin vers la sortie. Ca n’a pas été
@@ -102,15 +102,15 @@ lorsque Darryl est tombé en avant. Nous avons tous crié et Vanessa l’a
 attrapé et retourné. Le côté gauche de sa chemise était maculé de rouge,
 et la tache s’étendait. Elle a relevé la chemise et révélé une longue et
 profonde estafilade dans le gras de son flanc.\
-- “Quelqu’un l’a carrément poignardé dans la foule !”, s’est exclamé
+— “Quelqu’un l’a carrément poignardé dans la foule !”, s’est exclamé
 Jolu, les poigs serrés. “Bon dieu, c’est dégueulasse !”\
 Darryl a grogné et nous a jeté un regard, puis a regardé son côté,
 grogné et sa tête est repartie en arrière. Vanessa a retiré sa veste en
 jeans et enlevé le hoodie en coton qu’elle portait dessous. Elle l’a
 roulé et l’a pressé contre le flanc de Darryl.\
-- “Occupe-toi de sa tête”, elle m’a dit. “Maintiens-la droite !”\
+— “Occupe-toi de sa tête”, elle m’a dit. “Maintiens-la droite !”\
 A Jolu, et a dit :\
-- “relève-lui les pieds — roule ton manteau ou quelque chose comme ça”\
+— “relève-lui les pieds — roule ton manteau ou quelque chose comme ça”\
 Jolu a fait vite. La mère de Vanessa est infirmière, et elle reçoit des
 cours de premiers secours chaque été en camps de vacances. Elle adore
 voir les personnages de films faire n’importe quoi en premier secours et
@@ -119,24 +119,24 @@ sommes restés assis longtemps, à presser le hoodie sur la blessure de
 Darryl. Il répétait avec insistance qu’il allait très bien et qu’on
 devrait le laisser de remettre debout, et Van lui répétait de la fermer
 et de rester tranquille et couché sinon elle lui botterait le cul.\
-- “On ne devrait pas appeler le 911 ?”, a demandé Jolu.\
+— “On ne devrait pas appeler le 911 ?”, a demandé Jolu.\
 Je me suis senti idiot. J’ai dégainé mon téléphone et composé le 911. La
 tonalité que j’ai obtenue n’était même pas le signal d’une ligne occupée
 — c’était une sorte de gémissement de douleur du système de télépone. On
 n’obtient pas de signal pareil à moins qu’il n’y ait trois millions de
 personnes qui appellent le même numéro en même temps. A quoi servent les
 botnets quand il y a des terroristes ?\
-- “Et Wikipédia ?”, a dit Jolu.\
-- “Pas de télépone, pas de données”, j’ai dit.\
-- “Et eux ?”, a demandé Darryl en montrant la rue du doigt.\
+— “Et Wikipédia ?”, a dit Jolu.\
+— “Pas de télépone, pas de données”, j’ai dit.\
+— “Et eux ?”, a demandé Darryl en montrant la rue du doigt.\
 J’ai regardé ce qu’il montrait, m’attendant à y voir un flic ou un
 ambulancier, mais il n’y avait personne.\
-- “Tout va bien, mon pote, reste tranquille”.\
-- “Mais non, idiot, et eux, les flics dans les voitures ? Là-bas !”\
+— “Tout va bien, mon pote, reste tranquille”.\
+— “Mais non, idiot, et eux, les flics dans les voitures ? Là-bas !”\
 Il avait raison. Toutes les cinq secondes, une voiture de polie, une
 ambulance ou un camion de pompier passaient à toute vitesse. Ils
 pourraient nous aider. J’était vraiment un idiot.\
-- “Allons-y, alors”, j’ai dit, “on va là où ils pourront nous voir et on
+— “Allons-y, alors”, j’ai dit, “on va là où ils pourront nous voir et on
 en arrête une.”\
 Vanessa n’aimait pas l’idée, mais je me suis dit qu’un flic ne
 s’arrêterait pas pour un gosse qui agitait son chapeau, pas ce jour-là.
@@ -184,11 +184,11 @@ paquet, mes bras tordus derrière mon dos, mes épaules hurlant de
 douleur. J’ai titubé, une main m’a baissé la tête, et je me suis
 retrouvé à l’intérieur du Hummer. D’autres corps ont été empilés
 brutalement à côté de moi.\
-- “Les gars ?”, j’ai hurlé, ce qi m’a valu un gros coup sur la tête pour
+— “Les gars ?”, j’ai hurlé, ce qi m’a valu un gros coup sur la tête pour
 ma peine.\
 J’ai entendu Jolu répondre, et je l’ai senti se faire battre aussi. Ma
 tête sonnait comme un gong.\
-- “Hé”, j’ai dit aux soldats, “Hé, écoutez ! On est juste des lycéens.
+— “Hé”, j’ai dit aux soldats, “Hé, écoutez ! On est juste des lycéens.
 Je voulais juste vous arrêter parce que mon copain saigne. Quelqu’un lui
 a donné un coup de couteau.” Je n’avais aucune idée de ce qui pouvait
 passer à travers le sac. J’ai continué à parler. “Ecoutez — c’est un
@@ -301,18 +301,18 @@ flippant. Si l’on regarde quelqu’un assez longtemps, il finit par vous
 rendre votre regard. C’est ce qu’elle a fait, et son visage a basculé en
 une toute autre configuration, froide, presque robotique. Le sourire a
 disparu en un clin d’oeil.\
-- “Hé”, j’ai dit. “Ecoutez, je ne comprends pas ce qui se passe ici,
+— “Hé”, j’ai dit. “Ecoutez, je ne comprends pas ce qui se passe ici,
 mais il faut vraiment que je pisse, vous pigez ?”\
 Elle m’a regardé comme si elle n’avait pas entendu.\
-- “Je suis sérieux, si je ne trouve pas des toilettes tout bientôt, il
+— “Je suis sérieux, si je ne trouve pas des toilettes tout bientôt, il
 va y avoir un accident. Ca va puer ici, vous voyez ?”\
 Elle s’est tournée vers ses collègues, une petite bande de trois d’entre
 eux, et ils conversé à voix basse sans que je puisse les entendre avec
 le bruit des ventilateurs des ordinateurs. Elle s’est retournée vers moi
 :\
-- “Tu attends encore dix minutes, à ce moment vous aurez tous droit à un
+— “Tu attends encore dix minutes, à ce moment vous aurez tous droit à un
 tour pour aller pisser.”\
-- “Je ne crois pas que je vais tenir encore dix minutes”, j’ai dit, en
+— “Je ne crois pas que je vais tenir encore dix minutes”, j’ai dit, en
 injectant dans ma voix juste un peu plus de détresse que ce que je
 ressentais réellement. “Sérieux, madame, c’est maintenant ou c’est trop
 tard.”\
@@ -327,8 +327,8 @@ Américain, d’ue façon indéfinissable.
 Il a écarté son blouson pour que je vois l’équipement qui y était
 dissimulé : j’ai reconnu un pistolet automatique, un tazer et une bombe
 de gaz lacrymogène ou un spray ou poivre.\
-- “Pas de boxon”, il a dit\
-- “Aucun”, ai-je acquiescé.\
+— “Pas de boxon”, il a dit\
+— “Aucun”, ai-je acquiescé.\
 Il a touché quelque chose sur la ceinture et les menottes dans mon dos
 on se sont ouvertes, et mes bras sont retombés brusquement. C’est comme
 s’il avait porté la ceinture mutli-usage de Batman — une télécommande
@@ -349,8 +349,8 @@ relevé, et j’ai titubé comme un clown jusqu’à l’extrémité du camion,
 jusqu’à une cabine de toilettes mobiles installée là. J’ai essayé de
 repérer Darryl en revenant, mais il aurait pu être l’une ou l’autre de
 cinq ou six personnes avachies. Ou aucune d’elles.\
-- “Rentre là-dedans”, m’a dit le type. J’ai secoué mes poignets.\
-- “Vous pourriez m’enlever ça, s’il-vous-plaît ?” Mes doigts étaient
+— “Rentre là-dedans”, m’a dit le type. J’ai secoué mes poignets.\
+— “Vous pourriez m’enlever ça, s’il-vous-plaît ?” Mes doigts étaient
 comme des saucisses violettes à cause des heures de bondage dans les
 menottes en plastique. Le type n’a pas bronché. “Écoutez”, ai-je dit en
 faisant de mon mieux pour ne paraître ni sarcastique, si aggressif (et
@@ -363,7 +363,7 @@ gens étaient tellement raides ! Il a porté la main à sa ceinture et a
 produit un magnifique multi-outil. Il en a sorti une lame de couteau à
 l’air féroce, l’a passée a travers les liens de plastique, et mes mains
 se redevenues miennes.\
-- “Merci”, ai-je dit. Il m’a poussé dans les toilettes. Mes mains ne
+— “Merci”, ai-je dit. Il m’a poussé dans les toilettes. Mes mains ne
 servaient plus à rien, comme si elles étaient des tas de glaise au bout
 de mes bras. J’ai agité mes doigts gourds, et j’ai commencé à les sentir
 me chatouiller faiblement, puis me brûler avec une force qui m’a mis les
@@ -382,8 +382,8 @@ qu’un distributeur industriel de désinfectant pour les mains, recouvert
 d’inscriptions en toutes petites lettres donnant la liste des agents
 biologiques contre lesquels il était efficace. Je me suis frotté les
 mains avec et je suis resorti des toilettes.\
-- “Qu’est-ce que tu faisais là-dedans ?”, le type m’a demandé.\
-- “J’utilisais les toilettes”, ai-je répondu.\
+— “Qu’est-ce que tu faisais là-dedans ?”, le type m’a demandé.\
+— “J’utilisais les toilettes”, ai-je répondu.\
 Il m’a retourné, m’a attrapé les mains, et j’ai senti une nouvelle paire
 de menottes s’enrouler autours. Mes poignets avaient gonflé depuis que
 la dernière paire m’avait été enlevée, et les nouvelles mordaient
@@ -391,11 +391,11 @@ cruellement dans ma chair, mais j’ai refusé de leur offrir le plaisir de
 crier. Il m’a entravé à ma place et a attrapé la personne suivante, qui,
 je le voyais maintenant, était Jolu, son visage tout gonflé avec un
 méchant hématome sur la joue.\
-- “Ca va ?”, je lui ai demandé, et mon bon copain à la ceinture
+— “Ca va ?”, je lui ai demandé, et mon bon copain à la ceinture
 mutli-usages a brusquement mis sa main sur mon front et m’a repoussé
 violemment, me cognant l’occiput contre la paroi métallique du camion
 avec le bruit d’une horloge qui sonne l’heure.\
-- “Pas de bavardage”, m’a-t-il dit alors que je m’efforçais de remettre
+— “Pas de bavardage”, m’a-t-il dit alors que je m’efforçais de remettre
 mes yeux au point. Je m’aimais pas des gens. C’est alors que j’ai décidé
 qu’ils payeraient pour tout ça.
 
@@ -423,7 +423,7 @@ entrevues duraient environ sept minutes chacune. Ma tête battait de
 déshydratation et de manque de cafféine. Je suis passé en troisième,
 conduit par la femme coiffée sévèrement. De près, elle avait l’air
 fatiguée, les yeux cernés et des rides amères aux coins de la bouche.\
-- “Merci”, ai-je dit, machinalement, quand elle m’a libéré avec sa
+— “Merci”, ai-je dit, machinalement, quand elle m’a libéré avec sa
 télécommande et traîné sur mes pieds. Je me suis détesté pour la
 politesse automatique, mais j’avais été éduqué comme ça. Aucun de ses
 muscles n’a frémis. Je l’ai précédée vers l’arrière du camion, derrière
@@ -432,34 +432,34 @@ suis assis. Deux d’entre eux — la nana Coupe à la Serpe et le type à la
 ceinture multi-fonctions — m’ont toisé depuis leurs super-chaises
 ergonomiques. Il y avait une petite table entre eux où tout le contenu
 de mo porte-feuille et de mon sac à dos était étalé.\
-- “Bonjour, Marcus”, a dit Coupe-à-la-Serpe. “Nous avons quelques
+— “Bonjour, Marcus”, a dit Coupe-à-la-Serpe. “Nous avons quelques
 questions à te poser”\
-- “Suis-je en état d’arrestation ?”, j’ai demandé. Ca n’était pas une
+— “Suis-je en état d’arrestation ?”, j’ai demandé. Ca n’était pas une
 question de pure forme. Si vous n’être pas en état d’arrestation, il y a
 des limites à ce que les flics peuvent et ne peuvent pas vous faire.
 Pour commence, ils ne peuvent pas vous garder en détention indéfiniment
 sans vous arrêter, vous permettre de passer un coup de télépohone, et
 vous offrir un entretien avec un avocat. Et bon sang, qu’est-ce que
 j’allais parler à un avocat.\
-- “A quoi ça sert, ça ?”, m’a-t-elle demandé en brandissant mon
+— “A quoi ça sert, ça ?”, m’a-t-elle demandé en brandissant mon
 smartphone. L’écran montrait le message d’erreur que l’on obtient si
 l’on essaye d’accéder à ses données sans en connaître le mot de passe.
 C’était un message assez grossier — une main animée faisant un geste
 universellement compris — parce que j’aime bien paramétrer mon matériel
 en fonction de mes goûts.\
-- “Est-ce que je suis en état d’arrestation ?”, j’ai répété. On ne peut
+— “Est-ce que je suis en état d’arrestation ?”, j’ai répété. On ne peut
 pas vous forcer à répondre à quelque question que ce soit si vous n’être
 pas officiellement arrêté, et quand vous demandez si vous êtes en état
 d’arrestation, ils doivent vous répondre. C’est la règle.\
-- “Vous êtes retenu par le Departement de la Sécurité Intérieure”,
+— “Vous êtes retenu par le Departement de la Sécurité Intérieure”,
 a-t-elle répondu sèchement.\
-- “Suis-je en état d’arrestation ?”\
-- “Tu vas être plus coopératif que ça, Marcus, et à partir d’exactement
+— “Suis-je en état d’arrestation ?”\
+— “Tu vas être plus coopératif que ça, Marcus, et à partir d’exactement
 maintenant”. Elle n’a pas dit “ou sinon…”, mais c’était sous-entendu.\
-- “Je souhaiterais prendre contact avec un avocat”, j’ai dit. “Je
+— “Je souhaiterais prendre contact avec un avocat”, j’ai dit. “Je
 voudrais savoir de quoi je suis inculpé. J’aimerais bien voir vos
 cartes, à tous les deux.” Les deux agents ont échangé un coup d’oeil.\
-- “Je pense que tu devrais réfléchir à ta façon d’aborder la situation
+— “Je pense que tu devrais réfléchir à ta façon d’aborder la situation
 actuelle”, a dit Coupe-à-la-Serpe. “Je pense vraiment que tu devrais y
 repenser tout de suite. Nous avons trouvé un certain nombre
 d’accessoires suspects sur ta personne. Nous t’avons trouvé, toi et tes
@@ -467,13 +467,13 @@ complices, à proximité du lieu du plus terrible attentat terroriste que
 ce pays ait jamais subit. Additionne ces deux éléments, et ton avenir
 parait sombre, Marcus. Tu peux collaborer, ou alors tu peux le regreter
 très, très amèrement. Donc, ce truc, qu’est-ce que c’est ?\
-- “Vous pensez que je suis un terroriste ? J’ai dix-sept ans !”\
-- “Juste l’âge idéal — Al Qaeda apprécie les jeunes recrues
+— “Vous pensez que je suis un terroriste ? J’ai dix-sept ans !”\
+— “Juste l’âge idéal — Al Qaeda apprécie les jeunes recrues
 impressionables et idéalistes. Nous avons cherché ton nom sur Google, tu
 sais. Tu as posté pas mal de vraiment sales trucs sur Internet”\
-- “Je voudrais parler à un avocat”, j’ai dit.\
+— “Je voudrais parler à un avocat”, j’ai dit.\
 Coupe-à-la-Serpe m’a regardé comme si j’étais un cafard.\
-- “Tu sembles entretenir l’illusion d’avoir été appréhendé par la police
+— “Tu sembles entretenir l’illusion d’avoir été appréhendé par la police
 pour un délit. Tu devrais abandonner cette idée. Tu en détenu comme
 combattant ennemi potentiel par le gouvernement des Etats-Unis. Si
 j’étais toi, je penserais très fort à une façon de nous convaincre que
@@ -484,16 +484,16 @@ simplement. Pour toujours. Tu m’écoutes, jeune homme ? Je veux que tu
 dévérouilles ce téléphone et que tu décryptes les fichiers contenus dans
 sa mémoire. Je veux que tu te justifies : pourquoi est-ce que tu étais
 dans la rue ? Qu’est-ce que tu sais de l’attentat sur la ville ?”\
-- “Je ne vous déverrouillerai pas mon téléphone”, j’ai dit, indigné. La
+— “Je ne vous déverrouillerai pas mon téléphone”, j’ai dit, indigné. La
 mémoire de mon téléphone contient tout un tas de trucs privés : des
 photos, des e-mails, des bricolages et des mods que j’y ai installés.
 “C’est du matériel privé”.\
-- “Qu’est-ce que tu as à cacher ?”\
-- “J’ai droit à ma vie privée !”, ai-je répondu. “Et je veux parler à un
+— “Qu’est-ce que tu as à cacher ?”\
+— “J’ai droit à ma vie privée !”, ai-je répondu. “Et je veux parler à un
 avocat.”\
-- “C’est ta dernière chance, gamin. Les honnêtes gens n’ont rien à
+— “C’est ta dernière chance, gamin. Les honnêtes gens n’ont rien à
 cacher.”\
-- “Je veux parler à un avocat.” Mes parents me le payeraient. Toutes les
+— “Je veux parler à un avocat.” Mes parents me le payeraient. Toutes les
 FAQ sur ce qui se passe quand on se fait arrêter étaient claires sur la
 question. Demandez à voir à avocat, quoi qu’on vous dise ou qu’on fasse.
 Parler aux flics hors la présence d’un avocat n’amène jamais rien de

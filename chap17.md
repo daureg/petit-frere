@@ -99,14 +99,14 @@ eux à intervalles aléatoires. Elle comprenait ça aussi — une fois qu’on\
 que\
 certaines choses prenaient un peu plus de temps, et que tout était\
 anonyme et impossible à tracer.\
-- Et maintenant, quoi ?, ai-je demandé en m’étirant.\
+— Et maintenant, quoi ?, ai-je demandé en m’étirant.\
 J’avais parlé à en avoir la gorge sèche et j’avais un goût acide
 terrible\
 à cause du café. D’autre part, Ange me serrait la main sous la table\
 constamment d’une façon qui me donnait terriblement envie de partir\
 chercher un endroit tranquille où nous réconcilier de notre première\
 dispute.\
-- Maintenant, je vais faire mon enquête de journaliste. Vous allez\
+— Maintenant, je vais faire mon enquête de journaliste. Vous allez\
 partir d’ici et je vais vérifier tout ce que vous m’avez dit pour\
 le confirmer dans la mesure du possible. Je vous ferai relire ce que\
 je me préparerai à publier et je vous dirai quand ça sortira. Je\
@@ -136,7 +136,7 @@ un personnage public. Je serais le type qui aurait dénoncé le DSI. Je\
 serais un mort sur pieds. Je suppose qu’Ange défléchissait dans les
 mêmes\
 termes, parce qu’elle a pris une teinte vert clair.\
-- Sortons d’ici, a-t-elle enjoint.
+— Sortons d’ici, a-t-elle enjoint.
 
 La mère d’Ange et sa soeur étaient de sortie encore une fois, ce qui
 nous\
@@ -223,11 +223,11 @@ doucement\
 à côté d’elle et lui ai pris la main. Elle a tourné son visage vers le
 mien\
 et m’a souri. Nous étions tous deux exténués, tremblants.\
-- Merci, a-t-elle dit.\
+— Merci, a-t-elle dit.\
 Je n’ai rien répondu. Elle m’a regardé bien en face. Son sourire était\
 immense, mais de grosse larmes roulaient sur ses joues. Je l’ai serrée\
 contre moi et elle m’a aggripé.\
-- Tu es un homme bien, Marcus Yallow, a-t-elle murmuré. Merci.\
+— Tu es un homme bien, Marcus Yallow, a-t-elle murmuré. Merci.\
 Je ne savais pas quoi dire, mais je l’ai serrée dans mes bras aussi.
 Finalement,\
 nous nous sommes séparés. Elle ne pleurait plus, mais elle souriait
@@ -357,27 +357,27 @@ chamade et mon sang chantant en une cruelle parodie de la façon dont je\
 m’étais senti quand nous étions rentrés. Ceci n’était pas de
 l’excitation\
 sexuelle, mais de la pure terreur.\
-- Quoi, a demandé Ange. Quoi ?\
+— Quoi, a demandé Ange. Quoi ?\
 J’ai montré du doigt l’écran de mon côté du lit. Elle s’est roulée, a\
 attrapé mon clavier et a effleuré le touchpad du bout de ses doigts.\
 Elle a lu en silence. Je faisais les cent pas.\
-- Ce doit être des mensonges, a-t-elle dit. Le DSI essaye de te faire
+— Ce doit être des mensonges, a-t-elle dit. Le DSI essaye de te faire
 paniquer.\
 Je l’ai regardée. Elle se mordait la lèvre. Elle n’avait pas l’air d’y
 croire.\
-- Tu penses ?\
-- Sûr. Ils ne peuvent pas t’avoir, alors ils essayent en utilisant
+— Tu penses ?\
+— Sûr. Ils ne peuvent pas t’avoir, alors ils essayent en utilisant
 Xnet.\
-- Mouais.\
+— Mouais.\
 Je me suis rassis sur le lit. J’hyperventilais de nouveau.\
-- Décontracte-toi, a-t-elle dit. C’est juste de l’intox. Regarde.\
+— Décontracte-toi, a-t-elle dit. C’est juste de l’intox. Regarde.\
 Elle ne m’avait jamais pris mon clavier auparavant, mais il y avait\
 une nouvelle sorte d’intimité entre nous. Elle a cliqué Répondre, et
 tapé:\
 \> Bien essayé.\
 Elle écrivait au nom de M1k3y, maintenant, aussi. Nous étions ensemble\
 d’une façon différente d’avant.\
-- Vas-y, signe. On verra bien ce qu’elle répond.\
+— Vas-y, signe. On verra bien ce qu’elle répond.\
 Je ne savais pas si c’était la meilleure idée possible, mais je n’en
 n’avais pas\
 de meilleure. J’ai signé et encrypté avec ma clef privée et avec la clef
@@ -571,7 +571,7 @@ l’écran,\
 chacun prenant des notes aussi vite qu’ils pouvaient taper, essayant de
 briller\
 à ses yeux.\
-- … disent que l’autorité les met en colère, mais nous devons montrer
+— … disent que l’autorité les met en colère, mais nous devons montrer
 au\
 pays que ce sont les terroristes, et non le gouvernement, dont ils
 devraient\
@@ -592,7 +592,7 @@ comprendra\
 que le danger est partout.
 
 Son audience a cessé de taper.\
-- Nous pouvons contrôler ça, je pense, a dit Coupe-à-la-Serpe. Nous
+— Nous pouvons contrôler ça, je pense, a dit Coupe-à-la-Serpe. Nous
 homme\
 à l’intérieur du Xnet se sont constitué un influence considérable. Les\
 bloggeurs mandchouriens font tourner jusqu’à cinquante blogs chacun,\
@@ -603,10 +603,10 @@ même\
 lorsque M1k3y essaye de calmer les choses.
 
 Le Général Sutherland a acquiescé.\
-- Notre plan est de les garder discrets jusqu’à un mois après les
+— Notre plan est de les garder discrets jusqu’à un mois après les
 élections\
 de mi-mandat. C’était notre plan à l’origine. Mais il semble…\
-- Nous avons d’autres idées pour les élections, a fait Rooney. C’est
+— Nous avons d’autres idées pour les élections, a fait Rooney. C’est
 strictement\
 confidentiel, évidemment, mais vous devriez probablement éviter tous
 éviter\
@@ -622,7 +622,7 @@ l’écran. Ange s’est baissée et a relancé la vidéo. Nous l’avons
 regardée. C’était\
 encore pire la seconde fois.\
 J’ai écarté le clavier et je me suis levé.\
-- J’en ai assez d’avoir peur. Apportons ça à Barbara et qu’elle publie
+— J’en ai assez d’avoir peur. Apportons ça à Barbara et qu’elle publie
 tout !\
 Mettons-le sur Internet. Qu’ils me fassent disparaître. Au moins que
 saurai\
@@ -630,7 +630,7 @@ ce qui m’arrivera. Au moins j’aurai un minimum de certitude dans ma vie
 !
 
 Ange m’a agrippé, m’a serré dans ses bras et m’a bercé.\
-- Je sais, chéri, je sais. C’est terrible. Mais tu te concentres sur ce
+— Je sais, chéri, je sais. C’est terrible. Mais tu te concentres sur ce
 qui ne\
 va pas et tu ignores le bon côté des choses. Tu as créé un mouvement. Tu
 as\
@@ -651,7 +651,7 @@ systèmes\
 dans les rues de San Francisco et tu les as humiliés à la face du monde
 entier.\
 Alors cesse de t’appitoyer, d’accord ? Tu tiens la victoire.\
-- Mais ils sont sur le point de m’avoir. Tu as bien vu. Ils vont le
+— Mais ils sont sur le point de m’avoir. Tu as bien vu. Ils vont le
 jeter en\
 prison pour toujours. Même pas en prison. Ils me feront simplement
 disparaître,\
@@ -661,39 +661,39 @@ Pourquoi est-ce qu’ils me laisseraient à San Francisco ? Je suis une
 épine dans\
 leur pied tant que je suis aux USA.\
 Elle s’est assise sur le lit à mes côtés.\
-- Ouais, a-t-elle répondu, il y a ça.\
-- Il y a ça.\
-- Bon, tu sais ce qui nous reste à faire, n’est-ce pas ?\
-- Quoi ?\
+— Ouais, a-t-elle répondu, il y a ça.\
+— Il y a ça.\
+— Bon, tu sais ce qui nous reste à faire, n’est-ce pas ?\
+— Quoi ?\
 Elle a désigné le clavier du regard. Je voyais des larmes rouler sur ses
 joues.\
-- Non ! Tu es cinglée ! Tu penses que je vais m’enfuir avec je ne sais
+— Non ! Tu es cinglée ! Tu penses que je vais m’enfuir avec je ne sais
 quelle\
 folle rencontrée sur Internet ? Une espionne ?\
-- Tu as mieux à proposer ?\
+— Tu as mieux à proposer ?\
 J’ai envoyé une pile de linge en l’air d’un coup de pied.\
-- Très bien. Tout ce que tu voudras. Je vais lui parler.\
-- Parle-lui, a dit Ange. Dis-lui que toi et ta copine allez partir.\
-- Quoi ?\
-- Ferme-là, Ducon. Tu te crois en danger ? Je suis tout autant en
+— Très bien. Tout ce que tu voudras. Je vais lui parler.\
+— Parle-lui, a dit Ange. Dis-lui que toi et ta copine allez partir.\
+— Quoi ?\
+— Ferme-là, Ducon. Tu te crois en danger ? Je suis tout autant en
 danger,\
 Marcus. Ca s’appelle complicité. Si tu plonges, je plonge.\
 Son menton protubérait à un angle menaçant.\
-- Toi et moi — on est dedans ensemble, maintenant. Tu dois te mettre ça
+— Toi et moi — on est dedans ensemble, maintenant. Tu dois te mettre ça
 dans le\
 crâne.\
 Nous nous sommes assis ensemble sur le lit.\
-- A moins que tu ne veuilles pas de moi, a-t-elle dit au bout d’un
+— A moins que tu ne veuilles pas de moi, a-t-elle dit au bout d’un
 moment,\
 d’une toute petite voix.\
-- Tu plaisantes, n’est-ce pas ?\
-- Est-ce que j’ai l’air de plaisanter ?\
-- En aucun pas je ne partirais volontairement sans toi, Ange. Je ne
+— Tu plaisantes, n’est-ce pas ?\
+— Est-ce que j’ai l’air de plaisanter ?\
+— En aucun pas je ne partirais volontairement sans toi, Ange. Je ne
 t’aurais\
 jamais demandé de venir, mais je suis extatique que tu aies proposé.
 
 Elle a souri et m’a lancé mon clavier.\
-- Envoie un mail à cette créature de Masha. Voyons ce que cette nana
+— Envoie un mail à cette créature de Masha. Voyons ce que cette nana
 peut faire\
 pour nous.
 
@@ -737,9 +737,9 @@ ne pas\
 aborder le sujet au téléphone. C’était une idée de mon père. Il pouvait
 devenir\
 tout aussi paranoïaque que moi.\
-- Il faut que j’y aille, ai-je dit.\
-- Nos parents vont…\
-- Je sais, ai-je répondu. J’ai vu ce que ça a donné quand mes parents
+— Il faut que j’y aille, ai-je dit.\
+— Nos parents vont…\
+— Je sais, ai-je répondu. J’ai vu ce que ça a donné quand mes parents
 m’ont\
 cru mort. Me savoir en fuite ne va pas leur faire beaucoup mieux. Mais
 je\

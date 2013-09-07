@@ -20,13 +20,13 @@ confronter cet épineux problème. Amazon.*
 avait enseigné à l’université de Californie à Berkeley, ce qui lui
 aussurait la gratuité des frais d’inscription. Et dans sa maison, la
 question de s’il irait n’avait jamais été l’objet de débats.\
-- C’est très bien, mais tu ne pourrais pas étudier sur Internet ?\
-- Mon père m’a dit que je devrais le lire. Et puis, je n’avais pas
+— C’est très bien, mais tu ne pourrais pas étudier sur Internet ?\
+— Mon père m’a dit que je devrais le lire. Et puis, je n’avais pas
 l’intention de commettre des crimes aujourd’hui.\
-- Sécher les cours n’est pas un crime. C’est une infraction. Ca n’a rien
+— Sécher les cours n’est pas un crime. C’est une infraction. Ca n’a rien
 à voir.\
-- Qu’est-ce qu’on va faire, Marcus ?\
-- Eh bien, je ne peux pas le cacher, alors je vais devoir le bousiller
+— Qu’est-ce qu’on va faire, Marcus ?\
+— Eh bien, je ne peux pas le cacher, alors je vais devoir le bousiller
 aux micro-ondes.\
 L’extermination des Arphid relève de la magie noire. Aucun vendeur ne
 veut voir des clients mal intentionnés se promener dans ses rayons en
@@ -46,16 +46,16 @@ comme l’arphid ne répondrait plus du tout quand Darryl rendrait le livre
 recoderaient avec la cote du livre, et il se retrouverait tout nouveau
 tout brillant sur son étagère. Tout ce dont nous avions besoin, c’était
 un micro-ondes.\
-- “Donnons-nous encore deux minutes et la salle des maîtres sera vide”,
+— “Donnons-nous encore deux minutes et la salle des maîtres sera vide”,
 j’ai dit.\
 Darryl a agrippé son livre et s’est dirigé vers la porte.\
-- Oublie tout ça, je ne marche plus. Je vais en cours.\
+— Oublie tout ça, je ne marche plus. Je vais en cours.\
 J’ai attrapé son coude et l’ai traîné en arrière.\
-- Allez, D., calme. Tout va bien se passer.\
-- La salle des maîtres ? Tu n’as peut-être pas bien écouter, Marcus, si
+— Allez, D., calme. Tout va bien se passer.\
+— La salle des maîtres ? Tu n’as peut-être pas bien écouter, Marcus, si
 je me fais prendre encore une fois, c’est l’expulsion. Tu entends ?
 L’expulsion.\
-- Tu ne te feras pas prendre.\
+— Tu ne te feras pas prendre.\
 S’il y a un endroit qu’un prof ne surveillerait pas, ça serait la salle
 des maîtres. “On passera par l’entrée de derrière”. La salle avait une
 petite kitchenette sur un côté, avec sa propre entrée pour les profs qui
@@ -63,7 +63,7 @@ voulaient juste prendre une tasse de café au passage. Le micro-onde —
 qui dégoulinait toujours de restes de pop-corn et de soupe renversée —
 était installé là, posé sur un frigo miniature. Darryl a grogné. J’ai
 réfléchi très vite.\
-- Écoute, la cloche a déjà sonné. Si tu rentres en cours maintenant, tu
+— Écoute, la cloche a déjà sonné. Si tu rentres en cours maintenant, tu
 vas te prendre un avertissement pour retard. Tu es mieux barré en
 n’allant pas du tout. Je peux m’infiltrer et m’exfiltrer de n’importe
 quelle salle de ce campus, D. Tu m’as vu faire. Je te couvrirai, mec.\
@@ -107,10 +107,10 @@ enquête de gens à fliquer.\
 La dernière fois que Charles m’avait pris dans le pif, ça m’avait forcé
 à abandonner les GN. Je n’avais aucune intention de le laisser
 m’attrapper encore une foi.\
-- Qu’est-ce qu’il fait ?\
-- “Il vient par ici, voilà ce qu’il fait !”, a répondu Darryl d’une voix
+— Qu’est-ce qu’il fait ?\
+— “Il vient par ici, voilà ce qu’il fait !”, a répondu Darryl d’une voix
 tremblante.\
-- “Bon”, j’ai dit, “voici venu le temps des contremesures d’urgence”.\
+— “Bon”, j’ai dit, “voici venu le temps des contremesures d’urgence”.\
 J’ai sorti mon téléphone. J’avais préparé ça bien longtemps à l’avance.
 Charles ne me reprendrait plus jamais. J’ai envoyé un mail à un serveur
 chez moi, et l’engrenage s’est mis en mouvement. Quelques secondes plus
@@ -157,8 +157,8 @@ aurait été supposé faire ensuite — il était censé aller s’asseoir dans
 un coin pour trouver une façon de reprendre possession de son
 téléphone.  Darryl m’a secoué par l’épaule, et j’ai détourné mes yeux de
 la fente dans la porte.\
-- “Qu’est-ce qu’il fait ?”, a murmuré Darryl\
-- “J’ai bousillé son téléphone, mais là il est juste en train de le
+— “Qu’est-ce qu’il fait ?”, a murmuré Darryl\
+— “J’ai bousillé son téléphone, mais là il est juste en train de le
 regarder, au lieu de bouger”.\
 Ca ne serait pas facile de redémarrer ce truc. Une fois que la mémoire
 est totalement saturée, il lui serait difficile de charger le code dont
@@ -169,7 +169,7 @@ son oeil àla fente. L’instant d’après, ses épaules ont commencé à
 secouer. J’ai eu un moment de terreur à l’idée qu’il était pris de
 panique, mais alors il s’est reculé, et j’ai vu qu’il riait tellement
 fort qu’un flot de larmes coulait sur ses joues.\
-- Galvez vient de le massacrer pour avoir été dans les couloirs pendant
+— Galvez vient de le massacrer pour avoir été dans les couloirs pendant
 les cours et pour avoir eu un téléphone — tu aurais dû la voir le mettre
 en pièces. Elle y prenait vraiment plaisir.\
 Nous nous sommes serrés la main solennellement et sommes retournés en
@@ -202,11 +202,11 @@ qu’elle porte avec des tresse démentes et sophistiquées dont elle trouve
 les plans sur Internet. Elle a une jolie peau couleur du cuivre et des
 yeux sombres, et elle adorer porter des disques de verre de la taille de
 radis qui cliquette quand elle dance.\
-- “Où est Jolu ?” a-t-elle dit\
-- “Quuucomment ça va, Van?” a demandé Darryl d’une voix étranglée.\
+— “Où est Jolu ?” a-t-elle dit\
+— “Quuucomment ça va, Van?” a demandé Darryl d’une voix étranglée.\
 Il avait toujours un temps de retard dans la conversation quand il y
 avait Van.\
-- “Ca va super, D. Et toi, comment ça va, mon cher petit ?”\
+— “Ca va super, D. Et toi, comment ça va, mon cher petit ?”\
 Oh, c’était vraiment méchant.  Darryl a failli s’évanouir.\
 Jolu l’a sauvé du ridicule en apparaissant juste à ce moment, dans une
 veste de baseball trop grande pour lui, des baskets de luxe, et une
@@ -220,7 +220,7 @@ bas — ce qui était assez à la mode dans certains quartiers de la ville —
 et qu’elle couvrait tout son accoutrement d’école catholique, qui aurait
 servi de cible à tous les boulets qui ont le blog anti-courbe dans les
 signets de leur smartphone.\
-- “Qui est prêt ?”, j’ai demandé après qu’on s’est salués.\
+— “Qui est prêt ?”, j’ai demandé après qu’on s’est salués.\
 J’ai sorti mon smartphone et j’ai montré la carte que j’y avait
 téléchargé depuis BART. “Pour autant que j’aie pu comprendre, nous
 devons remonter vers Nikko, continuer d’un pâté jusqu’à O’Farrell, et
@@ -240,9 +240,9 @@ où tu voudrais traîner par là, c’est au grand jour. Aucun des autres
 joueurs ne va s’approcher de là avant demain au minimum. En ARG, on
 appelle ça une avance de fou.”\
 Julo m’a fait un grand sourire.\
-- “Tu vends bien ta cause”, il a dit.\
-- “C’est sûrement mieux que de manger des uni”, j’ai répondu.\
-- “On va continuer à discuter, ou on va gagner ?”, a dit Van.\
+— “Tu vends bien ta cause”, il a dit.\
+— “C’est sûrement mieux que de manger des uni”, j’ai répondu.\
+— “On va continuer à discuter, ou on va gagner ?”, a dit Van.\
 Après moi, elle était sans doute la plus mordue du jeu dans notre
 groupe. Elle prenait la victoire très, très au sérieux. Nous nous sommes
 mis en chemin, quatre bons amis, en route pour percer un mystère, gagner
@@ -273,12 +273,12 @@ près à trois pâtés de O’Farrell, juste avant Hyde Street, devant une
 boutique de “massages asiatiques” chelou avec un signe FERMÉ clignotant
 rouge sur la devanture. Le nom du réseau était HarajukuFM, alors nous
 savions que nous avions trouvé le bon endroit.\
-- “Si c’est là-dedans, je n’y vais pas”, a dit Darryl.\
-- “Vous avez tous vos détecteurs de WiFi ?”, j’ai demandé\
+— “Si c’est là-dedans, je n’y vais pas”, a dit Darryl.\
+— “Vous avez tous vos détecteurs de WiFi ?”, j’ai demandé\
 Darryl et Van avaient des téléphones avec des détecteurs intégrés, alors
 que Jolu, trop cool pour porter un téléphone plus grand que son petit
 doigt, avait un petit détecteur directionel indépendant.\
-- “OK, on se disperse et on regarde ce qu’on trouve. Nous cherchons une
+— “OK, on se disperse et on regarde ce qu’on trouve. Nous cherchons une
 chute brutale du signal qui s’empire quand on la suit.”\
 J’ai reculé d’un pas et j’ai fini par marcher sur les pieds de
 quelqu’un. Une voix féminine a dit “oof” et je me suis retourné,
@@ -291,17 +291,17 @@ décoration japonais cousus partout dessus — des personnages d’anime, des
 dirigeants européens, des logos de marques de boissons étrangères. Elle
 tenait un petit appareil photo et a pris un cliché de moi et de mon
 équipe.\
-- “Souriez !”, elle a dit, “vous êtes sur la caméra cafteuse cachée !”\
-- “Non,” j’ai répondu, “tu ne ferais pas –”\
-- “Je le ferai”, elle a dit. “Je vais envoyer cette photo à la police
+— “Souriez !”, elle a dit, “vous êtes sur la caméra cafteuse cachée !”\
+— “Non,” j’ai répondu, “tu ne ferais pas –”\
+— “Je le ferai”, elle a dit. “Je vais envoyer cette photo à la police
 des cours courbés dans trente secondes si vous quatre ne dégagez pas
 d’ici et laissez mes amis et moi trouver l’indice. Vous pouvez revenir
 dans une heure et il sera à vous. Je trouve ça plus qu’honnête.”\
 J’ai regardé derrière elle et j’ai vu trois autres filles habillées plus
 ou moins pareil — l’uune avec des cheveux bleus, l’autre avec du vert,
 et la dernière en violet.\
-- “Vous êtes qui, la Brigade des Sucettes ?”\
-- “On est l’équipe qui va vous bottez le cul à Harajuku Fun Madness,”
+— “Vous êtes qui, la Brigade des Sucettes ?”\
+— “On est l’équipe qui va vous bottez le cul à Harajuku Fun Madness,”
 elle a dit. “Et je suis celle qui est en train d’uploader cette photo et
 vous plonger dans une merde telle –”\
 Derrière moi, j’ai senti Van se ruer en avant. Son école de filles était
@@ -335,27 +335,27 @@ les avais jamais entendues en dehors de l’horaire qu’au cinéma ou dans
 les jeux vidéo, du genre où quelqu’un bombarde quelqu’un d’autre d’en
 haut. Des sirènes de défense aérienne. Le son en “Ouououououuuuuuu” les
 rendait irréelles.\
-- “Rendez-vous aux abris immédiatement !”\
+— “Rendez-vous aux abris immédiatement !”\
 C’était comme la voix de Dieu, venant de partout à la fois. Il y avait
 des haut-parleurs sur certaines des poteaux électriques, ce que je
 n’avais jamais remarqué avant, et ils s’étaient tous allumés d’un coup.\
-- “Rendez-vous aux abris immédiatement !”\
+— “Rendez-vous aux abris immédiatement !”\
 Abris ? Nous nous sommes entreregardés, confus. Quels abris ? Le nuage
 s’élevait toujours en s’étalant. Est-ce que c’était nucléaire ? Est-ce
 que nous étions en train de vivre nos derniers instants ? La fille aux
 cheveux roses a saisi ses amis et les a traînées vers le bas de la rue,
 vers la stations du BART et le pied des collines.\
-- “RENDEZ-VOUS AUX ABRIS IMMÉDIATEMENT !”\
+— “RENDEZ-VOUS AUX ABRIS IMMÉDIATEMENT !”\
 Les gens hurlaient maintenant, et beaucoup couraient dans tous les sens.
 Des touristes — vous pouvez toujours repérer les touristes, ce sont ceux
 qui pensent que “Californie = soleil” et qui passent leurs vacances à
 San Francisco à se geler en bermudas et t-shirts — se dispersaient dans
 toutes les directions.\
-- “On devrait y aller !” a braillé Daarrly dans mon oreille, à peine
+— “On devrait y aller !” a braillé Daarrly dans mon oreille, à peine
 audible par-dessus le meuglement des sirènes, auquel répondaient
 maitenant les sirèmes habituelles de la police. Une douzaine de voitures
 de patrouille nous ont dépassés en hurlant.\
-- “RENDEZ-VOUS AUX ABRIS IMMÉDIATEMENT !”\
-- “A la station du BART !”, ai-je hurlé\
+— “RENDEZ-VOUS AUX ABRIS IMMÉDIATEMENT !”\
+— “A la station du BART !”, ai-je hurlé\
 Mes amis ont acquiescé. Nous avons resserré les rangs et nous nous
 sommes mis en route pour descendre la colline.

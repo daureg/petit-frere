@@ -79,9 +79,9 @@ travers ses polos promotionels de dot-coms. Il a toujours l’air sur le
 point de vous ??? la tronche, et il adore monter le ton pour donner de
 l’effet dramatique. Mais ces deux tactiques perdent de leur efficacité
 quand on les rabâche.\
-- “Désolé, non”, j’ai dit: “je n’ai jamais entendu parlé de ce R2D2 dont
+— “Désolé, non”, j’ai dit: “je n’ai jamais entendu parlé de ce R2D2 dont
 vous parlez”.\
-- “W1n5t0n”, il a dit, de nouveau en épelant.\
+— “W1n5t0n”, il a dit, de nouveau en épelant.\
 Il m’a fixé un moment en fonçant les sourcils, en espérant que je me
 démonte. Bien sûr, c’était mon pseudo, et ça faisait des années que ça
 l’était. C’était l’identité que j’utilisais quand je postais sur les
@@ -99,20 +99,20 @@ chevalière nerveusement. Il faisait ça à chaque fois que ça tournait mal
 pour lui. Les joueurs de pocker appellent ça ??? — quelque chose qui
 vous dit ce qui se passe dans la tête du gars en face. Je connais les
 ??? de Benson à l’envers et à l’endroit.\
-- Marcus, j’espère que tu comprends à quel point c’est sérieux.\
-- Je comprendrai dès que vous m’aurez expliqué de quoi il s’agit,
+— Marcus, j’espère que tu comprends à quel point c’est sérieux.\
+— Je comprendrai dès que vous m’aurez expliqué de quoi il s’agit,
 monsieur.\
 Je dis toujours “monsieur” aux figures d’autorité quand je fais le
 malin. C’est mon propre ???. Il a secoué la tête et m’a regardé de très
 haut, encore un ???. D’un moment à l’autre, il allait me hurler dessus.\
-- Écoute, gamin ! Il est temps que tu comprennes que nous savons ce que
+— Écoute, gamin ! Il est temps que tu comprennes que nous savons ce que
 tu as fait, et que nous n’allons pas laisser passer ça. Tu as de la
 chance si tu n’es pas expulsé avant la fin de cette entrevue. Tu le
 veux, ton bac ?\
-- Monsieur Benson, vous ne m’avez toujours pas expliqué quel est le
+— Monsieur Benson, vous ne m’avez toujours pas expliqué quel est le
 problème…\
 Il a tapé du poing contre son bureau en me pointant de l’index.\
-- Le problème, monsieur Yallow, est que tu es complice d’une entreprise
+— Le problème, monsieur Yallow, est que tu es complice d’une entreprise
 criminelle visant à subvertir les systèmes de sécurité de cette école,
 et que tu as fourni des contre-mesures à vos camarades. Tu sais que nous
 avons expulsé Graciella Uriarte la semaine dernière pour avoir utilisé
@@ -121,8 +121,8 @@ Uriarte s’était mis dans la miouse. Elle avait acheté un brouilleur
 radio dans un magasin de bricolage près de la station de métro de la
 16ème rue et il avait déclanché les contre-mesures du corridor de
 l’école. Je n’avais rien à voir avec ça, mais j’avais mal pour elle.\
-- Et vous pensez que je suis impliqué là-dedans ?\
-- “Nous avons des renseignements probants qui indiquent que tu es
+— Et vous pensez que je suis impliqué là-dedans ?\
+— “Nous avons des renseignements probants qui indiquent que tu es
 w1n5t0n” — une nouvelle fois, il l’a épellé, et j’ai commencé à me
 demandé s’il avais seulement compris que le “1″ se lisait “I” et que le
 “5″ se lisait “S”. “Nous savons que ce w1n5t0n est responsable du vol
@@ -130,15 +130,15 @@ des tests standards de l’année dernière”. En fait, ça n’avait pas été
 moi, mais c’était un joli hack, et c’était plutôt flatteur de me le voir
 attribué. “Et en conséquence, passible de plusieurs années de prison si
 tu ne coopères pas avec moi.\
-- Vous avez des renseignements probants ? Puis-je les voir ?\
+— Vous avez des renseignements probants ? Puis-je les voir ?\
 Il m’a foudroyé du regard.\
-- Ton impertinence ne va pas t’aider.\
-- S’il y a des preuves, monsieur, je pense que vous devriez appeler la
+— Ton impertinence ne va pas t’aider.\
+— S’il y a des preuves, monsieur, je pense que vous devriez appeler la
 police et les leur confier. L’affaire a l’air sérieuse, et je ne
 voudrais pas interférer avec une enquête en bonne et due forme des
 authorités compétantes.\
-- Tu veux que j’appelle la police ?\
-- Et mes parents, je pense. Ca vaudrait sans doute mieux.\
+— Tu veux que j’appelle la police ?\
+— Et mes parents, je pense. Ca vaudrait sans doute mieux.\
 Nous nous sommes fixés par-dessus le bureau. Il s’était clairement
 attendu à ce que je me couche à la seconde où il lâcherait sa bombe. Je
 ne me couche pas. J’ai un truc pour soutenir le regard de gens comme
@@ -154,17 +154,17 @@ autreuh éléphant. La meilleure façon d’marcher, c’est encore la
 nôôôôôôtreuh, c’est de mettre un pied d’vant l’autre, et
 d’recommencer.”\
 “Deux kilomètres à pied…”\
-- Tu peux retourner en classe !”, a-t-il aboyé, “je te rappellerai quand
+— Tu peux retourner en classe !”, a-t-il aboyé, “je te rappellerai quand
 la police sera là pour te parler”\
-- Vous allez les appeler maintenant ?\
-- La procédure pour appeler la police est compliquée. J’espérais que je
+— Vous allez les appeler maintenant ?\
+— La procédure pour appeler la police est compliquée. J’espérais que je
 pourrais régler cette affaire en étant juste et rapide, mais puisque tu
 insistes…\
-- “C’est juste que je peux attendre pendant que vous les appelez.” ai-je
+— “C’est juste que je peux attendre pendant que vous les appelez.” ai-je
 dit, “ça ne m’ennuie pas”.\
 Il s’est remis à tapoter sa chevalière et je me suis préparé à
 l’explosion.\
-- “Dégage !”, a-t-il hurlé. “Fous-moi le camp de ce bureau, espèce de
+— “Dégage !”, a-t-il hurlé. “Fous-moi le camp de ce bureau, espèce de
 misérable petit…”\
 Je suis sorti, en gardant une expression neutre. Jamais il n’appelerait
 les flics. S’il avait eu assez de preuves pour impliquer la police, il
@@ -205,12 +205,12 @@ nouveaux tests du Conseil, mais c’était un prix raisonnable pour avoir
 au moins un peu le contrôle de l’ordinateur. J’ai démarré IMParanoid, la
 messagerie instantanée secrète que j’utilisais quand je voulais bavarder
 pendant les cours sans que ça se sache. Darryl était déjà dessus.\
-- Je déclare la partie ouverte ! Il y a du sensationel sur Harajuku Fun
+— Je déclare la partie ouverte ! Il y a du sensationel sur Harajuku Fun
 madness, mon pote. Tu es des nôtres ?\
-- Pas question. Si je me fais chopper à sécher les cours une troisième
+— Pas question. Si je me fais chopper à sécher les cours une troisième
 fois, je me fais expulser, mec. Je t’ai déjà dit. On ira après les
 cours.\
-- Tu as une pause pour déjeuner et ensuite un heure libre, non ? Ca te
+— Tu as une pause pour déjeuner et ensuite un heure libre, non ? Ca te
 fait deux heures. Ca nous laisse tout le temps de chasser cet indice et
 de revenir avant qu’on nous remarque. Je bas le rappel de toute
 l’équipe.\
@@ -240,25 +240,25 @@ rapporter tout ce qu’on peut soulever en merchandising Astro le Petit
 Robot. Sauf qu’ils l’appellent “Atom Boy”, au Japon. Harajuku Fun
 Madness, c’est ça, et quand on a résolu une énigme ou deux, on devient
 accro.\
-- No, mec, juste non. NON. Ne me le demande même pas.\
-- Mais j’ai besoin de toi, D. Tu es le meilleur que j’aie. Je te jure
+— No, mec, juste non. NON. Ne me le demande même pas.\
+— Mais j’ai besoin de toi, D. Tu es le meilleur que j’aie. Je te jure
 qu’on sera revenus quand que personne ne nous remarque. Tu sais que je
 peux le faire, n’est-ce pas ?\
-- Je sais que tu peux le faire.\
-- Alors, tu viens ?\
-- Putain, non !\
-- Oh, allez, Darryl. Sur ton lit de mort, ton regret, ça ne sera pas de
+— Je sais que tu peux le faire.\
+— Alors, tu viens ?\
+— Putain, non !\
+— Oh, allez, Darryl. Sur ton lit de mort, ton regret, ça ne sera pas de
 ne pas avoir passé plus de temps assis à l’école.\
-- Sur mon lit de mort, mon grand regret ne sera pas non plus de ne pas
+— Sur mon lit de mort, mon grand regret ne sera pas non plus de ne pas
 avoir passé plus de temps à jouer à des jeux.\
-- Ouais mais tu ne penses pas que tu pourrais regretter de ne pas avoir
+— Ouais mais tu ne penses pas que tu pourrais regretter de ne pas avoir
 passé plus de temps avec Vanessa Pak ?\
 Van était un membre de mon équipe. Darryl en était raide amoureux depuis
 des années — même depuis avant que la puberté  lui ait accordé des
 cadeaux généreux. Darrly était tombé amoureux de son esprit. Triste, en
 vérité.\
-- Tu es vraiment un connard.\
-- Alors, tu viens ?\
+— Tu es vraiment un connard.\
+— Alors, tu viens ?\
 Il m’a regardé en secouant la tête. Puis il a acquiescé. Je lui ai fait
 un clin d’oeil et j’ai entrepris de me mettre en contact avec les autres
 membres de l’équipe.
@@ -422,8 +422,8 @@ gadgets et ces machins inspirent à notre faculté bien-aimée une
 impression de sécurité totalement illusoire. Nous nous sommes faufilés
 dans la foule des couloirs, en direction de ma sortie de service
 préférée. Nous étions à la moitié du chemin quand Darryl a sifflé\
-- Merde ! J’ai oublié, j’ai un livre de la bibliothèque dans mon sac !\
-- “Tu te fous de moi ?”, j’ai dit, et je l’ai traîné dans les plus
+— Merde ! J’ai oublié, j’ai un livre de la bibliothèque dans mon sac !\
+— “Tu te fous de moi ?”, j’ai dit, et je l’ai traîné dans les plus
 proches toilettes. Les livres de la bibliothèque sont une saleté. Chacun
 d’eux contient un arphid — une puce RFID — collé dans sa reliure, ce qui
 permet aux bibliothécaires de les ranger rien qu’en agitant un lecteur

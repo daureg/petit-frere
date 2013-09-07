@@ -45,15 +45,15 @@ du type Red Bull. Croyez-en quelqu’un qui a lu l’article de Wikipédia,
 c’est comme ça qu’on a taillé l’Empire ottoman : en lâchant des
 cavaliers déments propulsés à la boue-café noir de jais. J’ai sorti ma
 carte de débit il le tenancier a tiré la tête.\
-- “On ne prend plus les cartes de débit”, il a dit.\
-- “Hein ? Pourquoi pas ?”\
+— “On ne prend plus les cartes de débit”, il a dit.\
+— “Hein ? Pourquoi pas ?”\
 J’avais payé mon addiction au café chez le Turc avec ma carte depuis des
 années. Au début il me cassait les pieds tout le temps en me disant que
 j’étais trop jeune pour boire ce truc, et il refusait toujours de me
 servir dans les heures d’école, convaincu que je séchais les cours. Mais
 au fil des ans, le Turc et moi avions développé une sorte d’entende
 tacite. Il a secoué la tête tristement.\
-- “Tu ne comprendrais pas. Va à l’école, gamin.” Il n’y a pas de
+— “Tu ne comprendrais pas. Va à l’école, gamin.” Il n’y a pas de
 meilleur manière de me motiver à comprendre quelque chose que de me dire
 que je n’y arriverai jamais. Je l’ai passé au gril pour qu’il me dise.
 Il m’a jeté un regard comme s’il allait me jeter dehors, mais quand je
@@ -71,18 +71,18 @@ façon de savoir où tu es, où tu as été. Pourquoi crois-tu que j’ai fuis
 la Turquie ? Un endroit où le gouvernement espionne tout le temps les
 gens, ça n’est pas un bon endroit. J’ai déménagé ici il y a vingt ans
 pour la liberté — je ne les aiderai pas à arracher cette liberté.”\
-- “Vous allez perdre tellement de clients”, j’ai bredouillé. Je voulais
+— “Vous allez perdre tellement de clients”, j’ai bredouillé. Je voulais
 lui dire qu’il était un héros et lui serrer la main, mais c’est tout ce
 qui est sorti. “Tout le monde utiliser des cartes de débit”.\
-- “Peut-être plus tellement maintenant. Peut-être que mes clients
+— “Peut-être plus tellement maintenant. Peut-être que mes clients
 viennent ici parce qu’ils savent que l’aime la liberté moi aussi. Je
 fabrique un panneau pour la vitrine. Peut-être que d’autres magasins
 vont en faire autant. J’ai entendu dire que l’ACLU va leur faire un
 procès pour cette histoire”.\
-- “J’achèterai tout chez vous à partir de maintenant”, j’ai dit. Je le
+— “J’achèterai tout chez vous à partir de maintenant”, j’ai dit. Je le
 pensais vriament. J’ai fouillé mes poches. “Ah, par cotre, je n’ai pas
 le liquide.” Il a serré les lèvres et hoché la tête.\
-- “Beaucoup de gens me disent ça. C’est OK. Donne l’argent d’aujourd’hui
+— “Beaucoup de gens me disent ça. C’est OK. Donne l’argent d’aujourd’hui
 à l’ACLU.”\
 En deux minutes, le Turc et moi avions échangé plus de propos que depuis
 que j’étais entré pour la première fois dans son échoppe. Je n’aurais
@@ -129,30 +129,30 @@ un pont, les terroristes avaient indiqué que les écoles seraient la
 prochaine cible. En tout cas c’est la conclusion à laquelle le Bureau
 était arrivé d’une façon ou d’une autre. J’ai lu le formulaire trois
 fois et j’ai levé la main.\
-- “Oui, Marcus ?”\
-- “Madame Galvez, concernant ce formulaire…”\
-- “Oui, Marcus ?”\
-- “Ca n’est pas justement le but du terrorisme, de nous faire avoir peur
+— “Oui, Marcus ?”\
+— “Madame Galvez, concernant ce formulaire…”\
+— “Oui, Marcus ?”\
+— “Ca n’est pas justement le but du terrorisme, de nous faire avoir peur
 ? C’est pour ça que ça s’appelle terrorisme, n’est-ce pas ?”\
-- “Oui, j’imagine”. Toute la classe me regardait. Je n’étais pas le
+— “Oui, j’imagine”. Toute la classe me regardait. Je n’étais pas le
 meilleur élève de l’école, mais j’aimais bien un bon débat en classe.
 Ils attendaient ce que j’allais dire ensuite.\
-- “Alors est-ce que nous ne faisons pas ce que les terroristes veulent
+— “Alors est-ce que nous ne faisons pas ce que les terroristes veulent
 que nous fassions ? Ils n’ont pas gagné, si nous nous comportons comme
 si nous avions peur tout le tmeps et que nous installons des caméras
 dans les salles de classe, et tout ça ?”. Il y a eu une rumeur. L’un des
 autres élèves a levé la main. C’était Charles. Madame Galvez lui a donné
 la parole.\
-- “Installer des caméras nous protège, et nous n’avons plus besoin
+— “Installer des caméras nous protège, et nous n’avons plus besoin
 d’avoir peur. “\
-- “Nous protège de quoi ?”, j’ai rétorqué sans même avoir la parole.\
-- “Du terrorisme”, a repris Charles. Les autres hochaient la tête.\
-- “Mais comment ? Si un type entrait ici et se faisait sauter avec une
+— “Nous protège de quoi ?”, j’ai rétorqué sans même avoir la parole.\
+— “Du terrorisme”, a repris Charles. Les autres hochaient la tête.\
+— “Mais comment ? Si un type entrait ici et se faisait sauter avec une
 ceinture d’explosifs — “\
-- “Madame Galvez, Marcus viole le règlement. On n’a pas le droit de
+— “Madame Galvez, Marcus viole le règlement. On n’a pas le droit de
 faire des blagues sur les attentats”.\
-- “Qui est-ce qui fait des blagues ?”\
-- “Merci, tous les deux”, a dit Madame Galvez. Elle avait l’air
+— “Qui est-ce qui fait des blagues ?”\
+— “Merci, tous les deux”, a dit Madame Galvez. Elle avait l’air
 profondément contrariée. J’avais honte d’avoir détourné son cours. “Je
 pense que c’est une discussion très intéressante, mais j’aimerais la
 réserver pour une autre leçon. Je crois que ces questions sont trop
@@ -470,19 +470,19 @@ dernier dessert que j’aurais avait très, très longtemps. Et alors je me
 suis retourné. Ils étaient tellement près que je voyais les taches de
 rousseur sur les joues de celui de gauche, et la morve dans le nez de
 l’autre.\
-- “Excusez-moi”, j’ai dit en poussant pour me faufiler en eux. Le
+— “Excusez-moi”, j’ai dit en poussant pour me faufiler en eux. Le
 morveux s’est positionné pour me bloquer.\
-- “Monsieur”, il a dit, “Pouvez-vous venir avec nous ?” Il a fait en
+— “Monsieur”, il a dit, “Pouvez-vous venir avec nous ?” Il a fait en
 geste vers la porte du restaurant.\
-- “Désolé, je mange”, j’ai dit en bougeant de nouveau. Cette fois-ci, il
+— “Désolé, je mange”, j’ai dit en bougeant de nouveau. Cette fois-ci, il
 a mis sa main sur ma poitrine. Il respirait rapidement par le nez, ce
 qui faisait bouger sa morve. Je suppose que je respirais fort moi aussi,
 mais c’était difficile à dire avec les battements de mon coeur. L’autre
 a déboutonné un pan de son blouson pour dévoiler en insigne du
 Département de la Police de San Francisco.\
-- “Police”, il a dit, “veuillez nous accompagner”.\
-- “Laissez-moi prendre mes affaires”, j’ai dit.\
-- “Nous nous occupons de ça”, a-t-il répondu.\
+— “Police”, il a dit, “veuillez nous accompagner”.\
+— “Laissez-moi prendre mes affaires”, j’ai dit.\
+— “Nous nous occupons de ça”, a-t-il répondu.\
 Le morveux a fait un pas qui l’a amené directement sur moi, son pied
 entre les miens. On fait ce genre de choses dans certains arts martiaux.
 Ca vous permet de savoir comment l’adversaire répartit son poids et s’il

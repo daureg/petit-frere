@@ -23,14 +23,14 @@ Secret Headquarters: 3817 W. Sunset Boulevard, Los Angeles, CA 90026 +1
 Mais c’était Van, qui sanglottait, et me serrait contre elle si fort que
 j’en avais du mal à respirer. Je m’en fichais. Je l’ai serrée moi aussi,
 mon visage enfoncé dans ses cheveux.\
-- “Tu es sain et sauf !”, a-t-elle dit.\
-- “Je suis sain et sauf”, j’ai réussi à dire.\
+— “Tu es sain et sauf !”, a-t-elle dit.\
+— “Je suis sain et sauf”, j’ai réussi à dire.\
 Finalement, elle m’a lâché, et une autre paire de bras m’a enserré.
 C’était Jolu ! Ils étaient là tous les deux. Il a murmuré “Tous va bien,
 mon gars” dans mon oreille et m’a serré encore plus fort que Vanessa.
 Quand il m’a relâché, j’ai regardé autour de moi. “Où est Darryl ?” j’ai
 demandé. Ils se sont entreregardés.\
-- “Il est peut-être encore dans le camion”, a dit Jolu. Nous nous sommes
+— “Il est peut-être encore dans le camion”, a dit Jolu. Nous nous sommes
 retournés et nous avons regardé le camion au bout de l’allée. C’était un
 38 tonnes blanc sans signe distinctif. Quelqu’un avait déjà rentré le
 petit escalier pliant. Les lumières arrières ont brillé, et le camion a
@@ -67,11 +67,11 @@ allumé un réchaud à gaz avec un briquet de barbeque, a pris nos
 commandes, et a disparu à l’intérieur. La sensation de donner des
 ordres, de contrôler mon destin, était la chose la plus incroyable que
 j’aie jamais connue.\
-- “Combien de temps on a été là-dedans ?”, j’ai demandé\
-- “Six jours”, a répondu Vanessa.\
-- “J’aurais dit cinq”, a dit Jolu.\
-- “Je n’ai pas compté”\
-- “Qu’est-ce qu’ils t’ont fait ?”, a demandé Vanessa.\
+— “Combien de temps on a été là-dedans ?”, j’ai demandé\
+— “Six jours”, a répondu Vanessa.\
+— “J’aurais dit cinq”, a dit Jolu.\
+— “Je n’ai pas compté”\
+— “Qu’est-ce qu’ils t’ont fait ?”, a demandé Vanessa.\
 Je ne voulais pas en parler, mais ils me regardaient tous les deux. Une
 fois que j’ai eu commancé, je n’ai plus pu m’arrêter. Je leur ai tout
 raconté, même le moment où on m’avait forcé à me pisser dessus, et ils
@@ -100,23 +100,23 @@ isolée dans sa cellule pendant deux jours sans contact avec quiconque,
 quoi qu’elle ait été nourrie régulièrement. Mais pour l’essentiel,
 c’était commepour Jolu : les mêmes quelques répétées encore et encore.
 
-- “Ils te détestaient vraiment”, a dit Jolu. “Ils avaient vraiment un
+— “Ils te détestaient vraiment”, a dit Jolu. “Ils avaient vraiment un
 dent contre toi. Pourquoi ça ?”. Je ne voyais vraiment pas pourquoi . Et
 d’un coup, je me suis souvenu : “tu peux collaborer, ou tu peux le
 regretter amèrement”.\
-- “C’est parce que je ne leur avais pas déverrouillé mon téléphone, le
+— “C’est parce que je ne leur avais pas déverrouillé mon téléphone, le
 premier soir. C’est la raison pour laquelle ils m’avaient pris pour
 cible.” Je trouvais ça incroyable, mais il n’y avait pas d’autre
 explication. C’était purement de la rancune. Mon esprit s’est cabré à
 cette idée. Ils avaient fait tout ça simplement en punition pour avoir
 défié leur autorité. J’avais eu peur. Maintenant, j’étais en colère.\
-- “Quels salopards, ” j’ai dit doucement. “Ils ont fait tout ça pour se
+— “Quels salopards, ” j’ai dit doucement. “Ils ont fait tout ça pour se
 venger parce que je leur ai tenu tête”.\
 Holu a juré et Vanessa s’est laissée aller en coréen, ce qu’elle ne fait
 que quand elle est vraiment, vraiment furieuse.\
-- “Je les aurai”, ai-je murmuré en fixant mon soda. “Je les aurai”.\
+— “Je les aurai”, ai-je murmuré en fixant mon soda. “Je les aurai”.\
 Jolu a secoué la tête.\
-- “Tu ne peux pas, tu sais . Tu ne peux pas te battre contre ça.”
+— “Tu ne peux pas, tu sais . Tu ne peux pas te battre contre ça.”
 
 Aucun de nous ne voulait trop parler de vengeance, à ce stade. A la
 place, nous avons discuté de ce que nous ferions tout de suite. Il
@@ -132,7 +132,7 @@ une. Coupe-à-la-Serpe avait parlé du “pont” qui aurait explosé, et
 j’avais supposé qu’elle parlait du Golden Gates, mais j’avais tort. Les
 terroristes avaient fait sauter le Bay Bridge.
 
-- Pourquoi diable faire sauter le Bay Bridge ?”, ai-je demandé. “C’est
+— Pourquoi diable faire sauter le Bay Bridge ?”, ai-je demandé. “C’est
 le Golden Gates qui est sur toutes les cartes postales”.\
 Meme si vous n’avaez jamais mis les pieds à San Francisco, vous savez
 probablement à quoi ressemble le Golden Gates : c’est ce gros pont
@@ -144,13 +144,13 @@ symbole à la Californie. Si vous allez au parc d’attractions Disneyland
 California, il y en a une reproduction juste derrière l’entrés, avec un
 monorail qui passe dessus. Aussi avais spontanément supposé que si vous
 vouliez faire sauter un pont à San Francisco, vous choisiriez celui-là.\
-- “ils ont probablement eu peur des caméras et tout ça”, a proposé Jolu.
+— “ils ont probablement eu peur des caméras et tout ça”, a proposé Jolu.
 “La Garde National a des barrages aux deux extrémités pour fouiller les
 voitures, et il y a les garde-fous pour éviter les suicides et tout ce
 genre de trucs tout du long”. Les gens ont sauté du Golden Gate depuis
 qu’il a ouvert en 1937 — on a arrêté de compter aprés le millière
 suicide en 1995.\
-- “Oui”, a repris Vanessa. “De plus, le Bay Bridge conduit vraiment
+— “Oui”, a repris Vanessa. “De plus, le Bay Bridge conduit vraiment
 quelque part”.\
 Le Bay Bridge relie la ville basse à Oakland, et donc conduit vers
 Berkeley et les petites villes de East Bay où logent beaucoup de gens
@@ -165,7 +165,7 @@ c’était essentiellement une décoration. Le Bay Bridge, c’est — c’étai
 le cheval de labour des ponts de San Francisco.
 
 J’y ai réfléchi pendant une minute.\
-- “Vous avez raison”, j’ai dit. “Mais je ne pense pas que ça soit les
+— “Vous avez raison”, j’ai dit. “Mais je ne pense pas que ça soit les
 seules raisons. Nous faisons tout le temps comme si les terroristes
 attaquaient les points pitoresques parce qu’ils vouent une haine aux
 endroits pitoresques. Les terroristes n’ont rien contre les endroits
@@ -176,31 +176,31 @@ Gates a reçu toutes ces caméras — et après que les avions ont reçu des
 détecteurs de métaux et des rayons X.” J’y ai réfléchi encore un peu,
 regardant les voitures qui passaient dans la rue d’un regard vide, les
 gens qui marchaient sur le trottoir, la ville autour de moi.\
-- “Les terroristes ne détestent pas les avions et les ponts. Ils aiment
+— “Les terroristes ne détestent pas les avions et les ponts. Ils aiment
 la terreur.”\
 C’était tellement évident que j’étais stupéfait de n’y avoir jamais
 pensé avant. J’imagine que d’être traité comme un terroriste m’avait
 clarifié l’esprit. Les deux autres me regardaient fixement.\
-- “J’ai raison, non ?” Toutes des conneries, les rayons X et les
+— “J’ai raison, non ?” Toutes des conneries, les rayons X et les
 contrôles d’identité, ça ne sert à rien, n’est-ce pas ?”\
 Ils ont hoché lentement la tête.\
-- “C’est pire d’inutile”, ai-je poursuivi en m’étranglant. “Parce qu’ils
+— “C’est pire d’inutile”, ai-je poursuivi en m’étranglant. “Parce qu’ils
 ont fini par nous avoir nous en prison, avec Darryl –” Je n’avais plus
 pensé à Darryl depuis que nous nous étions assis et là ça me revenait,
 mon ami, absent, disparu. J’ai arrêté de parler et j’ai serré les
 mâchoires.\
-- “Nous devons en parler à nos parents”, a dit Jolu.\
-- “Nous devrions prendre un avocat”, a dit Van.\
+— “Nous devons en parler à nos parents”, a dit Jolu.\
+— “Nous devrions prendre un avocat”, a dit Van.\
 J’ai pensé à raconter mon histoire. A raconter au monde ce qui m’était
 arrivé. Aux vidéos qui émergeraient sans nul doute, me ontrant en
 pleurs, réduit à ramper comme un animal.\
-- “On ne peut rien leur dire”, ai-je fait sans réfléchir.\
-- “Qu’est-ce que tu veux dire”, a demandé Van\
-- “Nous ne pouvons rien leur dire”, ai-je répété. “Vous l’avez entendue.
+— “On ne peut rien leur dire”, ai-je fait sans réfléchir.\
+— “Qu’est-ce que tu veux dire”, a demandé Van\
+— “Nous ne pouvons rien leur dire”, ai-je répété. “Vous l’avez entendue.
 Si nous parlons, ils reviendront nous chercher. Ils nous feront ce
 qu’ils ont fait à Darryl. “\
-- “Tu plaisantes”, a dit Jolu. “Tu veux que nous –”\
-- “Je veux que nous nous battions”, j’ai dit. “Je veux rester en liberté
+— “Tu plaisantes”, a dit Jolu. “Tu veux que nous –”\
+— “Je veux que nous nous battions”, j’ai dit. “Je veux rester en liberté
 pour pouvoir le faire. Si nous nous faisons connaître et parlons, ils
 diront que nous sommes juste des gosses et qu’on invente des trucs.
 Nous  ne savons même pas où nous avons été détenus ! Personne ne nous
@@ -210,21 +210,21 @@ l’autre côté de la baie. J’avais traversé pour vous retrouver là-bas et
 je me suis retrouvé coincé, et j’ai pu sortir seulement aujourd’hui. Ils
 disaient dans le journal qu’il y a encore des gens qui en sortent pour
 cherchent leur maison.”\
-- “Je ne peux pas faireune chose pareille”, a dit Vanessa. “Après ce
+— “Je ne peux pas faireune chose pareille”, a dit Vanessa. “Après ce
 qu’ils t’ont fait, comment peux-tu même penser à faire ça ?”\
-- “Ca m’est arrivé, c’est précisément le problème. Maintenant, c’est
+— “Ca m’est arrivé, c’est précisément le problème. Maintenant, c’est
 entre eux et moi. Je les vaincrai, je retrouverai Darryl. Je refuse de
 rester applati. Mais si nous impliquons nos parents, c’est fini pour
 nous. Personne ne nous croira et personne ne s’y intéressera. Si nous
 faisons comme je dis, les gens vont s’intéresser.\
-- “C’est quoi, comme tu dis ?”, a demandé Jolu. “Quel est ton plan ?”\
-- “Je ne sais pas encore”, ai-je admis. “Donnez-moi jusqu’à demain
+— “C’est quoi, comme tu dis ?”, a demandé Jolu. “Quel est ton plan ?”\
+— “Je ne sais pas encore”, ai-je admis. “Donnez-moi jusqu’à demain
 matin, accordez-moi au moins ça.” Je savais que lorsqu’ils auraient
 gardé le secret pour la journé, ce serait un secret éternel. Nos parents
 seraient encore plus sceptiques si nous nous “souvenions” tout à coup
 d’avoir été détenus dans une prison secrète plutôt que d’avoir éré
 recueillis dans un camp de réfugiés. Van et Jolu se sont entreregardés.\
-- “Je demande juste une chance”, j’ai dit. “On y réfléchit en chemin.
+— “Je demande juste une chance”, j’ai dit. “On y réfléchit en chemin.
 Donnez-moi une journée, juste une journée. “\
 Les deux autres un hoché la tête avec réticence, et nous sommes
 redescendus de la colline, en direction de nos foyers.
@@ -306,19 +306,19 @@ quelques cookies dans le “tonneau de biscuits” que la soeur de ma mère
 nous avait envoyé d’Angleterre. La familiarité de tout ceci a arrêté les
 coups de boutoir de mon coeur, qui s’est resynchronisé avec mon cerveau,
 et bientôt nous étions tous assis à table.\
-- “Où est-ce que tu étais ?”, ont-ils demandé tous deux, presque à
+— “Où est-ce que tu étais ?”, ont-ils demandé tous deux, presque à
 l’unisson. J’avais réfléchi à ça en chemin.\
-- “Je me suis fait coincer”, j’ai dit, “à Oakland. J’y étais avec des
+— “Je me suis fait coincer”, j’ai dit, “à Oakland. J’y étais avec des
 amis pour un projet, et nous nous sommes retrouvés en quarantaine.”\
-- “Pendant cinq jours ?”\
-- “Oui”, ai-je répondu, “oui, c’était vraiment du sérieux.” J’ai lu des
+— “Pendant cinq jours ?”\
+— “Oui”, ai-je répondu, “oui, c’était vraiment du sérieux.” J’ai lu des
 trucs sur les quarantaines dans le Chronicle, et j’ai plagié sans
 remords les citations qu’ils avaient publiées. “Oui. Tous ceux qui
 s’étaient fait prendre dans le nuage. Ils pensaient que nous avions été
 attaqués par une espèce de super-virus et ils nous ont parqués dans les
 containers sur les docks, comme des sardines. C’était étouffant et
 poisseux. Pas beaucoup à manger, non plus.”\
-- “Seigneur, ” a dit Papa, les poings serrés sur la table.\
+— “Seigneur, ” a dit Papa, les poings serrés sur la table.\
 Papa enseigne à Berkeley trois jours par semaine, il travaille avec des
 étudiants post-grad au programme de sciences de la bibliothèque. Le
 reste de temps, il fait du consulting pour des clients en ville et dans
@@ -331,29 +331,29 @@ temps — et ils pouvait devenir sérieusement dingue quand il faisait son
 Hulk. Une fois, il a jeté une balançoire IKEA à travers tout le jardin
 de mon grand-père parce qu’elle était tombée en morceaux pour la
 cinquantième fois pendant qu’il l’assemblait.\
-- “Des barbares”, a dit Maman. Elle vit en Amérique depuis qu’elle est
+— “Des barbares”, a dit Maman. Elle vit en Amérique depuis qu’elle est
 adolescente, mais elle redevient toute britannique quand elle rencontre
 des flics américains, le système de santé, la sécurité de l’aéroport ou
 les sans-abris. Alors, son mot est “barbares”, et son accent revient.
 Nous avions été à Londres deux fois pour voir sa famille et je dirais
 pas que je l’avais trouvée plus civilisée que San Francisco, juste plus
 encombrée.\
-- “Mais ils nous ont laissé partir, et on nous a fait traverser
+— “Mais ils nous ont laissé partir, et on nous a fait traverser
 aujourd’hui”. J’improvisans.\
-- “Tu es blessé ?”, a demandé Maman. “Tu as faim ? Sommeil ?”\
-- “Oui, un peu de tout ça. Et aussi Simplet, Doc, Atchoum et Grincheux.”
+— “Tu es blessé ?”, a demandé Maman. “Tu as faim ? Sommeil ?”\
+— “Oui, un peu de tout ça. Et aussi Simplet, Doc, Atchoum et Grincheux.”
 Nous avions une tradition de famille avec les blagues sur les Sept
 Nains. Ils ont tous les deux souri un peu, mais leurs yeux étaient
 encore humides. Je me sentais mal pour eux. Ils avaient dû être fous
 d’anxiété. J’étais content d’avoir une occasion de changer de sujet.\
-- “Je serais ravi d’avoir quelque chose à manger.”\
-- “Je vais commander une pizza chez Goat Hill”,  a dit Papa.\
-- “Non, je préfèrerais pas”, j’ai dit.\
+— “Je serais ravi d’avoir quelque chose à manger.”\
+— “Je vais commander une pizza chez Goat Hill”,  a dit Papa.\
+— “Non, je préfèrerais pas”, j’ai dit.\
 Ils m’ont tout les deux regardé comme s’il était poussé des antennes. En
 temps normal, j’adore Goat Hill Pizza — c’est-à-dire que j’en mange
 comme un poisson rouge mange sa nourriture, j’en engloutis jusqu’à ce
 qu’il n’y en ait plus ou que j’explose. J’ai essayé de sourire.\
-- “Je n’ai pas trop la tête à une pizza”, ai-je dit un peu platement.
+— “Je n’ai pas trop la tête à une pizza”, ai-je dit un peu platement.
 “Si on commandait un curry, ça vous dirait ?”\
 Dieu merci, San Francisco a une culture de la mourriture à emporter.
 Maman est allée au tiroir aux menus à commander (encore quelque chose de
@@ -385,24 +385,24 @@ choses. C’était assez morbide. J’ai trouvé ma propre photo et vu que j’y
 signaler les gensqui avaient été retrouvés, et un autre pour noter des
 informations sur d’autres disparus. J’ai rempli les champs pour Van,
 Jolu et moi, et j’ai laissé celui de Darryl vierge.\
-- “Tu as oublié Darryl”, a dit Papa. Il n’aimait pas trop Darryl — un
+— “Tu as oublié Darryl”, a dit Papa. Il n’aimait pas trop Darryl — un
 jour il avait découvert qu’il manquait quelques centimètres dans l’une
 des bouteilles de son armoir à alcools, et à ma grande honte j’avais
 fait porter le chapeau à Darryl. En réalité, évidemment, c’était nous
 deux, ensemble, qui nous étions amusés à essayer la vodka-coca pendant
 une nuit blanche de jeux vidéo.\
-- “Il n’était pas avec nous”, j’ai dit. Le mensonge avait un goût amer
+— “Il n’était pas avec nous”, j’ai dit. Le mensonge avait un goût amer
 dans ma bouche.\
-- “Oh, mon Dieu”, s’est exclamée ma mère. Elle s’est tordu les mains.
+— “Oh, mon Dieu”, s’est exclamée ma mère. Elle s’est tordu les mains.
 “Nous avions supposé que vous seriez ensemble”\
-- “Non”, ai-je continué, m’enfonçant dans le mensonge. “Non, nous avions
+— “Non”, ai-je continué, m’enfonçant dans le mensonge. “Non, nous avions
 rendez-vous mais nous ne nous sommes jamais trouvés. Il est probablement
 encore coincé à Berkeley. Il devait prendre le BART pour traverser.”\
 Maman a gémit. Papa a secoué la tête et fermé les yeux.\
-- “Tu n’as pas entendu pour le BART ?”, a-t-il demandé.\
+— “Tu n’as pas entendu pour le BART ?”, a-t-il demandé.\
 J’ai secoué la tête. J’entrevoyais où tout cela menait. J’ai cru que le
 sol me sautait au visage.\
-- “Ils l’ont fait sauter”, a dit Papa. “Les salopards l’ont fait sauter
+— “Ils l’ont fait sauter”, a dit Papa. “Les salopards l’ont fait sauter
 en même temps que le pont.”\
 Ca n’avait pas été à la Une du Chronicle, mais bien sûr, une explosion
 du BART sous l’eau ne serait pas aussi spectaculaire que les images du

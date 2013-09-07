@@ -162,14 +162,14 @@ réseaux de confiance vont ensemble comme les tartines et le Nutella.
 “Dis-leur juste que c’est une fête super-privée, seulement sur
 invitation.”, j’ai dit. “Dis-leur de n’amener personne avec eux ou on ne
 les laissera pas entrer”. Jolu m’a regardé par-dessus son café.\
-- “Tu plaisantes, n’est-ce pas ? Si tu dis ça, les gens vont emmener
+— “Tu plaisantes, n’est-ce pas ? Si tu dis ça, les gens vont emmener
 encore plus de monde.”\
-- “Arg !”\
+— “Arg !”\
 Je passais une nuit par semaine chez Jolu, ces temps, à entretenir le
 code sur Indienet. Pigspleen me payait même une somme d’argent non nulle
 pour faire ça, ce qui me faisait vraiment bizarre. Je n’aurais jamais
 pensé que je serais payé pour écrire du code.\
-- “Alors qu’est-ce qu’on fait ? Nous voulons seulement des gens en qui
+— “Alors qu’est-ce qu’on fait ? Nous voulons seulement des gens en qui
 nous pouvons vraiment avoir confiance, et on ne veut pas dire pourquoi
 avait d’avoir les clefs de tout le monde pour pouvoir le leur envoyer
 par message secret. “\
@@ -186,16 +186,16 @@ programme.
 
 Ca faisait vraiment bizarre de savoir que le code que j’écrivais serait
 utilisé le lendemain par des centaines de milliers de personnes.\
-- “Qu’est-ce qu’on fait ? Pouh la, j’en sais rien. Je pense qu’il va
+— “Qu’est-ce qu’on fait ? Pouh la, j’en sais rien. Je pense qu’il va
 falloir faire avec.”\
 J’ai repensé à nos jours de Harajuku Fun Madness. Le jeu comprenait
 beaucoup de problèmes sociaux qui impliquaient de grands groupes de
 gens.\
-- “OK, tu as raison. Mais au moins tâchons de garder tout ça secret.
+— “OK, tu as raison. Mais au moins tâchons de garder tout ça secret.
 Dis-leur d’emmener au maximum une seule personne, et ça devra être
 quelqu’un qu’ils connaissent depuis au moins cinq ans. ” Jolu a levé les
 yeux de l’écran.\
-- “Hé”, a-t-il dit, “Hé, ça marcherait du tonnerre ! Je m’y vois déjà.
+— “Hé”, a-t-il dit, “Hé, ça marcherait du tonnerre ! Je m’y vois déjà.
 Je veux dire, si tu me disais de n’emmener personne, je penserais ‘il se
 prend pour qui, ce gars ?’ Mais si tu le présentes comme ça, ça fait un
 super trip à la 007″.\
@@ -239,27 +239,27 @@ s’est pointé pile à l’heure : à 20 heures, une bonne heure après le
 coucher du soleil. Il a déchargé six glacières de sa camionette et les a
 traîneées dans les ruines des bains. Il avait même des caisses
 supplémentaires pour les bouteilles vides.\
-- “Amusez-vous et sayez sages, les jeunes, ” a-t-il dit en touchant son
+— “Amusez-vous et sayez sages, les jeunes, ” a-t-il dit en touchant son
 chapeau de cow-boy. C’était un type dodu avec un sourir énorme, et un
 marcel effrayant qui laissait échapper les poils de ses aisselles, de
 son ventre et de ses épaules, J’ai épluché quelques billets de vingt
 dollars de mon rouleau de billets et les lui ai tendus — il faisait un
 profit de 150 pourcents. Un bon plan. Il a regardé mon rouleau.\
-- “Tu sais, je pourrai simplement te piquer tout ça, ” a-t-il dit,
+— “Tu sais, je pourrai simplement te piquer tout ça, ” a-t-il dit,
 toujours en souriant. “Je suis un criminel, après tout.”\
 J’ai rangé mon rouleau dans ma poche et je l’ai regardé droit dans les
 yeux. J’avais été stupide de lui laisser voir ce que j’avais sur moi,
 mais je savais qu’il y a des moment où il faut se faire respecter.\
-- “Je blague”, il a fini par dire. “Mais fais gaffe avec tout cet
+— “Je blague”, il a fini par dire. “Mais fais gaffe avec tout cet
 argent. Ne le fais pas voir à tout le monde.”\
-- “Merci”, j’ai répondu, “mais la Sécurité Intérieure me protège.” Son
+— “Merci”, j’ai répondu, “mais la Sécurité Intérieure me protège.” Son
 sourire s’est encore agrandi.\
-- “Ah ! C’est même pas des amateurs. Ces cornichons n’ont pas la moindre
+— “Ah ! C’est même pas des amateurs. Ces cornichons n’ont pas la moindre
 idée. “\
 J’ai regardé son camion. Il y avait un FasTrak bien en évidence sur le
 pare-brise. Je me demandais combien de temps ça prendrait avant qu’il se
 fasse avoir.\
-- “Vous avez invité des filles ce soir ? C’est pour ça que vous avez
+— “Vous avez invité des filles ce soir ? C’est pour ça que vous avez
 tout cette bière ?”\
 J’ai souri et je l’ai salué de la main comme s’il avait été en train de
 retourner à son camion, ce qu’il aurait dû faire. A la fin il a compris
@@ -299,41 +299,41 @@ des épiphénomènes à ce fait central.
 Jolu et moi nous sommes chacun ouvert une bière — une Anchor Steam pour
 lui, une Bud Lite pour moi — et nous avons trinqué en nous asseyant sur
 les rochers.\
-- “Tu leur as dit 21 heures ?”\
-- “Ouais”, il y a dit.\
-- “Moi aussi”.\
+— “Tu leur as dit 21 heures ?”\
+— “Ouais”, il y a dit.\
+— “Moi aussi”.\
 Nous avons bu en silence. La Bud Lite était la boisson la moins
 alcoolisée de la glacière. J’aurais besoin d’avoir les idées claires
 plus tard.\
-- “Ca t’arrive de prendre peur ?”, ai-je finalement demandé. Il s’est
+— “Ca t’arrive de prendre peur ?”, ai-je finalement demandé. Il s’est
 tourné vers moi.\
-- “Non, je prends pas peur. J’ai peur tout le temps. J’ai eu peur depuis
+— “Non, je prends pas peur. J’ai peur tout le temps. J’ai eu peur depuis
 les explosions. Parfois j’ai tellement peur que je ne veux pas sortir de
 mon lit. “\
-- “Alors pourquoi est-ce que tu fais ça ?” Il a souri.\
-- “Puisqu’on en parle, peut-être que je ne vais pas continuer longtemps.
+— “Alors pourquoi est-ce que tu fais ça ?” Il a souri.\
+— “Puisqu’on en parle, peut-être que je ne vais pas continuer longtemps.
 Je veux dire, c’était génial de te donner un coup de main. Génial.
 Vraiment excellent. Je ne vois pas quand qu’ai fais quoi que ce soit
 d’aussi important. Mais Marcus, mon frère, je dois te dire…” Il s’est
 interrompu.\
-- “Quoi”, ai-je demandé, bien que j’aie su ce qui allait venir.\
-- “Je ne peux pas continuer indéfiniment”, a-t-il finalement dit.
+— “Quoi”, ai-je demandé, bien que j’aie su ce qui allait venir.\
+— “Je ne peux pas continuer indéfiniment”, a-t-il finalement dit.
 “Peut-être même pas un moins. Je crois que je n’en peux plus. C’est trop
 dangeureux. Le DSI, tu ne peux pas leur faire la guerre. C’est dément.
 C’est vraiment, réellement dément.”\
-- “Tu parles comme Van”, j’ai dit. Ma voix était bien plus amère que ce
+— “Tu parles comme Van”, j’ai dit. Ma voix était bien plus amère que ce
 que j’aurais voulu.\
-- “Je ne te critique pas. Je pense que c’est fantastique que tu sois
+— “Je ne te critique pas. Je pense que c’est fantastique que tu sois
 assez brave pour faire ce que tu fais tout le temps. Mais je ne suis pas
 comme ça. Je ne peux pas vivre dans une terreur perpétuelle.”\
-- “De quoi tu parles ?”\
-- “Je dis que j’en ai assez. Je vais rejoindre les gens qui font comme
+— “De quoi tu parles ?”\
+— “Je dis que j’en ai assez. Je vais rejoindre les gens qui font comme
 si tout allait bien, comme si les choses allaient revenir à la normale
 un jour. Je vais utiliser Internet comme l’ai toujours fait, et
 n’utiliser Xnet que pour jouer aux jeux. Je dis que je veux sortir de
 tout ça. Je ne prendrai plus part à tes plans. “\
 Je n’ai rien dit.\
-- “Je sais que ça te laisse tout seul. Ca n’est pas ce que je veux, je
+— “Je sais que ça te laisse tout seul. Ca n’est pas ce que je veux, je
 te jure. Je préfèrerais que tu laisses tomber toi aussi. Tu ne peux pas
 déclarer la guerre au gouvernement des USA. Ca n’est pas une guerre que
 tu peux gagner. Te regarder essayer, c’est comme regarder un oiseau qui
@@ -345,12 +345,12 @@ le pays était avant qu’ils en prennent le contrôle ? Mais ça n’était pas
 ce qu’il voulait que je lui dise. Ce qu’il voulait que je lui dise,
 c’est “Je comprends, Jolu. Je respecte ton choix.” Il a bu le reste de
 sa bouteille et en a sorti une nouvelle dont il a ouvert le bouchon.\
-- “Il y a autre chose”, a-t-il dit.\
-- “Quoi ?”\
-- “Je ne voulais pas le mentionner, mais je veux que tu comprennes
+— “Il y a autre chose”, a-t-il dit.\
+— “Quoi ?”\
+— “Je ne voulais pas le mentionner, mais je veux que tu comprennes
 pourquoi je dois faire ça.\
-- “Pour l’amour du ciel, Jolu, quoi ?”\
-- “Je déteste devoir dire ça, mais tu es blanc. Moi, pas. Les blancs qui
+— “Pour l’amour du ciel, Jolu, quoi ?”\
+— “Je déteste devoir dire ça, mais tu es blanc. Moi, pas. Les blancs qui
 se font chopper avec de la cocaïne font des stades de citoyenneté. Les
 bruns qui se font prendre avec du crack vont en prison pour vingt ans.
 Les Blancs voient un flic dans la rue et se sentent en sécurité. Les
@@ -364,8 +364,8 @@ la Mission et contrôlaient son identité, il y avait de bonnes chances
 pour que cette personne ne soit pas un Blanc. Quelque risque que je
 coure, Jolu en courait de pires. Quelque peine que je doive payer, Jolu
 payerait plus cher.\
-- “Je ne sais pas quoi dire”, ai-je dit.\
-- “Tu n’as pas à dire quoi que ce soit”, il a dit. “Je voulais juste que
+— “Je ne sais pas quoi dire”, ai-je dit.\
+— “Tu n’as pas à dire quoi que ce soit”, il a dit. “Je voulais juste que
 tu saches, pour que tu puisses comprendre.
 
 Je voyais des gens descendre le sentier dans notre direction. C’était
@@ -379,11 +379,11 @@ argent de son sac, et m’en a offert. J’en ai pris une gorgée — la vodka
 chaude n’est pas quelque chose qui s’apprécie sans une certaine habitude
 — et lui ai fait compliment pour sa flasque, qui était rehaussée d’une
 frise de personnages de Parappa the Rapper.\
-- “C’est japonais”, a-t-elle dit pendant que je l’examinais avec mon
+— “C’est japonais”, a-t-elle dit pendant que je l’examinais avec mon
 porte-clef à LED. “Ils ont plein de gadgets pour l’alcool basés sur des
 jeux pour gamins. C’est totalement tordu”.\
 Je me suis présenté et elle s’est présentée.\
-- “Ange”, a-t-elle dit en me serrant la main — la mienne était sèche,
+— “Ange”, a-t-elle dit en me serrant la main — la mienne était sèche,
 chaude, avec des ongles courts.\
 Jolu m’a présenté à ses amis, qu’il connaissait depuis un camp
 d’informatique en 4ème année. D’autres sont arrivés — cinq, puis dix, et
@@ -398,7 +398,7 @@ n’en rien montrer en me concentrant sur les interactions avec les
 invités. Mais il n’était pas stupide. Il savait ce qui se passait. Je
 voyais qu’il était vraiment ennuyé. Bien.
 
-- “OK” ai-je dit en escaladant une ruine, “OK, hé, tout le monde ?”\
+— “OK” ai-je dit en escaladant une ruine, “OK, hé, tout le monde ?”\
 Quelques personnes proches ont fait attention, mais ceux du fond
 continuaient de bavarder. J’ai tendu mon bras en l’air comme un arbitre,
 mais il faisait trop sombre. Finalement j’ai eu l’idée d’allumer ma
@@ -408,7 +408,7 @@ monde, puis je leur ai demandé de se rapprocher pour que je puisse
 expliquer pourquoi nous étions tous là. Je voyais qu’ils étaient tous
 captivés par l’atmosphère secrète, intrigués et un peu lancés par la
 bière.\
-- “Voilà de quoi il s’agit. Vous utilisez tous Xnet. Ce n’est pas une
+— “Voilà de quoi il s’agit. Vous utilisez tous Xnet. Ce n’est pas une
 coïcidance si Xnet a été créé juste après que le DSI a pris le contrôle
 de la ville. Les gens qui ont fait ça sont une organisation consacrée à
 la liberté personnelle, qui ont créé le réseau pour nous garder des
@@ -418,7 +418,7 @@ que nous étions derrière tout, à personne. C’était trop risqué. A la
 place, nous allions tout présenter comme si nous n’étions que des
 lieutenants dans l’armée commandée par “M1k3y”, qui travaillaient à
 organiser la résistance locale.\
-- “Le Xnet n’est pas pur”, j’ai dit. “Il peut être utilisé par le camp
+— “Le Xnet n’est pas pur”, j’ai dit. “Il peut être utilisé par le camp
 d’en face tout autant que par nous. Nous savons qu’il y a des espions du
 DSI qui l’utilisent en ce moment même. Ils utilisent des trucs
 d’ingénierie sociale pour nous inciter à nous révéler, de façon à
@@ -428,7 +428,7 @@ l’intérieur du réseau.”\
 J’ai fait une pause pour laisser digérer ça. Jolu avait suggéré que
 c’était un peu violent — apprendre brusquement qu’on est en train de se
 faire recruter dans une cellule révolutionnaire.\
-- “Maintenant, je ne suis pas là pour vous demander de faire quoi que ce
+— “Maintenant, je ne suis pas là pour vous demander de faire quoi que ce
 soit activement. Vos n’avez pas à sortir faire du brouillage ou je ne
 sais quoi. On va a fait venir ici parce qu’on sait que vous êtes cool,
 et que vous êtes dignes de confiance. C’est à cette confiance que nous
@@ -436,7 +436,7 @@ voudrions vous faire contribuer ce soir. Certains d’entre vous
 connaissent déjà les réseaux de confiance et les signatures de clefs,
 mais pour le reste d’entre vous, je fais un petit rappel — “\
 Ce que j’ai fait.\
-- “Maintenant, ce que je voudrais que vous fassiez ce soir, c’est
+— “Maintenant, ce que je voudrais que vous fassiez ce soir, c’est
 rencontrer les gens ici et voir à quel point vous pouvez leur faire
 confiance. Nous allons vous aider à générer des paires de clefs et les
 partager entre vous. “\
@@ -445,7 +445,7 @@ laptops n’aurait jamais marché, mais nous avions besoin de faire quelque
 chose de bien complexe qui ne pouvait pas exactement se faire avec un
 papier et un crayon. J’ai sorti un laptop que Jolu et moi avions
 reconstruit la veille au soir, depuis zéro.\
-- “J’ai confiance en cette machine. Nous en avons assemblé chaque
+— “J’ai confiance en cette machine. Nous en avons assemblé chaque
 composante de nos propres mains. Elle tourne sur une version toute
 récente de ParanoidLinux, bootée directement du DVD. S’il reste un
 ordinateur sûr dans le monde, ça pourrait bien être celui-là. J’ai un

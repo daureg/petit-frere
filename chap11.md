@@ -18,7 +18,7 @@ The University Bookstore 4326 University Way NE, Seattle, WA 98105 USA
 +1 800 335 READ*
 
 Jolu s’est levé.\
-- “Ca commence ici, les gars. Voilà comment on saura dans quel camp vous
+— “Ca commence ici, les gars. Voilà comment on saura dans quel camp vous
 êtes. Vous pouvez très bien ne pas vouloir vous battre dans les rues et
 vous faire arrêter pour vos opinions, mais si vous avez des opinions, ça
 nous le montrera. Ceci va créer le réseau de confiance qui nous dira qui
@@ -27,11 +27,11 @@ jour, nous devons le faire. Nous devons faire quelque chose dans ce
 genre.”\
 Quelqu’un dans l’audiance — c’était Ange — avait la main levée, une
 bouteille de bière dedans.\
-- “Alors traitez-moi d’imbécile, mais je ne pige rien de toute ça.
+— “Alors traitez-moi d’imbécile, mais je ne pige rien de toute ça.
 Pourquoi est-ce que tu veux qu’on fasse ça ?”\
 Jolu m’a jeté un coup d’oeil, et je lui ai rendu son regard. Ca semblait
 tellement évident quand nous l’avions organisé.\
-- “Xnet n’est pas seulement une façon de jouer à des jeux gratuits.
+— “Xnet n’est pas seulement une façon de jouer à des jeux gratuits.
 C’est le dernier réseau de communication ouvert d’Amérique. C’est la
 dernière façon qui reste de communiquer sans se faire espionner par le
 DSI. Pour qu’il fonctionne, nous devons savoir que celui à qui on parle
@@ -42,7 +42,7 @@ faisons confiance. Je veux dire, vraiment confiance. Nous mettrions nos
 vies entre vos mains. “\
 Certains ont grogné. Ca avait l’air mélodramatique et stupide. Je me
 suis redressé.\
-- “Quand les bombes ont explosé”, j’ai dit, et alors quelque chose s’est
+— “Quand les bombes ont explosé”, j’ai dit, et alors quelque chose s’est
 serré dans ma poitrine, quelque chose qui faisait mal. “Quand les bombes
 ont explosé, nous étions quatre qui nous sommes fait attraper vers
 Market Street. Pour je ne sais quelle raison, le DSI a décidé que ça
@@ -56,7 +56,7 @@ parlons de ça à quiconque, ils nous arrêteront et nous feront
 disparaître. Pour toujours”.\
 Je tremblais. J’avais honte. Cette putain de honte. Jolu avait sa lampe
 braquée sur moi.\
-- “Bon Dieu”, j’ai dit. “Vous autres êtes les premières personnes à qui
+— “Bon Dieu”, j’ai dit. “Vous autres êtes les premières personnes à qui
 j’ai raconté. Si cette histoire se répend, vous pourrez être sûrs qu’ils
 sauront qui l’a racontée. Vous pouvez être sûrs que j’aurais de la
 visite.” J’ai respiré profondément à plus reprises. “Voilà pourquoi je
@@ -65,7 +65,7 @@ combattre le DSI. A chaque fois que je respire. Chaque jour. Tant que
 nous ne serons pas libres à nouveau. N’importe lequel d’entre vous peut
 maintenant m’envoyer en prison, si vous voulez. “\
 Ange a levé sa main une nouvelle fois.\
-- “On ne va pas te cafter, ” a-t-elle dit. “Pas question. Je connais
+— “On ne va pas te cafter, ” a-t-elle dit. “Pas question. Je connais
 pratiquement tout le monde ici et je peux te le promettre. Je ne sais
 pas comment savoir à qui faire confiance, mais je sais à qui ne pas
 faire confiance. Les vieux. Nos parents. Les adultes. Quand ils pensent
@@ -83,25 +83,25 @@ ces connards de plus de 25′ !”\
 Ca a déclanché des rires, et elle a rit aussi.\
 Elle était jolie, d’une façon bizarre, qui rappelait un cheval, avec un
 visage étroit et une longue mâchoire.\
-- “Je ne blague pas complètement, vous savez ? Je veux dire,
+— “Je ne blague pas complètement, vous savez ? Je veux dire,
 réfléchissez-y un moment. Qui a élu ces clowns de mes fesses ? Qui les a
 laissés envahir notre ville ? Qui a voté pour installer des caméras dans
 les salles de classe et nous suivre partout avec des puces d’espionnage
 dans les cartes de transport et les voitures ? C’était pas quelqu’un de
 16 ans. On est peut-être bees, on est peut-être jeunes, mais nous se
 sommes pas de la racaille. “\
-- “Je veux un T-shirt avec ça écrit dessus !”, j’ai dit.\
-- “Ca serait une bonne blague”, a-t-elle répondu.\
+— “Je veux un T-shirt avec ça écrit dessus !”, j’ai dit.\
+— “Ca serait une bonne blague”, a-t-elle répondu.\
 Nous nous sommes souri.\
-- “Où est-ce qu’on va pour avoir ces clefs ?” a-t-elle demandé en
+— “Où est-ce qu’on va pour avoir ces clefs ?” a-t-elle demandé en
 sortant son téléphone.\
-- “On va faire ça par ici, dans la zone fermée près des grottes. Je vous
+— “On va faire ça par ici, dans la zone fermée près des grottes. Je vous
 conduirai là-bas et je vous montrerai comment faire, et ensuite vous
 faite ce que vous avez à faire et vous montrez la machine à votre amis
 pour faire les photos de votre clef publique pour qu’ils puissent la
 signer en rentrant chez eux. “\
 J’ai levé la voix.\
-- “Oh ! Encore une chose ! Pour l’amour du ciel, j’y crois pas que j’aie
+— “Oh ! Encore une chose ! Pour l’amour du ciel, j’y crois pas que j’aie
 oublié ça. Détruisez les photos quand vous aurez tapé vos clefs ! La
 dernière chose dont nous aurions envie c’est d’un flux de photos sur
 Flickr avec des photos de nous en train de conspirer. “\
@@ -110,24 +110,24 @@ n’ai plus rien vu dans les ténèbres soudaines. Graduellement, les yeux
 se sont ajustés et je me suis mis en route pour la grotte. Quelqu’un
 marchait sur mes pas. Ange. Je me suis tourné et lui ai souri, et elle
 m’a répondu, des dents lumineuses dans la pénombre.\
-- “Merci pour tout à l’heure”, j’ai dit. “Tu étais parfaite.”\
-- “Tu étais sérieux avec l’histoire du sac sur la tête et tout le reste
+— “Merci pour tout à l’heure”, j’ai dit. “Tu étais parfaite.”\
+— “Tu étais sérieux avec l’histoire du sac sur la tête et tout le reste
 ? “\
-- “J’étais sérieux”, ai-je répondu. “C’est arrivé. Je n’en avais jamais
+— “J’étais sérieux”, ai-je répondu. “C’est arrivé. Je n’en avais jamais
 parlé à personne, mais c’est arrivé. “\
 J’y ai réfléchi pendant un moment.\
-- “Tu sais, avec tout le temps qui s’est écoulé depuis, sans parler à
+— “Tu sais, avec tout le temps qui s’est écoulé depuis, sans parler à
 personne, ça commençait à me faire l’effet d’un mauvais rêve. Et
 pourtant c’était la réalité. “\
 Je me suis arrêté et je suis monté vers la grotte.\
-- “Je suis content d’avoir finalement parlé à quelqu’un. Encore un peu
+— “Je suis content d’avoir finalement parlé à quelqu’un. Encore un peu
 et j’aurais douté de ma propre santé mentale.”\
 J’ai installé le laptop sur un rocher assez sec et l’ai démaré depuis le
 DVD pendant qu’ele regardait.\
-- “Je vais le redémarer pour chaque personne. C’est un disque standard
+— “Je vais le redémarer pour chaque personne. C’est un disque standard
 de ParanoidLinux, quoi que tu doives me croire sur ce point.”\
-- “Mais bon”, elle a dit, “toute l’idée, là, c’est la confiance, non ?”\
-- “Oui”, ai-je dit, “la confiance”.\
+— “Mais bon”, elle a dit, “toute l’idée, là, c’est la confiance, non ?”\
+— “Oui”, ai-je dit, “la confiance”.\
 Je me suis retiré de quelques mètres pendant qu’elle faisait tourner le
 générateur de clef, en écoutant ses frappes sur les clavier et le
 glissement de la souris pour générer du hasard, en écoutant le ressac
@@ -136,7 +136,7 @@ de la bière. Elle est sortie de la grotte en portant le laptop. Dessus,
 en lettres énormes et lumineuses, apparaissaient sa clef publique, avec
 son checksum et son adresse mail. Elle a approché l’écran de son visage
 et a attendu pendant que je sortais mon téléphone.\
-- “Souriiiiire”, a-t-elle dit.\
+— “Souriiiiire”, a-t-elle dit.\
 J’ai pris la photo et rengainé l’appareil photo dans ma poche. Elle est
 allée d’un gorupe à l’autre pour se faire prendre en photo avec l’écran.
 C’était festif. Fun. Elle avait vraiment beaucoup de charisme — on
@@ -162,13 +162,13 @@ nous unirait pour la vie entière.
 J’ai généré ma clef et j’ai fait le circuit à travers toute la bande, en
 me faisait photographier par chacun. Puis je suis monté sur la hauteur
 d’où j’avais parlé avant et j’ai demandé l’attention de tout le monde.\
-- “Alors, beaucoup d’entre vous on remarqué qu’il y a un défaut crucial
+— “Alors, beaucoup d’entre vous on remarqué qu’il y a un défaut crucial
 dans toute cette procédure : et si ce laptop n’était pas sûr ? S’il
 enregistrait secrètement nos instructions ? S’ils nous espionnait ? Et
 si Jose-Luis et moi n’étions pas dignes de confiance ?”\
 Les gens ont encore pouffé gentiment. Un peu plus chaleureusement
 qu’avait, à cause de la bière.\
-- “C’est sérieux !”, ai-je insisté. “C’est pourquoi je vais faire ça.”
+— “C’est sérieux !”, ai-je insisté. “C’est pourquoi je vais faire ça.”
 ai-je dit en sortant un marteau que j’avais pris dans la trousse à outil
 de Papa.\
 J’ai posé le laptop derrière moi et balancé le marteau, pendant que Jolu
@@ -185,7 +185,7 @@ ne subsiste pas de morceau plus grand qu’un briquet, et j’ai tout
 ramassé dans un sac poubelle. La foule poussait des hourrah délirants —
 assez fort pour que je m’inquiète que quelqu’un de loin, plus haut, nous
 entende par-dessus le bruit du ressac et appelle la police.\
-- “Bon !”, j’ai dit. “Maintenant, si vous voulez bien m’accompagner, je
+— “Bon !”, j’ai dit. “Maintenant, si vous voulez bien m’accompagner, je
 vais emporter ceci à la mer et le tremper dix minutes dans l’eau salée.
 “\
 Au début ça n’a intéressé personne, mais alors Ange s’est avancée et m’a
@@ -226,8 +226,8 @@ Le moment s’est étendu. J’ai soupiré. Ca avait été une sacré nuit.
 J’aurais beaucoup à taper cette nuit, à introduire toutes les clefs dans
 mon trousseau, les signer et publier les clefs signes. Démarrer le
 réseau de confiance. Elle a soupiré elle aussi.\
-- “Allons-y”, j’ai dit.\
-- “Oui”\
+— “Allons-y”, j’ai dit.\
+— “Oui”\
 Nous sommes revenus sur nos pas. Cette nuit était une bonne nuit.
 
 Jolu a attendu aprés la fête que l’ami de son frère vienne reprendre ses
@@ -377,15 +377,15 @@ dans les cheveux, et s’est assise en allumant son SchoolBook. Elle a
 pris une craie et s’est tournée pour faire face au tableau. Nous avons
 tous ri. Sans méchanceté, mais nuos avons ri. Elle s’est tournée et elle
 riait aussi.\
-- “L’inflation semble affecter les auteurs de slogans de ce pays,
+— “L’inflation semble affecter les auteurs de slogans de ce pays,
 semble-t-il. Combien d’entre vous savent d’où vient cette phrase ?”\
 Nous nous sommes entre-regardés.\
-- “Les hippies ?”, a proposé quelqu’un, et nous avons ri.\
+— “Les hippies ?”, a proposé quelqu’un, et nous avons ri.\
 Les hippies se trouvent partout à San Francisco, tant la variété vieux
 junkie avec d’énormes barbes broussailleuse et des lunettes de soleil
 que la nouvelle version, qui s’intéressent plus aux costumes et aux
 courses en sac qu’à manifester contre quoi que ce soit.\
-- “Eh bien oui, les hippies. Mais quand on parle de hippies de nos
+— “Eh bien oui, les hippies. Mais quand on parle de hippies de nos
 jours, on pense aux habits et à la musique. Les habits et la musique
 étaient accessoires aux courant profonds qui ont fait de cette ère, les
 années soixante, une période importante. Vous avez tous entendu parler
@@ -418,9 +418,9 @@ plus radicaux. Des groupes supprémacistes noirs comme les Black Panthers
 Pink Panthers, aussi. Des groupes féministes radicaux, même des
 “séparatistes lesbiennes” qui voulaient carrément abolir les hommes. Et
 les Yippies. Quelqu’un a entendu parler des Yippies ?”\
-- “C’est pas eux qui ont fait léviter le Pentagone ?”, ai-je dit.
+— “C’est pas eux qui ont fait léviter le Pentagone ?”, ai-je dit.
 J’avais vu un documentaire sur cette histoire. Elle a ri.\
-- “J’avais oublié ça mais effectivement, c’était eux. Les Yippies
+— “J’avais oublié ça mais effectivement, c’était eux. Les Yippies
 étaient des hippies très politisés, mais ils n’étaient pas sérieux au
 sens où nous pensons à la politique de nos jours. Ils étaient joueurs.
 Blagueurs. Ils jetaient de l’argent à la Bourse de New York. Ils ont
@@ -471,11 +471,11 @@ coup, toutes ces manifestations nazes et solennelles d’adultes n’avaient
 plus du tout l’air aussi nazes. Peut-être qu’il y avait de la place pour
 ce genre d’action dans le mouvement Xnet.\
 J’ai levé la main.\
-- “Ils ont gagné ? Est-ce que les Yippies ont gagné ?”\
+— “Ils ont gagné ? Est-ce que les Yippies ont gagné ?”\
 Elle m’a lancé un long regard, comme si elle pesait soigneusement sa
 réponse. Personne n’a pipé mot. Nous voulions tous connaître la
 réponse.\
-- “Ils n’ont pas perdu”, a-t-elle dit. “Ils ont un peu implosé, en
+— “Ils n’ont pas perdu”, a-t-elle dit. “Ils ont un peu implosé, en
 quelque sorte. Certains sont allés en prison pour des histoires de
 drogue ou autre. Certains ont changé leur fusil d’épaule, sont devenus
 des yuppies et ont donné des conférences pour dire à tout le monde à
@@ -488,13 +488,13 @@ Noirs, des femmes et des homosexuels ont largement progressé. Les droits
 des Hispaniques, des handicapés, et toute la tradition des libertés
 civiles ont été renforcés par ces gens. Le mouvement protestataire
 actuel est un descendant direct de leurs luttes.”\
-- “Je n’en reviens pas que vous parliez d’eux comme ça”, a dit Charles.
+— “Je n’en reviens pas que vous parliez d’eux comme ça”, a dit Charles.
 Il était tellement en arriére sur son siège qu’il était presque debout,
 et son visage sec et maigre avait viré au rouge. Il avait de grands yeux
 humides et des lèvres charnues, et quand il s’énervait il avait l’air
 d’un poisson. Madame Galvez s’est raidie un peu, et a dit\
-- “Continue, Charles.”\
-- “Vous venez juste de décrire des terroristes. De véritables
+— “Continue, Charles.”\
+— “Vous venez juste de décrire des terroristes. De véritables
 terroristes. Ils faisaient sauter des immeubles, vous avez dit. Ils ont
 essayé de détruire la Bourse. Ils tapaient sur les policiers, et
 empêchaient la police d’arrêter des gens qui violaient la loi. Ils nous
@@ -502,16 +502,16 @@ ont attaqués !”\
 Madame Galvez a hoché lentement la tête. Je voyais qu’elle essayait de
 trouver une façon de traiter Charles, qui avait vraiment l’air prêt à
 exploser.\
-- “Charles soulève un bon argument. Les Yippies n’étaient pas des agents
+— “Charles soulève un bon argument. Les Yippies n’étaient pas des agents
 de l’étranger, c’étaient des citoyens américains. Quand tu dis ‘ils nous
 ont attaqués’, tu doit clarifier à qui ‘ils’ et ‘nous’ font référence.
 Quand ce sont des compatriotes — “\
-- “Conneries !”, a-t-il hurlé. Il était debout sur ses pieds. “Nous
+— “Conneries !”, a-t-il hurlé. Il était debout sur ses pieds. “Nous
 étions en guerre. Ces types étaient en intelligence avec l’ennemi. C’est
 facile de dire qui est nous et qui est eux : si vous soutenez
 l’Amérique, vous êtes nous. Si vous soutenez les gens qui tirent sur les
 Américains, vous êtes eux.”\
-- “Est-ce que quelqu’un d’autre a un commentaire ?”\
+— “Est-ce que quelqu’un d’autre a un commentaire ?”\
 Plusieurs mains se sont levées. Madame Galvez leur a donné la parole
 tour à tour. Certains ont fait remarquer que la raison pour laquelle les
 Vietnamiens tiraient sur des Américains tenait à ce que ces Américains
@@ -527,7 +527,7 @@ souvenais avoir lu. Je l’ai toruvé Je me suis levé. Madame Galvez m’a
 regardé en attendant mon intervention. Les autres ont suivi son regard
 et se sont tus. Même Charles m’a regardé après un instant, ses gros yeux
 humides brillants de haine contre moi.\
-- “Je voudrais lire quelque chose”, ai-je déclaré. “C’est court”.
+— “Je voudrais lire quelque chose”, ai-je déclaré. “C’est court”.
 
 Les gouvernements sont instituté par les hommes, tirent leur juste
 pouvoir de l’agrément des gouvernés. A chaque fois qu’une forme de

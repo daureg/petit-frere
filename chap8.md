@@ -81,12 +81,12 @@ qu’il voyait sur Pigspleen était maintenant encrypté. Xnet pourrait bien
 avoir été sauvé.
 
 Papa me rendait dingue, par contre.\
-- “Tu es parano, Marcus,”, m’a-t-il dit à un petit déjeuner quand je lui
+— “Tu es parano, Marcus,”, m’a-t-il dit à un petit déjeuner quand je lui
 ai raconté que j’avais vu des types se faire arrêter par les flics au
 BART la veille.\
-- “Papa, c’est idicule. Ils n’attrape aucun terroriste, si ? Ca fait
+— “Papa, c’est idicule. Ils n’attrape aucun terroriste, si ? Ca fait
 juste peur aux gens.”\
-- “Ils n’ont peut-être pas encore attrapé de terroriste, mais ils
+— “Ils n’ont peut-être pas encore attrapé de terroriste, mais ils
 dégagent certainement plein de racaille des rues. Regarde les dealers de
 drogue — ils disent qu’ils en ont mis des douzaines au frais depuis que
 ça a commencé. Tu te souviens quand ces drogués t’avaient braqué ? Si on
@@ -97,17 +97,17 @@ avait une arme, l’autre m’a demandé mon porte-monnaie. Ils m’ont même
 laissé mes papiers, quoi qu’ils aient pris ma carte de débit et mon Fast
 Pass. Ca m’avait quand même terrifié et rendu paranoïaque, et j’avais
 regardé régulièrement par-dessus mon épaule pendant des semaines.\
-- “Mais la plupart des gens qu’il détiennent n’ont rien fait de mal,
+— “Mais la plupart des gens qu’il détiennent n’ont rien fait de mal,
 Papa”, j’ai dit. Tout ça m’agaçait. Mon propre père ! “C’est délirant.
 Pour chaque coupable qu’ils attrapent, ils punissent des centaines
 d’inncoents. C’est simplement pas bien.”\
-- “Innocents ? Des types qui trompent leurs femmes ? Des trafiquants de
+— “Innocents ? Des types qui trompent leurs femmes ? Des trafiquants de
 drogue ? Tu défends ces types, qu’est-ce que tu fais de tous ceux qui
 sont morts ? Si tu n’as rien à cacher –”\
-- “Alors ça ne t’ennuyerais pas qu’ils t’arrêtent ?” Jusqu’à ce jour,
+— “Alors ça ne t’ennuyerais pas qu’ils t’arrêtent ?” Jusqu’à ce jour,
 les histogrammes de mon père s’était révélés jour normaux à vous causer
 une dépression nerveuse.\
-- “Je considèrerais ça comme un devoir, ” a-t-il dit. “Je serais fier.
+— “Je considèrerais ça comme un devoir, ” a-t-il dit. “Je serais fier.
 Je me sentirais plus en sécurité”. Facile à dire quand on était lui.
 
 Vanessa n’aimait pas que je parle de ça, mais elle s’y connaissait trop
@@ -117,7 +117,7 @@ trivialités sans conséquences, et tout d’un coup, je ne sais comment, je
 me retrouvais sur ce sujet. Vanessa était calme quand ça arrivait — et
 ne se mettait plus hors d’elle — mais je sentais que ça la dérangeait.
 Mais bon.\
-- “Alors mon père a dit ‘je considérerais ça comme mon devoir’. C’est
+— “Alors mon père a dit ‘je considérerais ça comme mon devoir’. C’est
 complètement dingue, non ? Je veux dire, bon Dieu ! J’ai failli lui
 raconter que j’avais été en prison, et lui demander s’il pensait ce
 c’était notre ‘devoir’ !”.\
@@ -143,25 +143,25 @@ mais je voyais aussi qu’elle était super mignonne, quelque chose que je
 n’avais jamais remarqué. Bien sûr, Darryl l’avait su de longue date,
 mais ne croyez pas pour autant que je n’ai pas été comme frappé par la
 foudre en le comprenant.\
-- “Tu ne peux pas en parler à ton père, tu sais”, a-t-elle dit. “Tu nous
+— “Tu ne peux pas en parler à ton père, tu sais”, a-t-elle dit. “Tu nous
 mettrais tous en danger”. Ses yeux étaient fermées et sa poitrine
 montait et descendait avec sa respiration, ce qui me distrayait d’une
 façon vraiment embarassante.\
-- “Oui”, j’ai dit, l’air sombre. “Mais le problème c’est que je sais
+— “Oui”, j’ai dit, l’air sombre. “Mais le problème c’est que je sais
 qu’il n’est pas vraiment sérieux. Si on arrêtait mon père pour l’obliger
 à prouver qu’il n’est pas un terroriste pédophile trafiquant de drogue,
 il deviendrait fou furieux. Il serait hors de lui. Il ne supporte déjà
 pas de se faire mettre en attente quand il téléphone pour des factures
 de carte de crédit. S’il était enfermé à l’arrière d’une voiture et
 interrogé pendant une heure, il ferait une rupture d’anévrisme. “\
-- “Ils s’en sortent uniquement parce que les normaux méprisent les
+— “Ils s’en sortent uniquement parce que les normaux méprisent les
 anormaux. Si tout le monde se faisait arrêter, ce serait un désastre.
 Personne n’irait jamais nulle part, ils attendraient tous de se faire
 interroger par les flics. Ca serait la paralysie totale.\
-- “Ouah ! Van, tu es un vrai génie !”, j’ai dit.\
-- “Redis-me-le…”, a-t-elle répondu. Elle souriait paresseusement et me
+— “Ouah ! Van, tu es un vrai génie !”, j’ai dit.\
+— “Redis-me-le…”, a-t-elle répondu. Elle souriait paresseusement et me
 regardait par ses yeux mi-clos, presque romantique.\
-- “Sérieusement. On peut le faire. On peut facilement saboter ces
+— “Sérieusement. On peut le faire. On peut facilement saboter ces
 profiles. Faire arrêter les gens est facile.” Elle s’est assise, a
 rejeté ses cheveux en arrière et m’a regardé. J’ai senti des libellules
 dans mon estomac, j’avais l’impression que je l’impressionais vraiment.
@@ -174,29 +174,29 @@ monde aura l’air bizarre et louche, et tout le monde aura l’air
 coupable. Et alors : paralysie totale.” Van a serré les lèvres et baissé
 ses lunettes, et j’ai réalisé qu’elle était si fâchée qu’elle ne pouvait
 pas parler.\
-- “Au revoir, Marcus”, a-t-elle dit, et elle s’est levée. En un clin
+— “Au revoir, Marcus”, a-t-elle dit, et elle s’est levée. En un clin
 d’oeil, elle marchait au loin si vite qu’elle courait presque.\
-- “Vam ! Van !”, ai-je lancé en me levant et en me lançant à sa
+— “Vam ! Van !”, ai-je lancé en me levant et en me lançant à sa
 poursuite. Elle a accéléré, me forçant à lui courir après pour la
 rattraper. “Van, qu’est-ce qu’il y a ?”, ai-je demandé en lui attrapant
 le bras. Elle s’est dégagé si vivement que j’ai pris mon propre poing
 dans la figure.\
-- “Tu es dingue, Marcus. Tu vas mettre tous des petits copains de Xnet
+— “Tu es dingue, Marcus. Tu vas mettre tous des petits copains de Xnet
 en danger de mort, et en plus de ça tu vas faire de toute la ville des
 suspects de terrorisme. Tu ne pourrais pas arrêter avant de faire du mal
 à des gens ?” J’ai ouvert et fermé la bouche plusieurs fois.\
-- “Van, ça n’est pas moi le problème, c’est eux. Ce n’est pas moi qui
+— “Van, ça n’est pas moi le problème, c’est eux. Ce n’est pas moi qui
 arrête les gens, qui les jette en prison, qui les fait disparaître. 
 C’est le Département de la Sécurité Intérieure qui fait ça. Je me bats
 pour me défendre, pour qu’ils arrêtent.”\
-- “Et comment, en agravant le problème ?”\
-- “Peut-être que ça doit être pire pour aller mieux, Van. Ca n’est pas
+— “Et comment, en agravant le problème ?”\
+— “Peut-être que ça doit être pire pour aller mieux, Van. Ca n’est pas
 ce que tu disais ? Si tout le monde se faisait arrêter —”\
-- “Ca n’est pas ça que je voulais dire. je ne voulais pas dire que tu
+— “Ca n’est pas ça que je voulais dire. je ne voulais pas dire que tu
 devrais faire arrêter tout le monde. Si tu veux protester, rejoins une
 manif. Fais quelque chose de positif. Tu n’as rien appris de Darryl ?
 Rien du tout ?”\
-- “Oh que oui !”, j’ai dit en perdant mon calme. “J’ai apprès qu’on ne
+— “Oh que oui !”, j’ai dit en perdant mon calme. “J’ai apprès qu’on ne
 peut pas leur faire confiance. Que si on ne les combat pas, on les aide.
 Qu’ils vont transformer tout le pays en prison si on les laisse faire.
 Qu’est-ce que tu as appris, Van ? A avoir peur en permanence, à rester

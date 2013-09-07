@@ -19,16 +19,16 @@ douche qui fonctionnait pour me rincer — j’ai soudain eu honte d’être
 couvert d’urine et de vomi. Quand j’ai eu fini, Barbara était en pleurs.
 « Tes parents », a-t-elle commencé. J’ai eu la nausée de nouveau. Mon
 dieu, mes pauvres parents. Ce qu’ils avaien dû traverser.\
-- Ils sont ici ?\
-- Non, dit-elle. C’est compliqué.\
-- Quoi ?\
-- Tu es toujours en état d’arrestation, Marcus. Comme tout le monde ici.
+— Ils sont ici ?\
+— Non, dit-elle. C’est compliqué.\
+— Quoi ?\
+— Tu es toujours en état d’arrestation, Marcus. Comme tout le monde ici.
 Ils ne peuvent pas simplement débouler ici et ouvrir grand les portes.
 Tout le monde va passer par le système de justice criminelle. Ca
 pourrait prendre, enfin, ça va prendre des mois.\
-- Je vais devoir rester ici pendant des mois ?\
+— Je vais devoir rester ici pendant des mois ?\
 Elle a pris mes mains dans les siennes.\
-- Non, je pense qu’il va y avoir une audience préliminaire et que tu
+— Non, je pense qu’il va y avoir une audience préliminaire et que tu
 seras relâché sous caution assez vite. Mais assez vite, c’est relatif.
 Je n’espèrerais pas qu’il se passe quoi que ce soit aujourd’hui. Mais ça
 ne se passera pas comme à la manière de ces gens-là. Ca sera humain. Il
@@ -48,7 +48,7 @@ inculpé, mais il y aurait sans aucun doute bien assez de chefs
 d’accusation qu’ils pourraient inventer. Il était pratiquement devenu
 illégal d’avoir des pensées impures à l’égard du gouvernement. Elle m’a
 serré les mains:\
-- “C’est pas drôle, mais c’est comme ça que ça va se passer.
+— “C’est pas drôle, mais c’est comme ça que ça va se passer.
 L’important, c’est que c’est fini. Le gouverneur a expulsé le DHS de
 l’Etat et fait démanteler tous les points de contrôle. Le procureur
 général a émis des mandats d’arrestation pour tous les fonctionnaires
@@ -59,14 +59,14 @@ as fait.
 Mon esprit était engourdi. J’entendais les mots, mais je n’en comprenais
 pas le sens. D’une certaine façon, c’était fini, mais ce n’était pas
 fini.\
-- “Écoute”, a-t-elle dit: “il nous reste probablement une ou deux heures
+— “Écoute”, a-t-elle dit: “il nous reste probablement une ou deux heures
 avant que l’ordre ne se rétablisse, qu’ils ne reviennent et qu’ils ne
 t’emmènent. Qu’est-ce que tu veux faire ? Une promenade sur la plage ?
 Déjeuner ? Ces gens avaient une cantine incroyable — nous l’avons prise
 d’assaut en entrant. Menus gastronomiques et tout.
 
 Enfin une question à laquelle j’avais une réponse.\
-- Je veux retrouver Ange. Je veux retrouver Darryl.\
+— Je veux retrouver Ange. Je veux retrouver Darryl.\
 J’ai essayé d’utiliser un ordinateur pour avoir leur numéro de cellules,
 mais il demandait un mot de passe, et nous en avons été réduits à écumer
 les couloirs en criant leurs noms. Derrière les barreaux des portes, les
@@ -75,7 +75,7 @@ de leur ouvrir. Ils ne comprenaient pas ce qui venait de se passer,
 n’avaient pas vu leurs anciens geôliers conduits sur le quai avec des
 menottes en plastique aux poignets, escortés par les équipes
 d’intervention de la police californienne.\
-- “Ange !”, hurlais-je, “Ange Carvelli! Darryl Glover! c’est moi,
+— “Ange !”, hurlais-je, “Ange Carvelli! Darryl Glover! c’est moi,
 Marcus!”
 
 Nous avions parcouru toute la longueur du bloc de détention et ils
@@ -87,7 +87,7 @@ m’avait demandé mon mot de passe. C’était son oeuvre. Elle irait en
 prison, mais ça n’était pas suffisant. J’ai pensé que quand je la
 reverrais, je la tuerais. C’est ce qu’elle méritait.
 
-- “Hé, Marcus !” a dit Barbara, “Allez, ne désespère pas. Il y en a
+— “Hé, Marcus !” a dit Barbara, “Allez, ne désespère pas. Il y en a
 d’autres par là, viens.”\
 Elle avait raison. Les portes des cellules que vous avions dépassées
 étaient de vieilles antiquités rouillées qui dataient de la construction
@@ -97,43 +97,43 @@ dictionnaire. Nous l’avons tirée et nous sommes aventurés dans la
 pénombre du couloir qu’elle défendait. Il y avait là quatre autres
 portes de cellules, des portes munies de codes barre. Chacune avait une
 serrure à verrouillage numérique avec un petit clavier.\
-- “Darryl” ai-je lancé, “Ange ?”\
-- “Marcus ?” C’était Ange, qui m’appelait de derrière la porte la plus
+— “Darryl” ai-je lancé, “Ange ?”\
+— “Marcus ?” C’était Ange, qui m’appelait de derrière la porte la plus
 éloignée.\
 Ange, mon Ange, mon ange.\
-- “Ange ! C’est moi, c’est moi !”\
-- “Oh Seigneur, Marcus !” Elle s’est étranglée, et nous avons fondu en
+— “Ange ! C’est moi, c’est moi !”\
+— “Oh Seigneur, Marcus !” Elle s’est étranglée, et nous avons fondu en
 sanglots.\
 J’ai martelé les autres portes.\
-- “Darryl ! Darryl, tu es là ?”\
-- “Je suis là”. La voix était toute petite et rauque. “Je suis là. Je
+— “Darryl ! Darryl, tu es là ?”\
+— “Je suis là”. La voix était toute petite et rauque. “Je suis là. Je
 suis vraiment, vraiment désolé. S’il vous plaît. Je suis désolé.” Il
 avait l’air…\
 brisé. En miettes.\
-- C’est moi, D”, ai-je dit, appuyé contre la porte. “C’est Marcus. C’est
+— C’est moi, D”, ai-je dit, appuyé contre la porte. “C’est Marcus. C’est
 fini, ils ont arrêté les gardes. Ils ont viré le Department of Homeland
 Security. On va avoir des procès, des vrais procès. Et nous allons
 pouvoir témoigner contre eux”.\
-- “Je suis désolé” a-t-il répondu. “S’il-vous-plait, je suis tellement
+— “Je suis désolé” a-t-il répondu. “S’il-vous-plait, je suis tellement
 désolé”
 
 A ce moment, les policiers californiens sont arrivés sur le perron. Leur
 caméra filmait toujours.\
-- “Madame Stratford ?” a dit l’un d’eux. Sa visière masquait son visage
+— “Madame Stratford ?” a dit l’un d’eux. Sa visière masquait son visage
 et le faisait ressembler n’importe quel flic, plutôt qu’à mon sauveur.
 Assez comme quelqu’un venu pour m’enfermer.\
-- “Capitaine Sanchez”, a répondu Barbara, “nous avons trouvé des
+— “Capitaine Sanchez”, a répondu Barbara, “nous avons trouvé des
 prisonniers intéressants par ici. J’aimerais que vous les relâchiez pour
 que je puisse les examiner moi-même”.\
-- “Madame, nous n’avons pas encore les codes d’accès pour ces portes”\
+— “Madame, nous n’avons pas encore les codes d’accès pour ces portes”\
 Elle a levé la main:\
-- “Ce n’est pas ce que nous avons convenu. Je dois avoir accès complet à
+— “Ce n’est pas ce que nous avons convenu. Je dois avoir accès complet à
 cette installation. Ca vient directement du gouverneur, capitaine. Nous
 ne bougerons pas d’ici avant que nous n’ayiez ouvert ces cellules.\
 Son visage était lisse, sans l’ombre d’un tic ou d’une expression. Elle
 était vraiment sérieuse. Le capitaine avait l’air de ne pas avoir assez
 dormi. Il a grimacé.\
-- Je vais voir ce que je peux faire.
+— Je vais voir ce que je peux faire.
 
 Finalement, ils ont fini par réussir à ouvrir les cellules, une
 demi-heure plus tard. Il leur a fallu trois essais, mais à la fin ils
@@ -148,7 +148,7 @@ crue en plein sur son visage. Barbara s’est interposée. Ange a fait un
 pas hésitant en dehors de sa cellule, en titubant légèrement. Il y avait
 quelque chose d’anormal dans ses yeux, sur son visage. Elle pleurait,
 mais ça n’était pas ça.\
-- “Ils m’ont droguée, parce que je n’arrêtais pas d’exiger un avocat”\
+— “Ils m’ont droguée, parce que je n’arrêtais pas d’exiger un avocat”\
 C’est alors que je l’ai prise dans mes bras. Elle s’est effondrée sur
 moi, mais elle m’a serrée, elle aussi. Elle puait le renfermé et la
 sueur, mais je ne sentais pas meilleur. Je voulais ne jamais la lâcher.
@@ -157,11 +157,11 @@ A ce moment, la porte de la cellule de Darryl s’est ouvert. Il avait
 déchiré le papier de sa robe d’hôpital. Il était recroquevillé nu au
 fond de la cellule, se protégeant de la caméra et de nos regards. J’ai
 couru à lui.\
-- “D”, j’ai murmuré à son oreille, “D, c’est moi. C’est Marcus. C’est
+— “D”, j’ai murmuré à son oreille, “D, c’est moi. C’est Marcus. C’est
 fini. Les gardes ont été arrêtés. Nous allons être relâchés, nous
 rentrons chez nous.” Il a tremblé et a fermé ses yeux de toutes ses
 forces.\
-- “Je suis désolé”, a-t-il chuchoté, et il a détourné son visage.\
+— “Je suis désolé”, a-t-il chuchoté, et il a détourné son visage.\
 Alors, ils m’ont emmené, un flic en gilet pare-balle et Barbara, ils
 m’ont ramené à ma cellule et ont verrouillé la porte, et c’est comme ça
 que j’ai passé la nuit.
@@ -219,30 +219,30 @@ l’air fatigué. Les huissiers avaient l’air fatigués. Derrière moi, j’ai
 entendu un murmure de conversations soudain quand l’huissier a appelé
 mon nom. Le juge a frappé de son maillet une seule fois, sans me quitter
 des yeux. Il s’est frotté les paupières.\
-- Monsieur Yallow, l’accusation considère que vous risquez de prendre la
+— Monsieur Yallow, l’accusation considère que vous risquez de prendre la
 fuite. Je pense que leur argument est recevable. Vous avez sans aucun
 doute une plus grande, disons, expérience, que les autres personnes ici.
 Je suis tenté de vous mettre en mandat de dépôt, quelle que soit la
 caution que vos parent sont prêts à payer.\
 Mon avocat a commencé à parler,  mais le juge l’a fait taire d’un
 regard. Il s’est frotté les yeux.\
-- Avez-vous quelque chose à déclarer ?\
-- “J’avais l’occasion de fuir”, ai-je dit. “La semaine dernière.
+— Avez-vous quelque chose à déclarer ?\
+— “J’avais l’occasion de fuir”, ai-je dit. “La semaine dernière.
 Quelqu’un a proposé de m’emmener hors de la ville et de m’offrir une
 nouvelle identité. Au lieu de ça, j’ai volé son téléphone, je me suis
 échappé de notre camion, et je me suis enfui. J’ai remis le téléphone —
 qui contenait des preuves concernant mon ami, Darryl Glover — à une
 journaliste, et je me suis caché ici, en ville”.\
-- “Vous avez volé un téléphone ?”\
-- “J’ai décidé que je ne pouvais pas m’enfuir. Que je devais me
+— “Vous avez volé un téléphone ?”\
+— “J’ai décidé que je ne pouvais pas m’enfuir. Que je devais me
 présenter à la justice — que ma liberté ne vaudrait rien si j’étais un
 homme traqué, ou que la ville était toujours sous la coupe du DHS. Si
 mes amis étaient enfermés. Que ma liberté personelle n’était pas aussi
 importante que la liberté du pays.\
-- “Mais vous avez donc volé un téléphone.” J’ai acquiescé.\
-- “Oui. Je voulais le rendre à son propriétaire, si jamais je retrouve
+— “Mais vous avez donc volé un téléphone.” J’ai acquiescé.\
+— “Oui. Je voulais le rendre à son propriétaire, si jamais je retrouve
 la jeune fille en question.”\
-- “Eh bien, merci pour ces déclarations, monsieur Yallow. Vous êtes un
+— “Eh bien, merci pour ces déclarations, monsieur Yallow. Vous êtes un
 jeune homme bien articulé.” Il a posé les yeux sur le procureur.
 “Certains diraient un homme très brave, également. Une certaine vidéo a
 fait les gros titres ce matin. Elle suggérait que vous auriez pu avoir
@@ -258,7 +258,7 @@ main. Le juge a de nouveau baissé ses yeux sur moi et a remis ses
 lunettes en place. Il avait des pellicules sur les épaules de sa toge.
 Quelques autres se sont encore déposées quand les branches de ses
 lunettes ont touché les boules de ses cheveux.\
-- Vous pouvez disposer, jeune homme. Evitez les ennuis.
+— Vous pouvez disposer, jeune homme. Evitez les ennuis.
 
 Je me suis tourné pour sortir et quelqu’un m’a sauté dessus. C’était mon
 père. Il m’a littéralement soulevé de terre, m’étreignant si fort que
@@ -273,19 +273,19 @@ larmes coulant en flot sur ses joues. Elle a souri et sanglotté et tout
 à coup elle aussi m’étreignait, et les bras de Papa nous entouraient
 tous\
 les deux. Quand ils m’ont lâché, j’ai enfin dit quelque chose.\
-- Darryl ?\
-- Son père m’a rencontré avant. Il est à l’hôpital.\
-- Quand pourrai-je le voir ?\
-- “Nous y allons maintenant.” a dit Papa. Il était sinistre. “Il ne…”.
+— Darryl ?\
+— Son père m’a rencontré avant. Il est à l’hôpital.\
+— Quand pourrai-je le voir ?\
+— “Nous y allons maintenant.” a dit Papa. Il était sinistre. “Il ne…”.
 Il s’est arrêté. “Ils disent qu’il va se remettre”. Sa voix était
 étranglée\
-- Et Ange ?\
-- Sa mère l’a ramenée chez elle. Elle voulait t’attendre ici, mais…\
+— Et Ange ?\
+— Sa mère l’a ramenée chez elle. Elle voulait t’attendre ici, mais…\
 Je comprenais. J’étais plein de compréhension, maintenant, pour ce que
 les familles des déportés devaient resentir. Le tribunal était plein de
 larmes et d’embrassades, et même les huissiers ne pouvaient rien y
 faire.\
-- “Allons voir Darryl”, j’ai dit. “Et je peux emprunter ton téléphone
+— “Allons voir Darryl”, j’ai dit. “Et je peux emprunter ton téléphone
 ?”\
 J’ai appelé Ange sur la route de l’hôpital où l’on gardait Darrly — San
 Francisco General, juste en bas de notre rue — et je lui ai donné
@@ -309,7 +309,7 @@ d’hôpital, en chuchotant trop bas pour que les journalistes ne
 l’entendent. Il était en civil, avec les jeans et le sweater qu’il
 portait normalement, mais il avait ses médailles épinglées sur la
 poitrine.\
-- Il dort, a-t-il annoncé. Il s’est réveillé il n’y a pas longtemps et
+— Il dort, a-t-il annoncé. Il s’est réveillé il n’y a pas longtemps et
 il a commencé à pleurer. Il ne pouvait pas s’arrêter. Ils lui ont donné
 quelque chose pour le faire dormir.\
 Il nous a conduit à l’intérieur, et Darryl était là, ses cheveux propres
@@ -328,7 +328,7 @@ permanence.\
 J’ai entendu mes parents et le père de Darryl s’éloigner et tirer les
 rideaux autours de nous. J’ai posé ma tête sur l’oreiller en face de son
 visage. Il avait des touffes de barbe qui me rappelaient Zeb.\
-- Hey, D., ai-je fait. Tu es sorti d’affaire. Tout va bien se passer.\
+— Hey, D., ai-je fait. Tu es sorti d’affaire. Tout va bien se passer.\
 Il a reniflé un peu. J’ai presque dit “Je t’aime”, une phrase que je
 n’avais jamais dite qu’à une seule personne en dehors de ma famille, une
 phrase que je trouvais bizarre de dire à un autre garçon. Au final, j’ai
@@ -359,9 +359,9 @@ un établissement pour délinquants mineurs dans la Mission. Je dormais
 dans l’établissement, dans un dortoir plein de vrais criminels, des
 gosses des gangs et des drogués, dont quelques vrais cas. Pendant la
 journée, j’étais “libre” de sortir et d’aller au “travail”.\
-- Marcus, ils vont la libérer, a-t-elle annoncé.\
-- Qui ça ?\
-- Johnstone, Carrie Johnstone, a-t-elle répondu. Le tribunal militaire à
+— Marcus, ils vont la libérer, a-t-elle annoncé.\
+— Qui ça ?\
+— Johnstone, Carrie Johnstone, a-t-elle répondu. Le tribunal militaire à
 huis clos l’a innocentée. Le dossier est clos. Elle retourne au service
 actif. Ils l’envoient en Irak.\
 Carrie Johnstone était le nom de Coupe-à-la-Serpe. Il était sorti lors
@@ -390,7 +390,7 @@ d’inspecter ou de redéfinir les priorités de toute la sécurité
 intérieure dans l’Etat.\
 Le brouhaha des reporters s’est fait assourdissant, et c’est Barbara qui
 a pu poser la première question.\
-- Monsieur de Gouverneur, avec tout le respect qui vous est dû, nous
+— Monsieur de Gouverneur, avec tout le respect qui vous est dû, nous
 avons des preuves indiscutables que Marcus Yallow, un citoyen de cet
 Etat, né dans cet Etat, a été soumis à un simulâcre d’excécution par des
 officiers du DSI, apparemment sur ordre de la Maison Blanche. Est-ce que
@@ -399,7 +399,7 @@ justice pour ses citoyens face à ces actes de torture illégale et
 barbare ?\
 Sa voix tremblait mais ne s’est pas brisée.\
 Le Gouverneur a écarté les mains.\
-- Les tribunaux militaires vont rendre la justice. Si Monsieur Yallow —
+— Les tribunaux militaires vont rendre la justice. Si Monsieur Yallow —
 ou toute autre personne qui a des comptes à demander au Départment de la
 Sécurité Intérieure — réclame d’autres actions en justice, il lui reste,
 bien évidemment, le droit de demander les dommages et intérêts que le
@@ -411,8 +411,8 @@ déposé des motions pour obtenir les verdicts des tribunaux militaires
 secrets. Jusque-là, les tribunaux avaient été assez compréhensifs à cet
 égard.\
 Mais je ne m’étais pas attendu à ça.\
-- Elle s’en sort absolument sans rien ?\
-- La presse ne donne pas tellement de détails : « Après un examen
+— Elle s’en sort absolument sans rien ?\
+— La presse ne donne pas tellement de détails : « Après un examen
 complet des événements de San Francisco et du centre de détention
 spéciale anti-terroriste de Treasure Island, le tribunal déclare que les
 actions de Madame Johnstone n’appellent pas de sanctions supplémentaires
@@ -421,8 +421,8 @@ J’ai ricané. J’avais fait des cauchemars avec Carrie Johnstone presque
 chaque nuit depuis que j’avait été relâché de Guantanamo-sur-la-Baie.
 J’avais vu son visage se penser sur le mien, son rictus narquois quand
 elle avait ordonné à ses hommes de me « faire faire trempette ».\
-- Marcus… a fait Barbara, mais je l’aie interrompue.\
-- Tout va bien. Tout va bien. Je vais faire un film là-dessus. Je le
+— Marcus… a fait Barbara, mais je l’aie interrompue.\
+— Tout va bien. Tout va bien. Je vais faire un film là-dessus. Je le
 sortirai ce week-end. Les lundis sont de bons jours pour les vidéos
 virales. Tout le monde sera revenu du week-end de la fe nationale, et
 sera preneur de quelque chose de marrant à faire passer à ses copains au
@@ -433,11 +433,11 @@ programme de semi-liberté. Une fois que j’avais dépassé le stade où je
 le voyais comme une sorte de punition, ça s’était passé assez bien. Il
 m’avait aidé à me concentrer sur des activités positives quand j’étais
 en colère, au lieu de me laisser submerger. Les vidéos m’aidaient bien.\
-- Il faut que j’y aille, ai-je fait, en déglutissant fort pour chasser
+— Il faut que j’y aille, ai-je fait, en déglutissant fort pour chasser
 l’émotion de ma voix.\
-- Prends bien soin de toi, Marcus, a fait Barbara.\
+— Prends bien soin de toi, Marcus, a fait Barbara.\
 Ange m’a serré dans ses bras par derrière quand j’ai raccroché.\
-- Je viens de lire ça sur le Net, a-t-elle annoncé.\
+— Je viens de lire ça sur le Net, a-t-elle annoncé.\
 Elle lisait des millions de sources d’actualité, en les téléchargeant
 avec un aggrégateur qui actualisait les nouvelles aussi vite qu’elles
 apparaissaient. Elle était notre bloggeuse officielle, et elle était
@@ -453,19 +453,19 @@ seuls toute une journée au bureau était une trop grande tentation. Il
 faisait chaud et étouffant, aussi, de sorte que nous étions tous les
 deux en t-shirts et shorts et que nos peaux se touchaient souvent comme
 nous travaillions côte à côte.\
-- Je vais faire une vidéo, ai-je annoncé. Je veux la sortir
+— Je vais faire une vidéo, ai-je annoncé. Je veux la sortir
 aujourd’hui.\
-- Bien, a-t-elle rétorqué. Faisons ça.\
+— Bien, a-t-elle rétorqué. Faisons ça.\
 Ange a lu le communiqué de presse. J’ai fait un petit monologue,
 synchronisé sur la fameuse scène où j’étais waterboardé, les yeux fous
 dans la lumière dure de la caméra, les larmes coulant sur mes joues, les
 cheveux plaqués sur le crâne et constellés de vomi.\
-- Me voici. Je suis en train d’être waterboardé. On me torture par un
+— Me voici. Je suis en train d’être waterboardé. On me torture par un
 simulâcre d’excécution. Cette scéance de torture est supervisée par une
 femme qui s’appelle Carrie Johnstone. Elle travaille pour le
 gouvernement. Vous la connaissez peut-être de cette autre vidéo.\
 J’ai intercalé un extrait de la vidéo avec Johnstone et Kurt Rooney.\
-- Voici Johnstone et le Secrétaire d’Etat Jurt Rooney, le stratège en
+— Voici Johnstone et le Secrétaire d’Etat Jurt Rooney, le stratège en
 chef du Président.
 
 « La nation n’a pas d’amour pour cette ville.\
@@ -491,7 +491,7 @@ Carrie Johnstone qui a les clefs cryptographiques.\
 J’ai coupé sur Carrie Johnstone, le film où on la voyait assise à la
 table de conférence avec Rooney, à rire.\
 J’ai coupé sur son arrestations.\
-- Quand on l’a arrêtée, j’ai cru qu’on nous rendrait justice. A tous les
+— Quand on l’a arrêtée, j’ai cru qu’on nous rendrait justice. A tous les
 gens qu’elle a brisé et fait disparaître. Mais le Président…\
 J’ai coupé sur une photo où il riait en jouant au golf lors de ses
 nombreuses vacances\
@@ -504,7 +504,7 @@ qui l’a innocentée. On ne sait trop comment, ils ne voient rien à redire
 J’ai coupé sur un photomontage des centaines de photos de détenus dans
 leurs cellules que Barbara avait publiée sur le site du Bay Guardian le
 jour de notre libération.\
-- Nous avons élu ces gens. C’est nous qui payons leurs salaires. Ils
+— Nous avons élu ces gens. C’est nous qui payons leurs salaires. Ils
 sont censés être de notre côté. Ils sont censés défendre nos libertés.
 Mais ces gens…\
 Une série de photos de Johnstone et des autres qui étaient passés par
@@ -557,25 +557,25 @@ insistait que ce n’était absolument pas sentimental. Darryl ne me
 parlait pas beaucoup, encore qu’il m’envoyât de longs e-mails sur à peut
 près n’importe quoi qui n’eût aucun trait ni à Van, ni au terrorisme, ni
 à la prison. Ange m’a serré la main.\
-- Mon Dieu, je hais cette femme, a-t-elle fait.\
+— Mon Dieu, je hais cette femme, a-t-elle fait.\
 J’ai acquiescé.\
-- Ce n’est jamais qu’un des sales tours que notre pays aura joué à
+— Ce n’est jamais qu’un des sales tours que notre pays aura joué à
 l’Irak, ai-je fait. Si on l’envoyait dans ma ville, je deviendrais
 probablement un terroriste.\
-- Mais, tu es devenu un terroriste quand ils l’ont envoyé dans ta ville
+— Mais, tu es devenu un terroriste quand ils l’ont envoyé dans ta ville
 !\
-- Effectivement, ai-je répondu.\
-- Est-ce que tu vas assister à l’audience de Madame Galvez lundi ?\
-- Carrément.\
+— Effectivement, ai-je répondu.\
+— Est-ce que tu vas assister à l’audience de Madame Galvez lundi ?\
+— Carrément.\
 J’avais présenté Ange à Madame Galvez quelques semaines avant, quand mon
 ancienne professeur m’avait invité à dîner. Le syndicat des enseignants
 lui avait obtenu une audition devant la Commission du District des
 Ecoles Unifiées pour qu’elle puisse plaider sa cause et obtenir d’être
 rétablie à son poste. Il se murmurait que Fred Benson sortirait de sa
 retraite (anticipée) pour témoigner contre elle.\
-- Est-ce que tu veux sortir prendre un burrito ?\
-- Carrément !\
-- Attends, je prends la sauce piquante, a-t-elle dit.\
+— Est-ce que tu veux sortir prendre un burrito ?\
+— Carrément !\
+— Attends, je prends la sauce piquante, a-t-elle dit.\
 J’ai jeté encore un coup d’oeil à mes mails — mon compte au Parti
 Pirate, où je recevais encore quelques mails d’anciens du Xnet qui
 n’avaient pas encore trouvé mon adresse à la Coalition des Electeurs. Le
@@ -585,21 +585,21 @@ nouveau anonymiseurs brésiliens.
 \> Je l’ai trouvée, merci.\
 \> Tu ne m’avais pas dit qu’elle était tellement c4n0n.
 
-- De qui ça vient ?\
+— De qui ça vient ?\
 J’ai éclaté de rire.\
-- Zeb, ai-je répondu. Tu te souviens de Zeb ? Je lui ai donné l’adresse
+— Zeb, ai-je répondu. Tu te souviens de Zeb ? Je lui ai donné l’adresse
 de Masha. Je me suis dit, s’ils sont tous les deux en fuite, autant les
 présenter l’un à l’autre.\
-- Il trouve Masha mignonne ?\
-- Oh, sois indulgente, il est clairement perturbé par son
+— Il trouve Masha mignonne ?\
+— Oh, sois indulgente, il est clairement perturbé par son
 environnement.\
-- Et toi ?\
-- Quoi, moi ?\
-- Ouais — est-ce que ton esprit était perturbé par ton environnement ?\
+— Et toi ?\
+— Quoi, moi ?\
+— Ouais — est-ce que ton esprit était perturbé par ton environnement ?\
 J’ai tenu Ange à bout de bras et je l’ai scrutée les pieds à la tête.
 J’ai pris ses joues dans mes mains et j’ai contemplé, à travers ses
 grosses lunettes, ses grands yeux moqueurs et lumineux. J’ai passé mes
 doigts dans ses cheveux.\
-- Ange, je n’ai jamais pensé plus clairement de toute ma vie.\
+— Ange, je n’ai jamais pensé plus clairement de toute ma vie.\
 Elle m’a embrassé, et je lui ai rendu son baiser, et il s’est passé
 quelque temps avant que nous ne sortions manger ce burrito.

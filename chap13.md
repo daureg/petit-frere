@@ -21,7 +21,7 @@ conversation passionante sur la science-fiction, qui a bien failli me
 faire arriver en retard pour mon discours !\
 Books-A-Million*
 
-- “Ce sont de vraies putes”, a dit Ange, en crachant le mot. “Non, en
+— “Ce sont de vraies putes”, a dit Ange, en crachant le mot. “Non, en
 fait, c’est une insulte aux prostituées qui travaillent dur de par le
 monde. C’est… c’est des profiteurs !”\
 Nous contemplions une pile de journaux que nous avions achetés et
@@ -33,7 +33,7 @@ du lavage des résidus de gaz lacrymogène venus du bonmbardement au gaz,
 la marée d’attaques d’asthme qui encombrait les salles d’urgence de la
 ville, et le coût des procédures contre les centaines\
 d’”émeutiers” arrêtés. Personne ne donnait notre version des faits.\
-- “Bon, ceux de Xnet ont de bonnes versions, en tout cas”, ai-je dit.\
+— “Bon, ceux de Xnet ont de bonnes versions, en tout cas”, ai-je dit.\
 J’avais enregistré un paquet de blogs et de vidéos sur mon smartphone et
 je les lui ai montrés. C’étaient des récits de première main de gens qui
 avaient été gazés et tabassés. Les vidéos nous montraient tous en train
@@ -41,32 +41,32 @@ de danser, de nous amuser, montraient les discours politiques pacifiques
 et les slogan de “Reprenons-la”, et Trudy Doo qui parlait de nous comme
 étant la seule génération\
 qui pourrait croire dans le combat pour nos libertés.\
-- “Nous devons montrer ça aux gens”, a-t-elle dit.\
-- “Ouais”, ai-je répondu sombrement. “C’est joli, en théorie”.\
-- “Ben, qu’est-ce qui te fait croire que la presse ne publie jamais ce
+— “Nous devons montrer ça aux gens”, a-t-elle dit.\
+— “Ouais”, ai-je répondu sombrement. “C’est joli, en théorie”.\
+— “Ben, qu’est-ce qui te fait croire que la presse ne publie jamais ce
 que notre\
 camp pense ?”\
-- “Tu l’as dit, c’est des putes. “\
-- “Ouais, mais les putes font ce qu’elle font pour de l’argent. Ils
+— “Tu l’as dit, c’est des putes. “\
+— “Ouais, mais les putes font ce qu’elle font pour de l’argent. Ils
 pourraient vendre plus de journaux et de publicité s’il y avait une
 controverse. Tout ce qu’ils ont pour le moment, c’est de la criminalité
 — une controverse, c’est bien meilleur”\
-- “OK, bon argument. Mais alors, pourquoi est-ce qu’ils ne le font pas ?
+— “OK, bon argument. Mais alors, pourquoi est-ce qu’ils ne le font pas ?
 Ben les reporters arrivent à peine à lire les blogs normaux, alors tenir
 la trace de ceux qui sont sur Xnet… C’est n’est pas comme si c’était
 vraiment un endroit conçu pour les adultes.”\
-- “Ouais”, a-t-elle dit. “Eh bien, on peut régler ça, pas vrai ?”\
-- “Hein ?”\
-- “Ecris tout ça. Mets-le à un endroit, avec tous les liens. Un seul
+— “Ouais”, a-t-elle dit. “Eh bien, on peut régler ça, pas vrai ?”\
+— “Hein ?”\
+— “Ecris tout ça. Mets-le à un endroit, avec tous les liens. Un seul
 endroit où ils pourront aller, prévu pour que la presse le trouve, et où
 ils pourront avoir toute l’histoire. Mets-y des liens vers les HOWTO
 pour Xnet. Les utilisateurs d’Internet peuvent accéder au Xnet, pour peu
 qu’ils se fichent que le DSI sache ce qu’ils sont allés surfer.”\
-- “Tu penses que ça marcherait ?”\
-- “Ben, même si ça ne marche pas, ça serait un truc de constructif à
+— “Tu penses que ça marcherait ?”\
+— “Ben, même si ça ne marche pas, ça serait un truc de constructif à
 faire.”\
-- “Pourquoi est-ce qu’ils nous écouteraient, de toute façon ?”\
-- “Qui est-ce qui n’écouterait pas ce que M1k3y aura à dire ?”\
+— “Pourquoi est-ce qu’ils nous écouteraient, de toute façon ?”\
+— “Qui est-ce qui n’écouterait pas ce que M1k3y aura à dire ?”\
 J’ai reposé mon café. J’ai récupéré mon smartphone et l’ai glissé dans
 ma poche. Je me suis levé, ai tourné les talons, et suis sorti du café.
 J’ai pris une direction au hasard et j’ai marché. Ma visage me
@@ -79,23 +79,23 @@ toujours, pour m’envoyer là où Darryl avait disparu.\
 Tout était fini.\
 Elle m’a pratiquement plaqué au sol quand j’arrivais sur Market Street.
 Elle était hors d’haleine et semblait furieuse.\
-- “C’est quoi, ton foutu problème, Môssieur ?”\
+— “C’est quoi, ton foutu problème, Môssieur ?”\
 Je me suis dégagé et j’ai continué à marcher. Tout était fini.\
 Elle m’a agrippé à nouveau.\
-- “Arrête ça, Marcus, tu me fais peur. Allez, parle-moi.”\
+— “Arrête ça, Marcus, tu me fais peur. Allez, parle-moi.”\
 Je me suis arrêté et je l’air regardé. Elle est devenue floue devant mes
 yeux. Je n’arrivais à rien mettre au point. J’avais l’envie démente de
 sauter devant un trolleybus du Muni qui passait près de nous, au milieu
 de la rue. Plutôt mourir que d’y retourner.\
-- “Marcus !” Elle a fait quelque chose que je n’avais jamais vu faire
+— “Marcus !” Elle a fait quelque chose que je n’avais jamais vu faire
 que dans les films. Elle m’a gifflé, une claque violente en plein
 visage. “Parle-moi, bon sang !”\
 Je l’ai regardée et j’ai porté ma main à mon visage, qui me piquait
 fort.\
-- “Personne ne devrait savoir qui je suis”, ai-je dit. “Je ne peux pas
+— “Personne ne devrait savoir qui je suis”, ai-je dit. “Je ne peux pas
 dire ça plus simplement. Si tu sais, tout est fini. Une fois que les
 gens savent, tout est fini.”\
-- “Oh bon Dieu, je suis désolée. Ecoute, je sais seulement parce, ben,
+— “Oh bon Dieu, je suis désolée. Ecoute, je sais seulement parce, ben,
 parce que j’ai fait du chantage à Jolu. Après la fête je t’ai suivi un
 moment, pour savoir si tu étais vraiment le brave type que tu avais
 l’air d’être ou si tu étais un tueur en série. Je connais Jolu depuis
@@ -106,14 +106,14 @@ ne me disait pas. Ca fait une baille que je connais Jolu, il sortait
 avec ma grande soeur à un camp d’informatique quand il était gosse. J’ai
 des trucs bien crades sur lui. Je lui ai dit que je balancerais tout ça
 s’il ne me disait pas ce qu’il y avait.  “\
-- “Et alors il t’a tout dit”\
-- “Non”, a-t-elle répondu. “Il m’a dit d’aller me faire voir. Et alors,
+— “Et alors il t’a tout dit”\
+— “Non”, a-t-elle répondu. “Il m’a dit d’aller me faire voir. Et alors,
 je lui\
 ai dit quelque chose sur moi. Quelque chose que je n’avais jamais dit à
 personne.”\
-- “Quoi ?”\
+— “Quoi ?”\
 Elle m’a jeté un regard. A regardé autour de nous. Est revenue à moi.\
-- “OK. Je ne vais pas te faire jurer le secret parce que quel sens ça
+— “OK. Je ne vais pas te faire jurer le secret parce que quel sens ça
 aurait ?\
 Soit je peux te faire confiance, soit je ne peux pas. L’année dernière —
 ” Elle s’est étranglée. “L’année dernière, j’ai volé les test
@@ -124,9 +124,9 @@ faufilée dans son bureau — il y avait six jeux de copies, j’en ai juste
 fourré un dans mon sac et je suis repartie. En arrivant chez moi, j’ai
 tout scanné et j’ai tout mis sur un serveur du Parti Pirate au
 Danemark”\
-- “C’était toi ?” me suis-je exclamé. Elle a rougi.\
-- “Hum. Oui.”\
-- “Putain de merde !” me suis-je exclamé. Ca avait été un vrai scandale.
+— “C’était toi ?” me suis-je exclamé. Elle a rougi.\
+— “Hum. Oui.”\
+— “Putain de merde !” me suis-je exclamé. Ca avait été un vrai scandale.
 Le Bureau de l’Education avait dit que ces tests du programme “No Child
 Left Behind” avaient coûté des dizaines de millions de dollars à
 produire et qu’ils devraient dépenser toute cette fortune une nouvelle
@@ -135,45 +135,45 @@ fois maintenant qu’il y avait eu une fuite. Ils avaient appelé ça de
 motivations politiques de la fuite, se demandant si c’était la
 protestation d’un enseignant, ou un étudiant, ou un\
 voleur, ou un contractuel gouvernemental désabusé.\
-- “C’était TOI ?”\
-- “C’était moi”, a-t-elle répondu.\
-- “Et tu as dit ça à Jolu — “\
-- “Parce que je voulais qu’il soit sûr que je garderais le secret. S’il\
+— “C’était TOI ?”\
+— “C’était moi”, a-t-elle répondu.\
+— “Et tu as dit ça à Jolu — “\
+— “Parce que je voulais qu’il soit sûr que je garderais le secret. S’il\
 connaissait mon secret, alors il aurait quelque chose qu’il pourrait
 utiliser pour me faire mettre en prison si je l’ouvrais. Donner un petit
 peu, recevoir un petit peu. Tit for tat, comme dans le Silence des
 Agneaux.”\
-- “Et il t’a dit”\
-- “Non”, a-t-elle dit. “Il n’en n’a rien fait”.\
-- “Mais –”\
-- “Alors je lui ai dit à quel point d’en pinçais pour toi. Comment je
+— “Et il t’a dit”\
+— “Non”, a-t-elle dit. “Il n’en n’a rien fait”.\
+— “Mais –”\
+— “Alors je lui ai dit à quel point d’en pinçais pour toi. Comment je
 planifiais de me ridiculiser complètement et de me jeter à ta tête.
 Alors, là, il m’a dit.”\
 Je ne voyais pas quoi dire, alors. J’ai fixé mes orteils. Elle a pris
 mes mains et les a serrées.\
-- “Je suis désolée de lui avoir arraché ça. C’était à toi de décider de
+— “Je suis désolée de lui avoir arraché ça. C’était à toi de décider de
 me dire, si tu avais voulu me le dire un jour. Ca n’était pas mes
 affaires –”\
-- “Non”, ai-je dit. Maintenant que je savais comment elle avait trouvé,
+— “Non”, ai-je dit. Maintenant que je savais comment elle avait trouvé,
 je commençais à me calmer. “Non, c’est une bonne chose que tu saches.
 Toi. “\
-- “Moi, ” a-t-elle répondu. “Ma petit personne.”\
-- “OK, je vivre avec. Mais il y a une autre chose.”\
-- “Quoi ?”\
-- “Il n’y a pas de façon de dire ça sans avoir l’air d’un connard, alors
+— “Moi, ” a-t-elle répondu. “Ma petit personne.”\
+— “OK, je vivre avec. Mais il y a une autre chose.”\
+— “Quoi ?”\
+— “Il n’y a pas de façon de dire ça sans avoir l’air d’un connard, alors
 je vais juste le dire. Les gens qui sortent ensemble — ou quoi que ce
 soit qu’on fait maintenant — ils se séparent. Quand ils se séparent, ils
 se fâchent l’un contre l’autre. Parfois ils se haïssent même. C’est pas
 cool d’imaginer que ça nous arriverait à nous, mais tu sais, on doit y
 penser. “\
-- “Je promets solennellement que rien que tu puisses jamais me faire ne
+— “Je promets solennellement que rien que tu puisses jamais me faire ne
 me fera trahir ton secret. Rien. Baise une douzaine de majorettes dans
 mon lit pendant que ma mère regarde. Fais-moi écouter du Britney Spears.
 Bousille mon laptop, détruits-le à coup de marteau et plonge-le dans
 l’eau de mer. Je te jure. Rien. Jamais. “\
 J’ai expiré un peu d’air.\
-- “Hum”, j’ai dit.\
-- “Ca serait un bon moment pour s’embrasser”, a-t-elle dit en levant le
+— “Hum”, j’ai dit.\
+— “Ca serait un bon moment pour s’embrasser”, a-t-elle dit en levant le
 visage.
 
 La nouveau grand projet de M1k3y sur Xnet était de rassembler une

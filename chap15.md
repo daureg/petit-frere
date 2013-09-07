@@ -327,31 +327,31 @@ nous\
 sommes tenus dans les bras l’un de l’autre. Elle m’a embrassé dans le
 cou et\
 a murmuré quelque chose.\
-- Quoi ?\
-- J’ai dit « je t’aime », a-t-elle répondu. Quoi, tu veux que je
+— Quoi ?\
+— J’ai dit « je t’aime », a-t-elle répondu. Quoi, tu veux que je
 t’envoie un\
 télégramme ?\
-- Ouah !\
-- Ca te surprend à ce point, hein ?\
-- Non. Hum. C’est juste que… j’étais sur le point de te dire la même
+— Ouah !\
+— Ca te surprend à ce point, hein ?\
+— Non. Hum. C’est juste que… j’étais sur le point de te dire la même
 chose.\
-- Bien sûr, oui, a-t-elle dit en me mordant le bout du nez.\
-- C’est juste que je n’ai jamais dit ça avant, ai-je répondu. Alors il
+— Bien sûr, oui, a-t-elle dit en me mordant le bout du nez.\
+— C’est juste que je n’ai jamais dit ça avant, ai-je répondu. Alors il
 fallait\
 que je me prépare.\
-- Tu ne l’as toujours pas dit, tu sais. Ne crois pas que je n’aie pas
+— Tu ne l’as toujours pas dit, tu sais. Ne crois pas que je n’aie pas
 remarqué.\
 Nous autre, les filles, on note ce genre de choses.\
-- Je t’aime, Ange Carvelli. ai-je dit.\
-- Je t’aime aussi, Marcus Yallow.
+— Je t’aime, Ange Carvelli. ai-je dit.\
+— Je t’aime aussi, Marcus Yallow.
 
 Nous nous sommes embrassés, et j’ai commencé à respirer pronfondément,
 et elle\
 aussi. C’est alors que sa mère a frappé à la porte.\
-- Angela, a-t-elle dit, je pense qu’il serait temps pour ton ami de
+— Angela, a-t-elle dit, je pense qu’il serait temps pour ton ami de
 rentrer\
 chez lui, tu ne penses pas ?\
-- Oui, Maman, a-t-elle dit, en faisant le geste de donner un coup de
+— Oui, Maman, a-t-elle dit, en faisant le geste de donner un coup de
 hache.\
 Pendant que je mettais mes chaussures, elle murmurait: « et ils diront,
 cette\
@@ -362,9 +362,9 @@ aiguisant la hache. »\
 J’ai ri. « Tu ne sais pas à quel point tu t’en sors à bon compte. Jamais
 mes parents\
 ne nous laisseraient seuls dans ma chambre jusqu’é 11 heures du soir. »\
-- Onze heures trois quart, a-t-elle dit, en regardant son réveil.\
-- Oh, merde ! ai-je glappi en nouant mes chaussures.\
-- File ! a-t-elle dit. Cours et sois libre ! Regarde bien des deux côtés
+— Onze heures trois quart, a-t-elle dit, en regardant son réveil.\
+— Oh, merde ! ai-je glappi en nouant mes chaussures.\
+— File ! a-t-elle dit. Cours et sois libre ! Regarde bien des deux côtés
 en\
 traversant la route ! Ecris-moi si tu trouves du travail ! Ne t’arrête
 pas pour\
@@ -385,21 +385,21 @@ des lunettes.\
 Elle semblait m’avoir classé dans la catégorie des gens bien, dans le
 doute, et\
 j’appréciais.\
-- Bonne nuit, Madame Carvelli, ai-je dit.\
-- Bonne nuit, Monsieur Yallow, a-t-elle répondu.\
+— Bonne nuit, Madame Carvelli, ai-je dit.\
+— Bonne nuit, Monsieur Yallow, a-t-elle répondu.\
 C’était l’un de nos petits rituels, depuis que je l’avais appelée Madame
 Carvelli\
 quand nous nous étions vus pour la première fois. Je me suis retrouvé
 debout,\
 tout gêné devant la porte.\
-- Oui ? a-t-elle fait.\
-- Hum, ai-je répondu, merci pour votre hospitalité.\
-- Vous êtes toujours le bienvenu dans cette maison, jeune homme.\
-- Et merci pour Ange, ai-je dit finalement, et me détestant de dire
+— Oui ? a-t-elle fait.\
+— Hum, ai-je répondu, merci pour votre hospitalité.\
+— Vous êtes toujours le bienvenu dans cette maison, jeune homme.\
+— Et merci pour Ange, ai-je dit finalement, et me détestant de dire
 quelque chose\
 d’aussi bête.\
 Mais elle a fait un grand sourire et m’a pris dans ses bras.\
-- Je t’en prie, c’était un plaisir, a-t-elle répondu.
+— Je t’en prie, c’était un plaisir, a-t-elle répondu.
 
 Pendant tout le trajet en bus, j’ai repensé à la conférence de presse,
 repensé à\
@@ -525,72 +525,72 @@ par-dessus la tête que\
 de faire du mal à Ange, et elle a acquiescé. « Du moment que nous sommes
 au clair sur\
 ce point ».\
-- Ta soeur est cinglée, ai-je dit à Ange comme nous étions couchés sur
+— Ta soeur est cinglée, ai-je dit à Ange comme nous étions couchés sur
 son lit en lisant\
 les blogs de Xnet. C’est l’essentiel de ce que nous faisions : nous
 amuser et lire Xnet.\
-- Est-ce qu’elle t’a fait sa sortie sur les scrotums ? Je déteste quand
+— Est-ce qu’elle t’a fait sa sortie sur les scrotums ? Je déteste quand
 elle fait ça. Tu\
 sais, c’est juste qu’elle aime le mot « scrotum », il n’y a rien de
 personnel là-dedans.\
 Je l’ai embrassée. Nous avons lu encore un moment.\
-- Écoute ça, s’est-elle exclamée. La police prévoit quatre à six cent
+— Écoute ça, s’est-elle exclamée. La police prévoit quatre à six cent
 arrestations ce\
 week-end dans ce qu’ils qualifient de coup de filet le plus ambitieux
 jusqu’à aujourd’hui\
 dans les milieux des dissidents Xnet.\
 J’ai eu envie de vomir.\
-- Il faut que nous fassions cesser ça, ai-je répondu. Tu sais qu’il y a
+— Il faut que nous fassions cesser ça, ai-je répondu. Tu sais qu’il y a
 des gens qui\
 font encore plus de brouillage pour montrer qu’on ne les intimide pas ?
 Ce n’est pas de\
 la folie furieuse ?\
-- Je pense que c’est courageux, a-t-elle fait. Nous ne pouvons pas nous
+— Je pense que c’est courageux, a-t-elle fait. Nous ne pouvons pas nous
 laisser\
 terroriser jusqu’à en devenir dociles.\
-- Quoi ? Non, Ange, Non. Nous ne pouvons pas laisser des centaines de
+— Quoi ? Non, Ange, Non. Nous ne pouvons pas laisser des centaines de
 gens aller en\
 prison. Tu n’as pas vu ça. Moi, oui. C’est pire que ce que tu peux
 imaginer.\
-- J’ai une imagination assez fertile.\
-- Non, arrête. Sois sérieuse trois secondes. Je refuse de faire ça. Je
+— J’ai une imagination assez fertile.\
+— Non, arrête. Sois sérieuse trois secondes. Je refuse de faire ça. Je
 n’enverrai pas\
 des gens en prison. Si je le faisais, c’est que je serais le type que
 Van croit que\
 je suis.\
-- Marcus, je suis sérieuse. Tu crois que ces gens ignorent qu’ils
+— Marcus, je suis sérieuse. Tu crois que ces gens ignorent qu’ils
 risquent la prison ?\
 Ils croient en la cause. Toi aussi. Reconnais-leur le mérite de savoir
 dans quoi ils\
 se lancent. Ca n’est pas à toi de décider les risques qu’ils peuvent
 prendre ou non.\
-- C’est ma responsabilité parce que si je leur dis d’arrêter, ils
+— C’est ma responsabilité parce que si je leur dis d’arrêter, ils
 arrêteront.\
-- Je croyais que tu n’étais pas leur chef ?\
-- Je ne le suis pas, évidemment que non. Mais je n’y peux rien s’ils
+— Je croyais que tu n’étais pas leur chef ?\
+— Je ne le suis pas, évidemment que non. Mais je n’y peux rien s’ils
 voient en moi\
 leur source d’inspiration. Et tant qu’ils le feront, j’aurai la
 responsabilité de\
 leur sécurité. Tu comprends, n’est-ce pas ?\
-- Tout ce que je comprends, c’est que tu te prépares à tout laisser
+— Tout ce que je comprends, c’est que tu te prépares à tout laisser
 tomber au\
 premier signe de problème. Je me dis que tu as peur qu’ils
 t’identifient.\
-- Tu es injuste, ai-je répondu en me redressant et en m’éloignant
+— Tu es injuste, ai-je répondu en me redressant et en m’éloignant
 d’elle.\
-- Vraiment ? Rappelle-moi qui a failli avoir un arrêt cardiaque quand il
+— Vraiment ? Rappelle-moi qui a failli avoir un arrêt cardiaque quand il
 a cru que\
 son identité secrète était découverte ?\
-- Ca n’avait rien à voir, ai-je répondu. Ca n’est pas moi la question.
+— Ca n’avait rien à voir, ai-je répondu. Ca n’est pas moi la question.
 Tu sais bien\
 que ça n’est pas le cas. Pourquoi est-ce que tu te mets dans cet état ?\
-- Mais pourquoi est-ce que toi tu te mets dans cet état ? Pourquoi
+— Mais pourquoi est-ce que toi tu te mets dans cet état ? Pourquoi
 est-ce que tu\
 n’assumes pas d’être le type assez brave pour avoir démaré tout ceci ?\
-- Ca, ça n’est pas de la bravoure, c’est du suicide !\
-- Mélodrame adolescent à deux balles, M1k3y\
-- Ne m’appelle pas comme ça !\
-- Quoi , « M1k3y » ? Pourquoi pas, M1k3y ?\
+— Ca, ça n’est pas de la bravoure, c’est du suicide !\
+— Mélodrame adolescent à deux balles, M1k3y\
+— Ne m’appelle pas comme ça !\
+— Quoi , « M1k3y » ? Pourquoi pas, M1k3y ?\
 J’ai mis mes chausures. J’ai ramassé mon sac. Je suis rentré à la
 maison.
 
@@ -685,26 +685,26 @@ petits dessins géométriques au marqueur.\
 Il s’est redressé sur ses genoux et s’est balancé d’avant en arrière,
 comme\
 s’il était ivre ou s’était frappé la tête.\
-- Désolé, mon pote. A-t-il dit. Je ne t’avais pas vu. Tu t’es fait mal
+— Désolé, mon pote. A-t-il dit. Je ne t’avais pas vu. Tu t’es fait mal
 ?\
 Je me suis assis moi aussi. Je n’avais mal nulle part.\
-- Hum, non, ça va.\
+— Hum, non, ça va.\
 Il s’est levé et m’a souri. Ses dents étaient étonnamment blanches et
 droites,\
 comme une publicité pour une clinique orthodontique. Il m’a tendu la
 main, et sa\
 poigné était puissante et ferme.\
-- Je suis vraiment désolé.\
+— Je suis vraiment désolé.\
 Sa voix était aussi claire et intelligente. Je m’attendais à ce qu’il
 parle comme\
 l’un de ces ivrognes qui parlent tous seuls en écumant la Mission tard
 le soir,\
 mais il s’exprimait comme un libraire cultivé.\
-- Aucun problème, ai-je dit.\
+— Aucun problème, ai-je dit.\
 Il m’a tendu la main a nouveau.\
-- Zeb, s’est-il présenté\
-- Marcus.\
-- Enchanté, Marcus, a-t-il fait. J’espère te retomber dessus à
+— Zeb, s’est-il présenté\
+— Marcus.\
+— Enchanté, Marcus, a-t-il fait. J’espère te retomber dessus à
 l’occasion !\
 En riant, il a récupéré son sac, a tourné les talons et est parti à
 toute vitesse.
@@ -852,23 +852,23 @@ de la pisse et la raideur de mes pantalons comme l’urine séchait dans
 le\
 tissu.
 
-- Marcus ?\
+— Marcus ?\
 Ma porte était entrebaillée et ma mère s’inscrivait dans l’ouverture,
 me\
 regardant d’un air inquiet. Combien de temps était-elle restée là ?
 J’ai\
 essuyé mes larmes d’un revers de bras et reniflé.\
-- Maman, ai-je répondu. Salut.\
+— Maman, ai-je répondu. Salut.\
 Elle est entrée dans la pièce et m’a pris dans ses bras.\
-- Qu’est-ce qui se passe ? Tu veux en parler ?\
+— Qu’est-ce qui se passe ? Tu veux en parler ?\
 Le billet traînait sur la table.\
-- C’est ta copine qui t’a écrit ? Tout va bien ?\
+— C’est ta copine qui t’a écrit ? Tout va bien ?\
 Elle m’avait tendu une perche. Je pouvais tout attribuer à mes problèmes
 avec\
 Ange, elle quitterait la pièce et me laisserait seul. J’ai ouvert la
 bouche\
 pour faire exactement ça, et voici ce qui est sorti :\
-- J’étais en prison. Après l’explosion du pont. J’étais en prison tout
+— J’étais en prison. Après l’explosion du pont. J’étais en prison tout
 le temps.\
 Les sanglots qui sont sortis ensuite ne ressemblaient pas à ma voix.
 C’étaient\

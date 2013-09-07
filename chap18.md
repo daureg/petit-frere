@@ -217,14 +217,14 @@ C’est alors que Charles est sorti du bois derrière moi et m’a jeté au
 sol, en\
 me projetant tellement fort que j’ai perdu le souffle pendant un
 moment.\
-- Je t’ai eu !, a-t-il hurlé.\
+— Je t’ai eu !, a-t-il hurlé.\
 Je ne le connaissais que de loin avant ça, et je n’avais jamais eu
 beaucoup\
 d’estime pour lui, mais là j’étais prêt à tuer. Je me suis relevé
 lentement et\
 je l’ai regardé, avec sa poitrine qui se gonflait et son sourire
 extatique.\
-- Tu es trop mort, a-t-il dit. Je t’ai totalement eu.\
+— Tu es trop mort, a-t-il dit. Je t’ai totalement eu.\
 J’ai souri, et quelque chose dans mon visage m’a semblé anormal et
 douloureux.\
 J’ai touché ma lèvre supérieure. Elle était couverte de sang. Mon nez
@@ -369,11 +369,11 @@ imaginé qu’il\
 irait le publier. Je n’aurais vraiment pas imaginé que la presse
 américaine le\
 reprendrait.\
-- Nous sommes ici parce que notre prince est mort, et nous sommes venus
+— Nous sommes ici parce que notre prince est mort, et nous sommes venus
 à la\
 recherche d’un nouveau maître.\
-- Un prince ?\
-- Oui, j’ai dit en m’échauffant. Nous sommes du Vieux Peuple. Nous
+— Un prince ?\
+— Oui, j’ai dit en m’échauffant. Nous sommes du Vieux Peuple. Nous
 sommes venus\
 en Amérique au 16ème siècle et nous avons notre propre famille royale
 qui vit\
@@ -395,7 +395,7 @@ domaine légitime.
 
 je lisais beaucoup de romans de Fantasy. Ce genre d’histoires me venait
 facilement.\
-- Nous avons retrouvé une femme qui connaissait ces descendants. Elle
+— Nous avons retrouvé une femme qui connaissait ces descendants. Elle
 nous a dit\
 que l’un d’entre eux résidait dans cet hôtel, et nous sommes venus le
 recontrer.\
@@ -613,7 +613,7 @@ chaque\
 pas que l’on fait — ce n’est pas seulement un gramme, c’est un gramme
 que l’on\
 porte sur des millions de pas. C’est une tonne.\
-- Exactement, a dit Ange. C’est malin. Et on ne transporte jamais plus
+— Exactement, a dit Ange. C’est malin. Et on ne transporte jamais plus
 de trois\
 jours de vêtements, non plus. On peut toujours faire la lessive dans un
 évier.\
@@ -629,13 +629,13 @@ reposait en diagonale dans son dos. Il y avait plein de place dedans, et
 elle\
 l’avait posé sur le lit. En ce moment, elle empilait les vêtements à
 côté.\
-- Je suppose que trois t-shirts, une paire de pantalons, une paire de
+— Je suppose que trois t-shirts, une paire de pantalons, une paire de
 shorts,\
 trois jeux de sous-vêtements, trois paires de chaussettes et un sweater
 suffiront.
 
 Elle a vidé son sac de gym pour en sortir la trousse de toilette.\
-- Il faudra que je me rappelle d’y mettre ma brosse à dents demain matin
+— Il faudra que je me rappelle d’y mettre ma brosse à dents demain matin
 avant\
 d’aller au Centre Civique.
 
@@ -645,12 +645,12 @@ affolant, aussi  — ça me faisait réaliser que le lendemain, je partais.
 Peut-être\
 pour longtemps. Peut-être pour toujours.
 
-- Est-ce que j’emporte ma Xbox ? a-t-elle demandé. J’ai des tonnes de
+— Est-ce que j’emporte ma Xbox ? a-t-elle demandé. J’ai des tonnes de
 trucs sur\
 le disque dur, des notes, des dessins et des e-mails. Je ne voudrais pas
 que ça\
 tombe dans de mauvaises mains.\
-- Tout est encrypté, ai-je répondu. C’est standard avec ParanoidLinux.
+— Tout est encrypté, ai-je répondu. C’est standard avec ParanoidLinux.
 Mais à\
 part ça, laisse ta Xbox, il y en aura autant qu’on voudra à Los Angeles.
 Crée-toi\
@@ -672,13 +672,13 @@ la rue\
 avec ça sur l’épaule et personne n’y regarderait à deux fois — elle
 avait l’air\
 en route pour le lycée.\
-- Une dernière chose, a-t-elle fait, et elle s’est penchée vers la table
+— Une dernière chose, a-t-elle fait, et elle s’est penchée vers la table
 de nuit\
 pour en prendre les préservatifs. Elle en a sorti une bande de la boite,
 a ouvert\
 le sac et les y fourrés, puis m’a donné une claque sur les fesses.\
-- Et maintenant, qu’est-ce qu’on fait ?\
-- Maintenant, on va chez tes parents et on prépare tes affaires. Il
+— Et maintenant, qu’est-ce qu’on fait ?\
+— Maintenant, on va chez tes parents et on prépare tes affaires. Il
 serait temps\
 que je rencontre tes parents, non ?
 
@@ -708,35 +708,35 @@ elle\
 allait passer énormément de temps avec mes parents après, même s’ils ne\
 s’entendaient pas.\
 Ma mère a raccroché quand nous sommes arrivés.\
-- Salut Marcus, a-t-elle dit en m’embrassant sur la jour. Et qui est-ce
+— Salut Marcus, a-t-elle dit en m’embrassant sur la jour. Et qui est-ce
 là ?\
-- Maman, je te présente Ange. Ange, voici ma mère Lillian.\
+— Maman, je te présente Ange. Ange, voici ma mère Lillian.\
 Ma mère s’est levée et a étreint Ange.\
-- Je suis ravie de vous rencontrer, ma chère, a-t-elle dit en la
+— Je suis ravie de vous rencontrer, ma chère, a-t-elle dit en la
 détaillant de\
 la tête aux pieds.\
 Ange avait l’air assez acceptable, je pense. Elle s’habillait bien,
 avec\
 discrétion, et on voyait rien qu’à la regarder à quel point elle était\
 intelligente.\
-- C’est un plaisir de faire votre connaissance, Madame Yallow, a-t-elle
+— C’est un plaisir de faire votre connaissance, Madame Yallow, a-t-elle
 répondu.\
 Elle avait l’air confiante et assurée. Elle s’en tirait bien mieux que
 quand\
 j’avais rencontré sa mère.\
-- Appelle-moi Lillian, a-t-elle répondu. Elle scrutait chaque détail.
+— Appelle-moi Lillian, a-t-elle répondu. Elle scrutait chaque détail.
 Est-ce que\
 vous rester à dîner ?\
-- Avec grand plaisir, a-t-elle fait.\
-- Est-ce que vous mangez de la viande ?\
+— Avec grand plaisir, a-t-elle fait.\
+— Est-ce que vous mangez de la viande ?\
 Ma mère s’était acclimatée à la vie en Californie.\
-- Je mange de tout ce qui ne me mange pas d’abord.\
-- C’est une droguée de sauces fortes, ai-je dit. On pourrait lui servir
+— Je mange de tout ce qui ne me mange pas d’abord.\
+— C’est une droguée de sauces fortes, ai-je dit. On pourrait lui servir
 des vieux\
 pneus, elle les mangerait du moment qu’elle pourrait les faire nager
 dans le salsa.\
 Ange m’a frappé sur l’épaule.\
-- Je m’apprétais à commander du thai, a fait ma mère. Je vais ajouter
+— Je m’apprétais à commander du thai, a fait ma mère. Je vais ajouter
 quelques\
 plats à cinq chili à notre commande.\
 Ange a remercié poliment et ma mère s’est activée dans la cuisine, en
@@ -744,9 +744,9 @@ sortant\
 des verres de jus de fruit et des plateaux de buiscuits, et en demandant
 à trois\
 reprises si nous voulions du thé. J’ai gloussé un peu.\
-- Merci Maman, ai-je dit. Nous allons monter quelques instants.\
+— Merci Maman, ai-je dit. Nous allons monter quelques instants.\
 Ma mère a plissé les yeux une seconde, puis a souri à nouveau.\
-- Bien sûr, a-t-elle répondu. Ton père va rentrer dans une heure, nous
+— Bien sûr, a-t-elle répondu. Ton père va rentrer dans une heure, nous
 passerons\
 à table à ce moment.\
 Toutes mes affaires de vampire étaient rangées dans le fond de mon
@@ -760,18 +760,18 @@ t-shirts\
 préférés et ma meilleure paire de jeans, un tube de déodorant, et un
 rouleau de\
 fil dentaire.\
-- L’argent !, me suis-je exclamé.\
-- Oui, a-t-elle répondu, je pensais vider mon compte en banque quand on
+— L’argent !, me suis-je exclamé.\
+— Oui, a-t-elle répondu, je pensais vider mon compte en banque quand on
 passerait\
 devant un distributeur en rentrant. Je dois avoir dans les cinq cents
 dollars\
 d’économies.\
-- Tout ça ?\
-- A quoi veux-tu que je dépense mon argent ? Depuis l’introduction du
+— Tout ça ?\
+— A quoi veux-tu que je dépense mon argent ? Depuis l’introduction du
 Xnet, je\
 n’ai plus eu de frais de communication.\
-- Je pense que j’ai trois cents dollars, à peu près.\
-- Eh bien, tu vois. Récupère-les en allant au Centre Civique demain
+— Je pense que j’ai trois cents dollars, à peu près.\
+— Eh bien, tu vois. Récupère-les en allant au Centre Civique demain
 matin.\
 J’avais un gros sac à livres quand j’utilisais quand je devais
 transporter\
@@ -782,8 +782,8 @@ réduisait à\
 ce qu’elle préférait.\
 Une fois tout empaqueté et rangé sous mon lit, nous nous sommes assis
 tous les deux.\
-- On va devoir se lever vraiment tôt demain matin, a-t-elle annoncé\
-- Oui, ça sera une rude journée.
+— On va devoir se lever vraiment tôt demain matin, a-t-elle annoncé\
+— Oui, ça sera une rude journée.
 
 Notre plan consistait à envoyer des messages contenant différents faux
 rendez-vous\
@@ -800,19 +800,19 @@ pour envoyer\
 les mails était prêt à envoyer les messages à sept heures — je n’aurais
 qu’à laisser\
 ma Xbox tourner en partant.\
-- Combien de temps… Sa voix s’est éteinte.\
-- Je me demande aussi, ai-je répondu. Ca pourrait prendre un bout de
+— Combien de temps… Sa voix s’est éteinte.\
+— Je me demande aussi, ai-je répondu. Ca pourrait prendre un bout de
 temps, j’imagine.\
 Mais qui sait ? Avec l’article de Barbara qui va sortir…\
 J’avais aussi préparé un mail pour elle qui s’enverrait le lendemain
 matin.\
-- Peut-être que nous serons des héros dans deux semaines.\
-- Peut-être, a-t-elle fait en soupirant.\
+— Peut-être que nous serons des héros dans deux semaines.\
+— Peut-être, a-t-elle fait en soupirant.\
 J’ai passé mon bras autour d’elle. Ses épaules se secouaient.\
-- Je suis terrorisé, ai-je fait. Je pense que ce serait cinglé de ne pas
+— Je suis terrorisé, ai-je fait. Je pense que ce serait cinglé de ne pas
 être terrifié.\
-- Oui, a-t-elle répondu.\
-- Oui.\
+— Oui, a-t-elle répondu.\
+— Oui.\
 Ma mère nous a appelé pour dîner. Mon père a serré la main à Ange. Il
 était mal rasé et\
 avait l’air inquiet, comme il était depuis que nous étions allés voir
@@ -832,6 +832,6 @@ tout et a donné tous les signes qu’elle adorait ça. Ma mère était,
 semble-t-il, une\
 prodige insoupçonnée des épices, un talent né.\
 Avant de partir, Ange a insisté pour offrir son mélangeur à a mère.\
-- J’en ai un autre chez moi, a-t-elle dit.\
+— J’en ai un autre chez moi, a-t-elle dit.\
 Je l’avais vue l’emballer dans son sac à dos.\
-- Vous m’avez l’air du genre de femme qui devrait en avoir un.
+— Vous m’avez l’air du genre de femme qui devrait en avoir un.

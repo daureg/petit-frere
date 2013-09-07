@@ -23,7 +23,7 @@ lui décrivais\
 les interrogatoires, comment je m’étais pissé dessus, le sac sur ma
 tête, Darryl.\
 Je lui ai montré le billet.\
-- Pourquoi ?\
+— Pourquoi ?\
 Dans ces deux syllabes, chaque récrimination que je m’étais adressé à
 moi-même la\
 nuit, chaque moment où j’avais manqué du courage pour dire au monde
@@ -31,11 +31,11 @@ quels étaient\
 les véritables enjeux, la vraie raison pour laquelle je me battais, ce
 qui avait\
 réellement inspiré Xnet. J’ai inspiré.\
-- Ils m’ont dit que j’irais en prison si j’en parlais. Pas seulement
+— Ils m’ont dit que j’irais en prison si j’en parlais. Pas seulement
 pour quelques\
 jours. Pour toujours. J’étais… j’avais peur.\
 Ma mère est restée assise avec moi longtemps, sans rien dire. Et alors:\
-- Et le père de Darryl ?\
+— Et le père de Darryl ?\
 Elle aurait aussi bien pu m’empaler une aiguille à tricotter dans la
 poitrine.\
 Le père de Darryl. Il avait dû penser que Darryl était mort, mort depuis
@@ -47,14 +47,14 @@ Mais\
 Zeb s’était enfui. Peut-être que Darryl sortirait aussi. Peut-être le
 Xnet\
 et moi parviendrions-nous à  à le faire sortir.\
-- Je ne lui ai rien dit.\
+— Je ne lui ai rien dit.\
 Ma mère s’est mise à pleurer. Elle ne pleurait pas facilement. C’est un
 trait\
 britannique. Ca rendait ses sanglots et ses hoquets bien pires à
 entendre.\
-- Tu vas lui dire, a-t-elle réussi à dire. Tu lui diras.\
-- Je lui dirai.\
-- Mais d’abord il faut raconter à ton père.
+— Tu vas lui dire, a-t-elle réussi à dire. Tu lui diras.\
+— Je lui dirai.\
+— Mais d’abord il faut raconter à ton père.
 
 Mon père n’avait plus d’horaire habituel pour rentrer à la maison. Entre
 ses\
@@ -82,8 +82,8 @@ tout le temps, le visage de marbre. Quand je lui ai passé le billet, il\
 l’a lu deux fois avant de le reposer soigneusement. Il a secoué la
 tête,\
 s’est levé et s’est dirigé vers la porte d’entrée.\
-- Où est-ce que tu vas ? a demandé ma mère avec inquiétude.\
-- J’ai besoin de marcher un peu, c’est tout ce qu’il a réussi à coasser\
+— Où est-ce que tu vas ? a demandé ma mère avec inquiétude.\
+— J’ai besoin de marcher un peu, c’est tout ce qu’il a réussi à coasser\
 d’une voix brisée.\
 Nous nous sommes entre-regardés avec gêne, ma mère et moi, et nous
 avons\
@@ -107,17 +107,17 @@ avec\
 un trajet de dix minutes en bateau ? Quand mon père est rentré, il
 avait\
 l’air plus en colère que je l’avais jamais vu de toute ma vie.\
-- Tu aurais dû me dire !, a-t-il rugi.\
+— Tu aurais dû me dire !, a-t-il rugi.\
 Ma mère s’est interposée entre lui et moi.\
-- Tu blâmes la mauvaise personne, a-t-elle dit. Ce n’est pas Marcus
+— Tu blâmes la mauvaise personne, a-t-elle dit. Ce n’est pas Marcus
 l’auteur\
 de ce kidnapping et de cette intimidation.\
 Il a secoué la tête et tapé du pied.\
-- Je ne reproche rien à Marcus. Je sais très bien qui est à blâmer. Moi.
+— Je ne reproche rien à Marcus. Je sais très bien qui est à blâmer. Moi.
 Moi\
 et ce DSI à la con. Mettez vos chaussures et prenez vos manteaux.\
-- Où est-ce qu’on va ?\
-- Voir le père de Darryl. Ensuite on va chez Barbara Stratford.
+— Où est-ce qu’on va ?\
+— Voir le père de Darryl. Ensuite on va chez Barbara Stratford.
 
 Le nom de Barbara Stratford me disait quelque chose, mais je ne mettais
 pas\
@@ -155,7 +155,7 @@ avait\
 personne pour me réconforter, moi. Si seulement j’avais pu appeler Ange.
 Ou\
 Jolu. Ou Van. Peut-être le ferais-je à la fin de la journée.\
-- Dans son esprit, il doit avoir enterré son fils, a dit mon père, alors
+— Dans son esprit, il doit avoir enterré son fils, a dit mon père, alors
 qu’il\
 négociait les épingles à cheveux qui mènent à Twin Peaks et à la petit
 villa\
@@ -167,8 +167,8 @@ un virage,\
 je voyais les vallées de la ville en dessous, des bols de lumières
 scintillantes qui\
 défilaient dans le brouillard.\
-- C’est celle-là ?\
-- Oui, ai-je répondu, c’est ici.\
+— C’est celle-là ?\
+— Oui, ai-je répondu, c’est ici.\
 Je n’étais pas retourné chez Darryl depuis des mois, mais j’avais passé
 assez de\
 temps ici sur des années pour reconnaître l’endroit insantanément. Tous
@@ -184,7 +184,7 @@ nous avions\
 vu une lumière allumée dans le salon. J’étais sur le point de sonner
 pour la\
 troisième fois lorsque la porte s’est ouverte.\
-- Marcus ?\
+— Marcus ?\
 Le père de Darryl ne ressemblait plus du tout à ce dont je me souvenais.
 Mal rasé,\
 en peignoir et pieds nus, les ongles longs et les yeux rouges. Il avait
@@ -192,12 +192,12 @@ pris du\
 poids, et un double menton flasque pendouillait sous sa mâchoire ferme
 de militaire.\
 Ses cheveux clairsemés étaient sales et désordonnés.\
-- Monsieur Glover, ai-je dit.\
+— Monsieur Glover, ai-je dit.\
 Mes parents remplissaient l’encadrement de la porte derrière moi.\
-- Bonsoir, Ron, a dit ma mère.\
-- Ron, a fait mon père.\
-- Vous aussi ? Qu’est-ce qui se passe ?\
-- Pourrions-nous entrer ?
+— Bonsoir, Ron, a dit ma mère.\
+— Ron, a fait mon père.\
+— Vous aussi ? Qu’est-ce qui se passe ?\
+— Pourrions-nous entrer ?
 
 Son salon faisait penser à l’un de ces reportages où des enfants
 abandonnés\
@@ -225,11 +225,11 @@ d’après\
 le bruit, en les jetant par terre. Nous nous sommes assis aux endroits
 qu’il\
 avait dégagés, et il est revenu s’asseoir avec nous.\
-- Je suis désolé, a-t-il bredouillé. Je n’ai pas vraiment de café à vous
+— Je suis désolé, a-t-il bredouillé. Je n’ai pas vraiment de café à vous
 proposer.\
 Mes courses devraient être livrées demain, alors je n’ai plus
 grand’chose…\
-- Ron, a interrompu mon père. Ecoute. Nous avons quelque chose à te
+— Ron, a interrompu mon père. Ecoute. Nous avons quelque chose à te
 dire, et ça\
 ne va pas être facile à entendre.
 
@@ -237,12 +237,12 @@ Il s’est tenu assis comme une statue pendant que je parlais. Il a
 regardé le billet,\
 l’a lu sans avoir l’air de comprendre, puis l’a relu. Il me l’a rendu.
 Il tremblait.\
-- Il…\
-- Darryl vit, ai-je dit. Darryl est vivant, et prisonnier sur Treasure
+— Il…\
+— Darryl vit, ai-je dit. Darryl est vivant, et prisonnier sur Treasure
 Island.\
 Il s’est enfoncé le poing dans la bouche et a produit un grognement
 atroce.\
-- Nous avons une amie, a dit mon père. Elle écrit au Bay Guardian. Une
+— Nous avons une amie, a dit mon père. Elle écrit au Bay Guardian. Une
 reporter\
 d’investigation.\
 C’est là que je me suis souvenu d’où venait le nom. Le Guardian,
@@ -252,14 +252,14 @@ magazines\
 Internet, mais Barbara Stratford était avec eux depuis toujours. Un
 vague souvenir\
 d’avoir dîné avec elle, enfant, m’est revenu.\
-- Nous y allons maintenant, a dit ma mère. Est-ce que tu veux venir, Ron
+— Nous y allons maintenant, a dit ma mère. Est-ce que tu veux venir, Ron
 ? Est-ce\
 que tu veux raconter l’histoire de Darryl ?\
 Il a enfoncé son visage dans ses mains et a inspiré profondément. Mon
 père a mis\
 sa main sur ses épaules, mais Monsieur Glover l’a chassée d’une
 secousse.\
-- Il faut que j’aille me laver, a-t-il dit. Donnez-moi une minute.\
+— Il faut que j’aille me laver, a-t-il dit. Donnez-moi une minute.\
 Monsieur Glover est redescendu transformé. Il s’était rasé et mis du gel
 dans les\
 cheveux, et avait revêtu un uniforme militaire immaculé avec une rangée
@@ -267,7 +267,7 @@ de rubans\
 de campagne sur la poitrine. Il s’est arrêté au pied des escaliers et a
 fait un\
 l’a montré de la main.\
-- Je n’ai plus grand’chose de propre et présentable en ce moment. Et
+— Je n’ai plus grand’chose de propre et présentable en ce moment. Et
 ceci m’a\
 paru approprié. Vous savez, au cas où elle voudrait prendre des photos.\
 Lui et mon père sont montés à l’avant de la voiture et je me suis assis
@@ -325,12 +325,12 @@ portait\
 de petites lunettes rondes qui a jeté des reflets dans la lumière de
 l’allée.\
 Elle nous a lancé un petit sourire serré.\
-- Je vous que vous être venus avec toute la tribu.\
+— Je vous que vous être venus avec toute la tribu.\
 Ma mère a acquiescé.\
-- Vous allez comprendre dans une minute, a-t-elle répondu.\
+— Vous allez comprendre dans une minute, a-t-elle répondu.\
 Monsieur Glover a émergé de derrière mon père.\
-- Et vous avez fait venir la Marine ?\
-- Toute chose en son temps.\
+— Et vous avez fait venir la Marine ?\
+— Toute chose en son temps.\
 Nous nous sommes présentés l’un après l’autre. Elle avait une poignée de
 main\
 ferme et de longs doigts. Sa maison était meublée en style japonais
@@ -348,10 +348,10 @@ l’on\
 voyait les craquelures et les trous sous le vernis. J’ai beaucoup aimé
 ça,\
 particulièrement quand j’ai marché dessus en chaussettes.\
-- Le café va être prêt, a-t-elle annoncé. Qui en veut ?\
+— Le café va être prêt, a-t-elle annoncé. Qui en veut ?\
 Nous avons tous levé la main. J’ai lancé un regard de défi à mes
 parents.\
-- Bien, a-t-elle dit.\
+— Bien, a-t-elle dit.\
 Elle a disparu dans l’autre pièce et en est revenue un moment après en
 portant\
 un plateau de bambou grossier avec une thermore de deux litres et six
@@ -359,7 +359,7 @@ tasses\
 d’un design précis mais décorées grossièrement et imparfaitement. J’ai
 aussi\
 aimé ça.\
-- Bien, a-t-elle dit après avoir versé le café et distribué les tasses.
+— Bien, a-t-elle dit après avoir versé le café et distribué les tasses.
 Je suis\
 heureuse de vous revoir tous. Marcus, je pense que la dernière fois que
 je t’ai\
@@ -372,7 +372,7 @@ choses que je faisait à sept ans. Ce devait être ma Séga Dreamcast. Elle
 a\
 sort un enregistreur, un carnet jaune et un crayon, et a taillé le
 crayon.\
-- Je suis ici pour écouter tout ce que vous voudrez me dire, et je puis
+— Je suis ici pour écouter tout ce que vous voudrez me dire, et je puis
 vous\
 promettre de l’entendre en toute confidentialité. Mais je ne peux pas
 vous\
@@ -423,11 +423,11 @@ dit,\
 Barbara est sortie dans une autre chambre et en est revenue avec un
 bouteille\
 de whisky irlandais.\
-- C’est un Bushmills vieilli 15 ans dans un ancien fût de rhum,
+— C’est un Bushmills vieilli 15 ans dans un ancien fût de rhum,
 a-t-elle\
 annoncé en disposant quatre verres.\
 Pas de verre pour moi.\
-- On n’en n’a pas vendu depuis dix ans. Je pense que c’est un bon
+— On n’en n’a pas vendu depuis dix ans. Je pense que c’est un bon
 moment\
 pour le déboucher.\
 Elle a versé à chacun un petit verre de la liqueur, a levé le sien et
@@ -437,7 +437,7 @@ fait\
 autant. Ils ont encore bu et fini leurs verres. Elle leur a versé encore
 du\
 whisky.\
-- Bon, a-t-elle repris. Voilà ce que je peux vous dire en l’état des
+— Bon, a-t-elle repris. Voilà ce que je peux vous dire en l’état des
 choses.\
 Je vous crois. Pas seulement parce que je vous connais, Lillian.
 L’histoire\
@@ -461,7 +461,7 @@ plus\
 loin. Pensez à la Syrie. Ils pourraient même faire encore pire.\
 Elle a laissé l’idée plâner. Elle voulait dire qu’ils pourraient le
 tuer.\
-- Je vais emporter cette lettre et la scanner maintenant. Je veux des\
+— Je vais emporter cette lettre et la scanner maintenant. Je veux des\
 photographies de vous deux, maintenant et plus tard — nous pouvons\
 envoyer un photographe, mais je veux documenter tout ceci aussi
 complètement\
@@ -480,48 +480,48 @@ ParanoidLinux. Cette dame prenait son travail au sérieux.\
 Les ventilateurs de l’ordinateur produisaient un écran de bruit blanc
 efficace,\
 mais même alors, j’ai fermé la porte et je me suis rapproché d’elle.\
-- Hum, Barbara ?\
-- Oui ?\
-- Ce que vous disiez à propos de ce qui pourrait me discéditer ?\
-- Oui ?\
-- Ce que je vous dirais, on ne pourrait pas vous forcer à le répéter,
+— Hum, Barbara ?\
+— Oui ?\
+— Ce que vous disiez à propos de ce qui pourrait me discéditer ?\
+— Oui ?\
+— Ce que je vous dirais, on ne pourrait pas vous forcer à le répéter,
 n’est-ce pas ?\
-- En théorie. Disons les choses comme ça : je suis allée en prison à
+— En théorie. Disons les choses comme ça : je suis allée en prison à
 deux reprises\
 plutôt que de dénoncer mes sources.\
-- OK, OK. Excellent. Ouah. En prison. Ouah. OK.\
+— OK, OK. Excellent. Ouah. En prison. Ouah. OK.\
 J’ai inspiré profondément.\
-- Vous avez entendu parler de Xnet ? De M1k3y ?\
-- Oui ?\
-- Je suis M1k3y.\
-- Oh, a-t-elle fait.\
+— Vous avez entendu parler de Xnet ? De M1k3y ?\
+— Oui ?\
+— Je suis M1k3y.\
+— Oh, a-t-elle fait.\
 Elle a ouvert le scanner et retourné le billet pour traiter l’autre
 côté. Elle\
 scannait à une résolution hallucinante, 10 000 point par pouce ou encore
 plus,\
 et la sortie sur l’écran ressemblait à celle d’un microscope à effet
 tunnel.\
-- Eh bien, voilà qui donne à cette histoire une autre couleur.\
-- Ouais, ai-je fait. J’imagine que oui.\
-- Tes parents n’en savent rien.\
-- Non. Et je ne suis pas sûr que j’aie envie qu’ils sachent.\
-- C’est quelque chose que tu vas devoir décider. Il faut que j’y
+— Eh bien, voilà qui donne à cette histoire une autre couleur.\
+— Ouais, ai-je fait. J’imagine que oui.\
+— Tes parents n’en savent rien.\
+— Non. Et je ne suis pas sûr que j’aie envie qu’ils sachent.\
+— C’est quelque chose que tu vas devoir décider. Il faut que j’y
 réfléchisse.\
 Est-ce que tu peux passer à mon bureau ? j’aimerais discuter avec toi de
 ce\
 que ça signifie au juste.\
-- Est-ce que vous avez une Xbox Universal ? Je pourrais apporter un
+— Est-ce que vous avez une Xbox Universal ? Je pourrais apporter un
 installer.\
-- Oui, je suis sûre que ça peut s’arranger. Quand tu viens, dis à la
+— Oui, je suis sûre que ça peut s’arranger. Quand tu viens, dis à la
 réception\
 que tu es Monsieur Lebrun et que tu as rendez-vous avec moi. Ils
 comprendront.\
 On ne notera pas ton arrivée, toutes les bandes des caméras de sécurité
 seront\
 effacées, et les caméras seront désactivées jusqu’à ce que tu repartes.\
-- Ouah, a-je fait. Vous pensez comme moi.\
+— Ouah, a-je fait. Vous pensez comme moi.\
 Elle a souri et m’a donné une bourrade.\
-- Gamin, ça fait un sacré moment que je joue à ça. Pour le moment j’ai
+— Gamin, ça fait un sacré moment que je joue à ça. Pour le moment j’ai
 réussi\
 à passer plus de temps en liberté que derrière les barreaux. La paranoïa
 est\
@@ -554,39 +554,39 @@ une\
 autre paire de pas s’est mise en rythme avec les miens. J’ai reconnu
 les\
 chaussures et je me suis arrêté.\
-- Ange ?\
+— Ange ?\
 Elle avait l’air dans le même état que moi. Elle n’avait pas assez
 dormi,\
 ses yeux ressemblaient à ceux d’un raton-laveur, et sa bouche avait des
 rides\
 tristes aux commissures.\
-- Salut, toi, a-t-elle fait. Surprise ! J’ai filé à l’anglaise du lycée.
+— Salut, toi, a-t-elle fait. Surprise ! J’ai filé à l’anglaise du lycée.
 Je\
 n’arrivais pas à me concentrer de toute manière.\
-- Hum, ai-je fait.\
-- Boucle-la et prends-moi dans tes bras, crétin.\
+— Hum, ai-je fait.\
+— Boucle-la et prends-moi dans tes bras, crétin.\
 C’est ce que j’ai fait. C’était bon. Mieux que bon. C’était comme si je
 m’était\
 amputé d’une partie de moi et qu’on l’avait rattachée.\
-- Je t’aime, Marcus Yallow.\
-- Je t’aime, Angela Carvelli.\
-- OK, a-t-elle dit en brisant l’étreinte. J’ai bien aimé ton billet sur
+— Je t’aime, Marcus Yallow.\
+— Je t’aime, Angela Carvelli.\
+— OK, a-t-elle dit en brisant l’étreinte. J’ai bien aimé ton billet sur
 pourquoi\
 tu ne brouilles pas. Je peux respecter ça. Maintenant, qu’est-ce que tu
 as fait\
 pour trouver une façon de brouiller sans se faire prendre ?\
-- Je suis en route pour voir une journaliste d’investigation qui va
+— Je suis en route pour voir une journaliste d’investigation qui va
 publier une\
 histoire sur la façon dont on m’a mis en prison, comme j’ai lancé Xnet,
 comment\
 Darryl est détenu illégalement par le DSI dans une prison secrète sur
 Treasure\
 Island.\
-- Oh.\
+— Oh.\
 Elle a regardé autour d’elle un moment.\
-- Tu n’as rien pu trouver d’un peu, tu sais, ambitieux ?\
-- Tu veux venir avec moi ?\
-- Je viens, oui. Et j’aimerais bien que tu m’expliques tout ça en
+— Tu n’as rien pu trouver d’un peu, tu sais, ambitieux ?\
+— Tu veux venir avec moi ?\
+— Je viens, oui. Et j’aimerais bien que tu m’expliques tout ça en
 détail, si\
 tu veux bien.\
 Après toutes les répétitions, celles-ci, narrée alors que nous marchions
@@ -600,14 +600,14 @@ suis\
 allé au bureau de la réception et j’ai dit à la fille blasée qui
 trônait\
 derrière :\
-- Je suis venu voir Barbara Stratford. Je m’appelle Levert.\
-- Vous voulez dire Lebrun ?\
-- Oui, ai-je fait en rougissant. Lebrun.\
+— Je suis venu voir Barbara Stratford. Je m’appelle Levert.\
+— Vous voulez dire Lebrun ?\
+— Oui, ai-je fait en rougissant. Lebrun.\
 Elle a fait quelque chose sur son ordinateur et a dit :\
-- Prenez un siège. Barbara va être ici dans instant. Puis-je vous
+— Prenez un siège. Barbara va être ici dans instant. Puis-je vous
 offrir\
 quelque chose à boire ?\
-- Du café, avons-nous réclamé à l’unission.\
+— Du café, avons-nous réclamé à l’unission.\
 Une autre raison d’adorer Ange : nous étions acros à la même drogue.\
 La réceptionniste — une jolie femme latino qui n’avait que quelques
 années\
@@ -623,34 +623,34 @@ portait pratiquement les mêmes vêtements que la nuit de la veille. Ca
 lui allait\
 bien. Elle a haussé un sourcil quand elle a vu que j’étais venu
 accompagné.\
-- Bonjour, ai-je dit. Voici…\
-- Madame Lebrun, a dit Ange en tendant la main.\
+— Bonjour, ai-je dit. Voici…\
+— Madame Lebrun, a dit Ange en tendant la main.\
 Oh, oui, évidemment, nous identités étaient secrètes.\
-- Je travaille avec Monsieur Levert.\
+— Je travaille avec Monsieur Levert.\
 Elle m’a donné un léger coup de coude.\
-- Dans ce cas, allons-y, a dit Barbara en nous entraînant dans une salle
+— Dans ce cas, allons-y, a dit Barbara en nous entraînant dans une salle
 de\
 conférence aux long murs de verre dont les rideaux étaient tirés.\
 Elle a disposé un plateau de clones d’Oréos Whole Foods, un
 enregistreur\
 numérique, et un nouveau carnet jaune.\
-- Voulez enregistrer vous aussi ? a-t-elle demandé.\
+— Voulez enregistrer vous aussi ? a-t-elle demandé.\
 Je n’avais pas réfléchi jusque-là. Ceci dit, je comprenais en quoi ça\
 aurait été utile au cas où j’aurais voulu contester ce qu’avait dit
 Barbara.\
 Néanmoins, si je ne pouvais pas lui faire confiance à elle pour me
 faire\
 justice, tout était fichu de toute manière.\
-- Non merci, ça ira bien comme ça, ai-je fait.\
-- Bien, alors allons-y. Jeune fille, je m’appelle Barbara Stratford et
+— Non merci, ça ira bien comme ça, ai-je fait.\
+— Bien, alors allons-y. Jeune fille, je m’appelle Barbara Stratford et
 je suis\
 journaliste d’investigation. J’ai cru comprendre que vous savez pourquoi
 je\
 suis ici, et je serais curieuse de savoir pourquoi vous êtes ici
 vous-même.\
-- Je travaille avec Marcus sur le Xnet, a-t-elle dit. Connaissez-vous
+— Je travaille avec Marcus sur le Xnet, a-t-elle dit. Connaissez-vous
 mon nom ?\
-- Non, pas pour le moment, a répondu Barbara. Vous pouvez rester anonyme
+— Non, pas pour le moment, a répondu Barbara. Vous pouvez rester anonyme
 si vous\
 le désirez. Marcus, je t’ai demandé de me raconter cette histoire parce
 que j’ai\
@@ -677,7 +677,7 @@ gens\
 pour dire, vous voyez, il faut bien embastiller ces gens, sinon ils
 vont\
 fomenter des émeutes.\
-- C’est votre spectacle, ai-je dit. Je pense qu’il faut raconter au
+— C’est votre spectacle, ai-je dit. Je pense qu’il faut raconter au
 monde\
 l’histoire de Darryl. Quand vous aurez fait ça, ça communiquera au DSI
 que\
@@ -690,7 +690,7 @@ moi et M1K3y. En fait, ce que je veux dire, c’est que quoi qu’il arrive,
 partir du moment où vous publierez quelque chose sur Darryl, tout sera
 fini\
 pour moi. Je me suis réconcilié avec cette idée.\
-- L’agneau de Dieu venu laver les pêchés des hommes, a-t-elle fait.
+— L’agneau de Dieu venu laver les pêchés des hommes, a-t-elle fait.
 Bien. Dans\
 ce cas, c’est entendu. Je veux que vous me racontiez tous les deux tout
 ce que\
@@ -699,10 +699,10 @@ ensuite\
 je voudrai une démonstration. A quoi vous l’utilisez ; qui d’autre
 l’utilise ;\
 comment il s’étend ; qui a écrit les logiciels ; tout.\
-- Ca va prendre un moment, a fait Ange.\
-- J’ai tout mon temps, a dit Barbara.\
+— Ca va prendre un moment, a fait Ange.\
+— J’ai tout mon temps, a dit Barbara.\
 Elle a bu un peu de café et mangé une imitation d’Oréo.\
-- Ce pourrait bien être le reportage le plus important de la Guerre
+— Ce pourrait bien être le reportage le plus important de la Guerre
 contre\
 le Terrorisme. Ca pourrait être une histoire à faire tomber le
 gouvernement.\

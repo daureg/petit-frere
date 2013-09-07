@@ -107,7 +107,7 @@ blanc,\
 un maquillage de kabuki sophistiqué sur les yeux, et ses doigts et sa
 gorge\
 débordaient de bijoux argentés.\
-- Tu es magnifiques !, nous sommes-nous exclamés à l’unisson, et nous
+— Tu es magnifiques !, nous sommes-nous exclamés à l’unisson, et nous
 avons\
 ri en filant dans les rues, les sprays de peinture dans nos poches.
 
@@ -226,14 +226,14 @@ tard, c’était trois cents. Quatre cents. Ils continuaient à défiler. Les
 vampires avait rameuté leurs amis.\
 Quelqu’un m’a attrapé les fesses. Je me suis retourné et j’ai vu Ange,
 qui riait tellement fort qu’elle se tenait les côtes, pliée en deux.\
-- Regarde-moi ça, mon Dieu, regarde-moi ça !, a-t-elle hoqueté.\
+— Regarde-moi ça, mon Dieu, regarde-moi ça !, a-t-elle hoqueté.\
 La place était deux fois plus fréquentée que quelques minutes avant. Je
 n’avais aucune idée de combien il y avait de Xnetters, mais un bon
 millier d’entre eux venaient d’arriver à ma petite fête. Seigneur.\
 Le DSI et les flics du SFPD commençaient à tourner autours de nous, en
 parlant dans leurs radios et en se regroupant. J’ai entendu une sirène
 au loin.\
-- Bon, ai-je fait en prenant Ange par le bras. Bien, allons-y.\
+— Bon, ai-je fait en prenant Ange par le bras. Bien, allons-y.\
 Nous nous sommes tous les deux glissés dans la foule et dès que nous
 avons recontré nos premiers vampires, nous avons tous les deux dit, bien
 fort, “Mors mors mors mors mors !”. Ma victime était une fille tétanisée
@@ -262,7 +262,7 @@ un autre vampire, un gamin de 15 ou 16 ans, ses cheveux maintenus en
 arrière par le gel, une veste Marilyn Manson en PVC sur les épaules,
 drapé dans des colliers et avec de fausses canines gravées de symboles
 complexes.\
-- “Mors mors mors…”, a-t-il commencé, lorsqu’alors, l’un des passants
+— “Mors mors mors…”, a-t-il commencé, lorsqu’alors, l’un des passants
 s’est pris les pieds sur lui et ils ont tous les deux roulé par terre.\
 J’ai bondi et crié “Mors mors mors mors mors !” avant qu’il se dégage.\
 De nouveaux vampires arrivaient. Leurs costumes étaient vraiment
@@ -291,16 +291,16 @@ Mais en même temps, les flics étaient en train de se mobiliser
 sérieusement. J’entendais des hélicoptères. D’une seconde à l’autre,
 tout serait fini. C’était le moment pour la fin de partie.\
 J’ai attrapé un vampire.\
-- Fin de partie. Quand les flics nous ordonneront de nous disperser,
+— Fin de partie. Quand les flics nous ordonneront de nous disperser,
 faites semblant d’avoir été gazés. Faire passer le mot. Répète ?\
 Le vampire était une fille, minuscule, tellement petit que j’ai pensé
 qu’elle devait être vraiment jeune, mais elle devait avec 17 ou 18 ans à
 son visage et à son sourire.\
-- Oh, c’est tordu !, a-t-elle fait.\
-- Qu’est-ce que j’ai dit ?\
-- Fin de partie: quand les flics nous ordonnent de nous disperser, faire
+— Oh, c’est tordu !, a-t-elle fait.\
+— Qu’est-ce que j’ai dit ?\
+— Fin de partie: quand les flics nous ordonnent de nous disperser, faire
 semblant de s’être fait gazer. Faire passer le mot. Répète.”\
-- Bien, ai-je répondu. Fais passer.\
+— Bien, ai-je répondu. Fais passer.\
 Elle a disparu dans la foule. J’ai attrapé un autre vampire. J’ai fait
 passer le mot. Il a filé pour passer la consigne.\
 Je savais que quelque part dans la foule, Ange en faisait autant.
@@ -314,14 +314,14 @@ foule ne bougeait plus, elle était compacte, comme l’attroupement de la
 station du BART le jour où les bombes avaient explosé. Je peinais à me
 frayer un chemin lorsque les haut-parleurs sous l’hélicoptère se sont
 allumés.\
-- ICI LE DÉPARTEMENT DE LA SÉCURITÉ INTÉRIEURE. VOUS AVEZ ORDRE DE VOUS
+— ICI LE DÉPARTEMENT DE LA SÉCURITÉ INTÉRIEURE. VOUS AVEZ ORDRE DE VOUS
 DISPERSER IMMÉDIATEMENT.\
 Tout autours de moi, des centaines de vampires sont tombés sur le sol en
 se tenant la gorge, roulant les yeux et haletant. Il était facile
 d’imiter les effets du gaz, nous avions tous eu tout le temps pour
 étudier les vidéos des fêtards de la Mission Dolores Park qui tombaient
 sous les nuages de spray au poivre.\
-- DISPERSEZ-VOUS IMMÉDIATEMENT\
+— DISPERSEZ-VOUS IMMÉDIATEMENT\
 Je me suis jeté au sol en protegeant mon sac et en fouillant dans ma
 ceinture de smoking pour en sortir la casquette de baseball rouge quej’y
 avais pliée. Je l’ai vissée sur ma tête, puis j’ai agrippé ma gorge à
@@ -330,7 +330,7 @@ Les seuls qui restaient debout étaient les Normaux, tous les employés de
 bureau qui avaient simplement essayé d’aller au travail. J’ai regardé
 autour de moi du mieux que j’ai pu tout en m’étranglant et en
 hoquetant.\
-- ICI LE DÉPARTEMENT DE LA SÉCURITÉ INTÉRIEURE. VOUS AVEZ ORDRE DE VOUS
+— ICI LE DÉPARTEMENT DE LA SÉCURITÉ INTÉRIEURE. VOUS AVEZ ORDRE DE VOUS
 DISPERSRE IMMÉDIATEMENT.\
 La voix de Dieu me donnait mal aux boyaux. Je l’ai sentie dans mes
 molaires, dans mes fémurs et dans ma colonne vertebrale.\
@@ -386,7 +386,7 @@ C’était une fille dont le visage intelligent faisait penser à un
 rongeur, à moitié caché derrière une paire de lunettes géantes.
 Par-dessus les lunettes, une tignasse de cheveux rose vif, dont les
 touffes partaient dans toutes les directions.\
-- Toi !, me suis-je exclamé.\
+— Toi !, me suis-je exclamé.\
 Je la connaissais. Elle avait pris une photo de moi et menacé de me
 dénoncer. Ca s’était passé cinq minutes avant que les alertes ne soient
 lancées. C’était elle, sans pitié et rusée. Nous avions tous deux fui de
@@ -394,28 +394,28 @@ cet endroit dans le Tenderloin avec les bruits klaxons derrière nous, et
 nous avions tous les deux été ramassés par les flics. J’avais été
 aggressif et ils m’avaient considéré comme un ennemi.\
 Elle — Masha — était devenue leur alliée.\
-- Salut, M1k3y, a-t-elle sifflé dans mon oreille, tout près comme à un
+— Salut, M1k3y, a-t-elle sifflé dans mon oreille, tout près comme à un
 amant.\
 Un frisson m’a parcouru l’échine. Elle a lâché mon bras et je l’ai
 dégourdi.\
-- Seigneur !, ai-je fait. Toi !\
-- Oui, moi, a-t-elle répondu. Le gaz va tomber dans environ deux
+— Seigneur !, ai-je fait. Toi !\
+— Oui, moi, a-t-elle répondu. Le gaz va tomber dans environ deux
 minutes. On se barre d’ici.\
-- Ange — ma copine — est à la Statue du Fondateur.\
+— Ange — ma copine — est à la Statue du Fondateur.\
 Masha a jeté un oeil par-dessus la foule.\
-- Pas la moindre chance, a-t-elle fait. Si on essaye d’y aller, nous
+— Pas la moindre chance, a-t-elle fait. Si on essaye d’y aller, nous
 sommes perdus. Le gaz va nous tomber dessus dans deux minutes, je ne
 sais pas si tu as entendu.\
 Je me suis arrêté.\
-- Je ne pars pas sans Ange, ai-je déclaré.\
+— Je ne pars pas sans Ange, ai-je déclaré.\
 Elle a haussé les épaules.\
-- Comme tu veux, a-t-elle hurlé dans mon oreille. C’est ton problème.\
+— Comme tu veux, a-t-elle hurlé dans mon oreille. C’est ton problème.\
 Elle a commencé à fendre la foule en se dirigeant vers le nord, en
 direction des bas-quartiers. J’ai continué à pouser pour le rapprocher
 de la Statue du Fondateur. Une seconde après, mon bras s’est retrouvé
 pris dans cette clef terrible et je me suis fait retourner et propulser
 en avant.\
-- Tu en sais trop, tête de noeud, a-t-elle dit. Tu as vu mon visage. Tu
+— Tu en sais trop, tête de noeud, a-t-elle dit. Tu as vu mon visage. Tu
 viens avec moi.\
 Je lui ai hurlé dessus, je me suis débattu jusqu’à ce que j’aie
 l’impression que mon bras allait se rompre, mais elle me poussait en
@@ -424,7 +424,7 @@ avait l’air sur le point de casser. En m’utilisant comme bélier, elle
 nous a fait bie progresser à travers la foule.\
 Le gémissement des hélicoptères a changé et elle m’a poussé plus
 durement.\
-- COURS, a-t-elle hurlé. Voilà le gaz.\
+— COURS, a-t-elle hurlé. Voilà le gaz.\
 Le bruit de la foule a changé, lui aussi. Les hoquets et les râles se
 sont faits bien, bien plus forts. J’avais déjà entendu ce genre de
 bruit. Nous étions de retour au parc. Le gaz pleuvait. J’ai retenu mon
@@ -437,10 +437,10 @@ des masques. Comme nous nous approchions, ils se sont préparés à nous
 couper la retraite, mais Masha a bradi un badge et ils se sont écartés
 comme si elle avait été Obi-Wan Kenobi quand il dit “Ce ne sont pas les
 droïdes que vous recherchez”.\
-- Espèce de salope !, ai-je fait comme nous foncions sur Market Street.
+— Espèce de salope !, ai-je fait comme nous foncions sur Market Street.
 Il faut retourner chercher Ange !\
 Elle s’est mordu les lèvres.\
-- Je suis désolée pour toi, mon pote. Je n’ai pas revu mon copain depuis
+— Je suis désolée pour toi, mon pote. Je n’ai pas revu mon copain depuis
 des mois. Il me croit sûrement morte. Fortune de guerre. Si on retourne
 chercher ton Ange, on est morts. Si on continue, on a peut-être une
 chance. Tant que nous avons une chance, elle a une chance. Ces gamins ne
@@ -459,7 +459,7 @@ laine de sa poche et en a recouvert ses cheveux, en le laissait former
 un pic décentré et informe sur sa tête. Puis elle a sorti des serviettes
 à démaquiller et s’en est frotté le visage et les ongles. En une minute,
 elle était une femme différente.\
-- Changement de costume, a-t-elle dit. A toi, maintenant, Débarasse-toi
+— Changement de costume, a-t-elle dit. A toi, maintenant, Débarasse-toi
 des chaussures, de la veste et de la casquette.\
 Je voyais son argument. Les flics seraient à l’affut de quiconque aurait
 l’air de venir de la VampMob. J’ai jeté la casquette — j’ai toujours
@@ -468,7 +468,7 @@ sac et j’ai sorti un T-shirt à manches longue avec une photo de Rosa
 Luxembourg dessus, et l’ai tiré par-dessus mon T-shirt noir. J’ai laissé
 Masha me démaquiller et nettoyer mes ongles et une minute plus tard,
 j’étais tout propre.\
-- Eteints ton téléphone, m’a-t-elle enjoint. Tu transportes des Arphids
+— Eteints ton téléphone, m’a-t-elle enjoint. Tu transportes des Arphids
 ?\
 J’avais ma carte d’étudiant, ma carte banquaire, mon abonnement de bus.
 Tout est parti dans un sac argenté qu’elle tenait ouvert, et en quoi
@@ -480,15 +480,15 @@ moi. Dans mon esprit, j’avais toujour imaginé qu’Ange serait avec moi à
 ce stade. Ange aurait fait pencher la balance à deux contre un. Ange
 m’aurait aidé à voir si quelque chose ne tournait pas rond. Si Masha
 n’était pas exactement ce qu’elle prétendait.\
-- Mets ces graviers dans tes chaussures avant de les enfiler…\
-- Non, ça va. Je me suis foulé la cheville. Les programmes de
+— Mets ces graviers dans tes chaussures avant de les enfiler…\
+— Non, ça va. Je me suis foulé la cheville. Les programmes de
 reconnaissance de démarche ne me reconnaîtront pas.\
 Elle a hoché la tête une fois, d’un professionel à l’autre, et a passé
 la sangle de son sac. J’ai ramassé le mien et nous sommes partis. Nous
 avions pris moins d’une minute au total pour nous changer. Nous avions
 des apparences et des démarches différentes.\
 Elle a regardé sa montre et a secoué la tête.\
-- Allez, a-t-elle fait. Il faut qu’on aille à notre rendez-vous. Et ne
+— Allez, a-t-elle fait. Il faut qu’on aille à notre rendez-vous. Et ne
 pense pas à t’enfuir, au fait. Tu n’as qu’une alternative, maintenant :
 moi, ou la prison. Ils vont analyser les vidéos de la foule pendant des
 jours, mais quand ils en auront fini, chaque visage sera dans leur base
@@ -499,8 +499,8 @@ Elle nous a fait sortir de Market Street au pâté de maisons suivant,
 retournant dans le Tenderloin. Je connaissais le quartier. C’était là
 que j’avais traqué le point d’accès WiFi quand je jouais à Harajuku Fun
 Madness.\
-- Où on va ?, ai-je demandé.\
-- Nous allons faire de l’auto-stop, a-t-elle répondu. Boucle-la et
+— Où on va ?, ai-je demandé.\
+— Nous allons faire de l’auto-stop, a-t-elle répondu. Boucle-la et
 laisse-moi me concentrer.\
 Nous marchions rapidement, et la sueur coulait sur mon visage depuis le
 dessous de mes cheveux, courait dans mon dos et glissait jusqu’à la raie
@@ -515,31 +515,31 @@ Mon souffle se faisait rauque. Elle nous a conduits à travers des allées
 l’autre.\
 Nous étions à peine entrés dans l’une de ces allées, Sabin Plance,
 lorsque quelqu’un est apparu derrière nous et a dit\
-- Arrêtez-vous immédiatement.\
+— Arrêtez-vous immédiatement.\
 La voix était pleine de joie mauvaise. Nous nous sommes immobilisés et
 nous sommes retournés. Dans l’entrée de l’allée se tenait Charles, en
 costume vaguement VampMob avec un T-shirt et des jeans noirs, et du fond
 de teint blanc.\
-- Salut Marcus, a-t-il fait. On se promène ? Son sourire était immense
+— Salut Marcus, a-t-il fait. On se promène ? Son sourire était immense
 et humide. C’est qui, ta copine ?\
-- Qu’est-ce que tu veux, Charles ?\
-- Eh bien, j’ai traîné sur ce Xnet de traîtres depuis que j’ai repéré
+— Qu’est-ce que tu veux, Charles ?\
+— Eh bien, j’ai traîné sur ce Xnet de traîtres depuis que j’ai repéré
 tes DVDs au lycée. Quand j’ai entendu parler de ta VampMob, je me suis
 dit que j’allais venir et patrouiller à la lisière, juste au cas où tu
 viendrais, et tu es venu. Tu sais ce que j’ai vu ?\
 Je n’ai rien répondu. Il avait son téléphone dans la main, pointé sur
 nous. Il enregistrait. Il était peut-être même connecté au 911. A côté
 de moi, Masha s’était raidie comme une planche.\
-- Je t’ai vu diriger tout ce satané truc. Et J’ai tout enregistré,
+— Je t’ai vu diriger tout ce satané truc. Et J’ai tout enregistré,
 Marcus. Alors maintenant, je vais appeler les flics, et on va attendre
 gentiment ici qu’ils viennent. Et alors tu vas aller te faire sodomiser
 en prison pour très, très longtemps.\
 Masha a fait un pas en avant.\
-- Toi, tu ne bouges pas, poulette, a-t-il fait. Je t’ai vu le faire
+— Toi, tu ne bouges pas, poulette, a-t-il fait. Je t’ai vu le faire
 sortir. J’ai tout vu…\
 Elle a fait un autre pas et lui a arraché le téléphone des mains, tout
 en cherchant dans son dos pour en sortir un porte-feuille ouvert.\
-- DSI, tête de gland ! Je suis du DSI ! J’étais en train de faire
+— DSI, tête de gland ! Je suis du DSI ! J’étais en train de faire
 retourner cet abruti chez ses chefs pour voir remonter la filière. C’est
 ça que je faisais. Et tu as tout fait foirer. On a un nom pour ça. Ca
 s’appelle “obstruction à la sécurité nationale”. C’est un terme que tu
@@ -547,9 +547,9 @@ vas entendre souvent, à partir de maintenant.
 
 Charles a reculé d’un pas, ses main devant lui. Il était devenu livide
 sous son maquillage.\
-- Quoi ? Non ! Je veux dire… Je ne savais pas ! J’essayais de vous aider
+— Quoi ? Non ! Je veux dire… Je ne savais pas ! J’essayais de vous aider
 !\
-- La dernière chose dont nous avons besoin, c’est d’écoliers qui se
+— La dernière chose dont nous avons besoin, c’est d’écoliers qui se
 prennent pour des espions et assayent de nous “aider”, mon pote. Mais tu
 pourras raconter tout ça au juge.\
 Il a encore reculé, mais Masha a été plus rapide. Elle a attrapé son
@@ -564,13 +564,13 @@ plaque au sol de derrière et m’envoie rouler au sol. Je ne pouvais pas
 courir très vite, avec mon pied blessé et le poids de mon sac. J’ai
 atteri la tête la première et j’ai glissé en me rapant la joue sur
 l’asphalte.\
-- Pour l’amour du Ciel!, a-t-elle fait, tu es vraiment un crétin. Tu
+— Pour l’amour du Ciel!, a-t-elle fait, tu es vraiment un crétin. Tu
 n’as quand même pas cru ce que je lui ai dit, si ?\
 Mon coeur donnait des coups dans ma poitrine. Elle s’était assise sur
 moi et m’a lentement libéré.\
-- Est-ce qu’il faut que je te menotte aussi, Marcus ?\
+— Est-ce qu’il faut que je te menotte aussi, Marcus ?\
 Je me suis relevé. J’avais mal partout. J’avais envie de mourir.\
-- Allez, a-t-elle fait. On y est presque, maintenant.
+— Allez, a-t-elle fait. On y est presque, maintenant.
 
 “Y être” s’est trouvé désigner un camion de déménagement sur le
 trottoire de Nob Hill, un monstre à huit essieux de la taille des
@@ -588,7 +588,7 @@ camion, un Noir entre deux âges avec une ceinture de force et de gros
 gants. Il avait un visage gentil et il nous a souri pendant qu’elle nous
 conduisait rapidement et avec naturel en haut des trois marches du
 camion et dans ses entrailles.\
-- Sous la grande table, a-t-il indiqué. On vous a laissé de la place,
+— Sous la grande table, a-t-il indiqué. On vous a laissé de la place,
 là-dessous.
 
 Le camion était plus qu’à moitié rempli, mais il y restait un corridor
@@ -599,19 +599,19 @@ et poussiérieuse, et j’ai dû réprimer une crise d’éternuements quand
 nous nous sommes faufilés à travers les caisses. L’espace était
 tellement serré que nous étions pratiquement l’un sur l’autre. Je ne
 pense pas qu’Ange aurait tenu là-dedans.\
-- Salope, ai-je fait en lançant un regard à Masha.\
-- La ferme. Tu devrais me lécher les bottes en me remerciant. Tu étais
+— Salope, ai-je fait en lançant un regard à Masha.\
+— La ferme. Tu devrais me lécher les bottes en me remerciant. Tu étais
 parti pour te retrouver en taule dans la semaine, deux semaines tout au
 plus. Pas à Guantanamo-sur-la-Baie. Peut-être en Syrie. Je crois que
 c’est là qu’ils envoient ceux qu’ils veulent vraiment faire disparaître.
 J’ai posé ma tête sur mes genoux et j’ai essayé de respirer
 profondément.\
-- Pourquoi diable est-ce que tu a fais une chose aussi idiote que de
+— Pourquoi diable est-ce que tu a fais une chose aussi idiote que de
 déclarer une vandetta sur le DHS, d’ailleurs ?\
 Je lui ai expliqué. Je lui ai raconté l’arrestation et je lui ai raconté
 l’histoire de Darryl. Elle a fouillé dans ses poches et en a sorti un
 téléphone. C’était celui de Charles.\
-- Oups, c’est pas le bon téléphone.\
+— Oups, c’est pas le bon téléphone.\
 Elle a produit un autre téléphone. Elle l’a alllumé et la lueur de
 l’écran a rempli notre forteresse. Après l’avoir manipulé quelques
 instants, elle me l’a montré. C’était la photo qu’elle avait prise de
@@ -620,8 +620,8 @@ Van et moi — et Darryl.\
 Je tenais dans ma main une preuve que Darryl avait été avec nous dans
 les minutes qui précédaient notre arrestation par le DSI. La preuve
 qu’il avait été vivant et valide en notre compagnie.\
-- Il faut que tu me donnes une copie de ça, ai-je fait. Il me la faut.\
-- Quand on sera à Los Angeles, a-t-elle répondu en reprenant le
+— Il faut que tu me donnes une copie de ça, ai-je fait. Il me la faut.\
+— Quand on sera à Los Angeles, a-t-elle répondu en reprenant le
 téléphone. Une fois qu’on t’aura expliqué comment survivre dans la
 clandestinité sans nous faire prendre tous les deux et expédier en Syrie
 par la peau du cul. Je ne veux pas que tu racontes que tu vas aller
@@ -687,18 +687,18 @@ poignet, fortement, ses doigts pénétrant entre les os petits et délicats
 du dessous de ma main.\
 J’ai sursauté et j’ai vu les yeux de Masha, grands ouverts, qui me
 scrutaient.\
-- Tu es tellement con, a-t-elle dit sur le ton de la conversation, en me
+— Tu es tellement con, a-t-elle dit sur le ton de la conversation, en me
 reprenant le téléphone et en tapant sur le clavier avec son autre main.
 Comment est-ce que tu pensais le déverrouiller ?\
 J’ai avalé ma salive. Je sentais les os frotter l’un contre l’autre dans
 mon poignet. Je me suis mordu la lèvre pour ne pas hurler.\
 Elle continuait de taper avec son autre main.\
-- C’est avec ça que tu pensais pouvoir t’enfuir ?\
+— C’est avec ça que tu pensais pouvoir t’enfuir ?\
 Elle me montrait la photo de nous tous, Darryl et Jolu, Van et moi.\
-- Cette photo ?\
+— Cette photo ?\
 Je n’ai rien répondu. Mon poignet me faisait l’impression d’être prêt à
 se rompre.\
-- Je devrais peut-être simplement la détruire, pour ne pas te soumettre
+— Je devrais peut-être simplement la détruire, pour ne pas te soumettre
 à la tentation.\
 Sa main s’est activée à nouveau. Le téléphone a demandé si elle était
 sûre et elle a dû regarder pour trouver le bon bouton.\

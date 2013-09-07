@@ -19,7 +19,7 @@ Compass Books/Books Inc*
 Il était tellement furieux que j’ai cru qu’il allait éclater. Vous vous
 souvenez quant j’ai dit que je ne l’ai que rarement vu perdre son calme
 ? Cette nuit-là, il l’a perdu plus que jamais avant.\
-- “C’était incroyable. Ce flic, il devrait avoir dix-huit ans et il me
+— “C’était incroyable. Ce flic, il devrait avoir dix-huit ans et il me
 répétait ‘mais monsieur, pourquoi vous êtes-vous rendu à Berkeley hier
 si vos clients sont à Moutain View ?’ Je n’ai pas arrêté de lui
 expliquer que je donne de scours à Berkeley, et là il disait, ‘ je
@@ -43,15 +43,15 @@ nous deux va lui dire “on te l’avait bien dit” ? Je lui ai fait un signe
 de tête. Elle pourrait utiliser ses super-pouvoirs matrimoniaux pour
 annuler sa rage, quelque chose qui n’était pas à la portée d’une simple
 unité filiale.\
-- “Drew”, a-t-elle dit, et elle lui a attrapé le bras pour l’empêcher
+— “Drew”, a-t-elle dit, et elle lui a attrapé le bras pour l’empêcher
 d’arpenter la cuisine dans tous les sens en agitant les bras comme un
 prêcheur des rues.\
-- “Quoi ?”, a-t-il demandé d’un ton cassant.\
-- “Je crois que tu dois des excuses à Marcus”. Elle a maintenu sa voix
+— “Quoi ?”, a-t-il demandé d’un ton cassant.\
+— “Je crois que tu dois des excuses à Marcus”. Elle a maintenu sa voix
 calme et égale. Papa et moi sommes les gravillons de la maison — Maman
 est un vrai roc. Papa m’a regardé. Il a plissé les yeux en réfléchissant
 pendant une minute.\
-- “D’accord”, a-t-il dit finalement. “Tu as raison. Je parlais d’une
+— “D’accord”, a-t-il dit finalement. “Tu as raison. Je parlais d’une
 surveillance compétente. Ces types sont de vrais amateurs. Je suis
 désolé, fils. Tu avais raison. C’était ridicule.” Il a présenté sa main
 et a serré la mienne, puis m’a fait une accolade ferme et inattendue.
@@ -140,40 +140,40 @@ DSI, rameutés pour répondre à mes propres idées stupides. Van avait
 raison. Plus je les combattais, pire les choses allaient tourner.
 
 Papa a montré le journal du doigt.\
-- “Ces types sont peut-être des imbéciles, mais au moins ce sont des
+— “Ces types sont peut-être des imbéciles, mais au moins ce sont des
 imbéciles systématiques. Ils vont juste augmenter leurs ressources
 jusqu’à ce qu’ils résolvent ce problème. C’est possible, tu sais.
 Exploiter toutes les données de la ville, suivre chaque piste. Ils
 finiront par attraper les terroristes. ” J’ai perdu mon calme.\
-- “Papa ! est-ce que tu entends ce que tu dis ? Ils parlent d’enquêter
+— “Papa ! est-ce que tu entends ce que tu dis ? Ils parlent d’enquêter
 sur pratiquement chaque personne dans la ville de San Francisco !”\
-- “Oui”, il a fait, “c’est exact. Ils vont attraper chaque escroc,
+— “Oui”, il a fait, “c’est exact. Ils vont attraper chaque escroc,
 chaque trafiquant de drogue, chaque sale type et chaque terroriste.
 Attends un moment. Ca pourrait bien être la meilleure chose qui soit
 arrivée à ce pays.\
-- “Dis-moi que tu plaisantes”, ai-je dit. “Je t’en supplie. Tu penses
+— “Dis-moi que tu plaisantes”, ai-je dit. “Je t’en supplie. Tu penses
 que c’est pour ça qu’on a écrit la Constitution ? Qu’est-ce que tu fais
 de la Déclaration des Droits ?”\
-- “La Déclaration des Droits a été écrite avant qu’on fasse de la
+— “La Déclaration des Droits a été écrite avant qu’on fasse de la
 fouille de données informatisée. ” A-t-il répondu. Il était terriblement
 serein, convaincu d’avoir raison.\
-- “Le droit à la liberté d’association est une bien belle chose, mais
+— “Le droit à la liberté d’association est une bien belle chose, mais
 pourquoi est-ce qu’on ne devrait psa autoriser la police à fouiller les
 réseaux sociaux pour voir si vous passez votre temps libre avec des
 gangsters et des terroristes ?”\
-- “Parce que c’est une violation de la vie privée !”, ai-je fait.\
-- “Mais qu’est-ce que ça fait ? Tu préfères avoir ta vie privée ou des
+— “Parce que c’est une violation de la vie privée !”, ai-je fait.\
+— “Mais qu’est-ce que ça fait ? Tu préfères avoir ta vie privée ou des
 terroristes ?” Arg. Je détestais débattre comme ça avec mon père.
 J’avais besoin d’un café.\
-- “Allons, Papa. Démanteler la vie privé, ça n’attrape pas de
+— “Allons, Papa. Démanteler la vie privé, ça n’attrape pas de
 terroriste. Ca ennuie juste les gens normaux. “\
-- “Comment tu sais qu’ils n’attrapent pas de terroristes ?”\
-- “Où seraient ces terroristes qu’ils auraient attrapés ?”\
-- “Je suis certain qu’on verra des arrestations bientôt. Attends un peu.
+— “Comment tu sais qu’ils n’attrapent pas de terroristes ?”\
+— “Où seraient ces terroristes qu’ils auraient attrapés ?”\
+— “Je suis certain qu’on verra des arrestations bientôt. Attends un peu.
 “\
-- “Papa, qu’est-ce qui t’es arrivé depuis la hier soir ? Tu aurais
+— “Papa, qu’est-ce qui t’es arrivé depuis la hier soir ? Tu aurais
 atomisé ces flics qui t’ont arrêté –”\
-- “Ne me parle pas sur ce ton, Marcus. Ce qui m’est arrivé depuis hier
+— “Ne me parle pas sur ce ton, Marcus. Ce qui m’est arrivé depuis hier
 soir, c’est que j’ai eu l’occasion de repenser à tout ça et de lire ça.
 ” Il a secoué le journal. “La raisons pour laquelle ils m’ont attrapé,
 c’est qu’il y a des sales types qui les brouillent activement. Ils faut
@@ -192,11 +192,11 @@ ils n’allaient pas la subir en silence. Quelqu’un a téléphoné à une
 pouvions enrayer le système plus vite qu’ils ne pouvaient le réparer.
 L’enregistrement était en tête des téléchargements sur Xnet cette
 nuit-là.\
-- “Ici California Live, nous parlons à un correspondant anonyme qui nous
+— “Ici California Live, nous parlons à un correspondant anonyme qui nous
 appelle d’une cabine publique quelque part dans San Francisco. Il a ses
 propres informations sur les ralentissements que nous avons pu voir en
 ville cette semaine. Vous êtes en ligne.\
-- “Ouais, euh, salut, c’est justele début, tu vois ? J’veux dire, genre,
+— “Ouais, euh, salut, c’est justele début, tu vois ? J’veux dire, genre,
 on vient juste de commencer, là. Ils peuvent engager un milliard de
 sales keufs et mettre un barrage à chaque coin de rue. On va tout
 brouiller ! Et, genre, toutes ces conneries sur les terroristes ? On
@@ -281,7 +281,7 @@ Président depuis le jour où il avait été élu, avec l’argument qu’il
 n’était pas meilleur que le précédent et que le précédent avait été un
 véritable désastre, mais là, la seule chose dont il parlait était à quel
 point ce nouveau type était décidé et dynamique.\
-- “Sois gentil avec ton père”, m’a dit Maman un soir après que je suis
+— “Sois gentil avec ton père”, m’a dit Maman un soir après que je suis
 rentré de l’école. Elle avait travailléde la maison autant qu’il était
 possible. Maman est spécialiste de déménagements freelance qui aide les
 Britanniques à s’installer à San Francisco. La High Commission du
@@ -315,13 +315,13 @@ Grande-Bretagne quand elle était encore au lycée et ne s’était jamais
 sentie chez elle ici, bien qu’elle eût épousé un garçon de Petaluma et y
 eût élevé un fils. Pour elle, c’était toujours un pays de barbares, et
 la Grande-Bretagne serait toujours son foyer.\
-- “Maman, il  a simplement tort. Toi, entre tous, tu devrais le savoir.
+— “Maman, il  a simplement tort. Toi, entre tous, tu devrais le savoir.
 Tout ce qui fait de ce pays un grand pays se fait jeter aux orties, et
 ça lui va très bien. Tu as remarqué qu’ils n’ont pas attrapé un seul
 terroriste ? Papa raconte tout le temps qu’on a besoin d’être en
 sécurité, mais il devrait comprendre que la plupart d’entre nous ne se
 sentent pas en sécurité. Nous nous sentons en danger en permanence.”\
-- “Je sais bien, Marcus. Crois-moi, je ne suis pas fan de ce qui se
+— “Je sais bien, Marcus. Crois-moi, je ne suis pas fan de ce qui se
 passe dans ce pays. Mais ton père est –” Elle s’est étranglée. “Quand tu
 n’est pas rentré après les attentats, il a pensé –” Elle s’est levée et
 s’est fait une tasse de thé, ce qu’elle faisait à chaque fois qu’elle se
@@ -335,7 +335,7 @@ s’étaient inquiétés. Beaucoup de monde était mort dans ces attentats —
 le dernier bilan tournait autours de quatre mille — et presque tout le
 monde connaissant quelqu’un qui n’était jamais rentré chez lui ce
 jour-là. Deux personnes de mon école avaient disparu.\
-- “Ton père était au bord de tuer quelqu’un. N’importe quoi. Il était
+— “Ton père était au bord de tuer quelqu’un. N’importe quoi. Il était
 comme fou. Tu ne l’as jamais vu dans un état pareil. Je ne l’avais
 jamais vu comme ça non plus. Il était dément. Il s’assayait à cette
 table et il jurait continuellement. Des mots atroces, des mots que je ne
@@ -356,7 +356,7 @@ Nous ne pouvions pas supporter l’idée de te faire ça. Nous sommes
 retombés amoureux pour toi. C’est pour toi que noussommes ensemble
 maintenant. ” J’avais la gorge serrée. Je n’avais jamais rien su de tout
 ça. Personne ne m’en avait jamais rien dit.\
-- “C’est pour ça que ton père traverse une mauvaise passe en ce moment.
+— “C’est pour ça que ton père traverse une mauvaise passe en ce moment.
 Il n’est pas dans son état normal. Ca va prendre un certain temps avant
 qu’il revienne à nous, avant qu’il redevienne l’homme que j’aime. D’ici
 là, il faut que nous soyions compréhensifs.”\
