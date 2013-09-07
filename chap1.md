@@ -76,7 +76,7 @@ culmine à près de deux mètres, et ses années de basketball à
 l'université sont suffisamment loin derrière lui pour que ses pectoraux
 soient devenus des espèces de nichons pour homme qui ressortent de façon
 péniblement immanquable à travers ses polos promotionnels de dot-coms. Il
-a toujours l'air sur le point de vous ??? la tronche, et il adore monter
+a toujours l'air sur le point de vous claquer la tronche, et il adore monter
 le ton pour donner de l'effet dramatique. Mais ces deux tactiques
 perdent de leur efficacité quand on les rabâche.\
 — Désolé, non, j'ai dit: je n'ai jamais entendu parlé de ce R2D2 dont
@@ -97,15 +97,15 @@ lier mes deux identités, j'aurais des ennuis. Personne à l'école ne
 m'appelait jamais w1n5t0n, ni même Winston. Pas même mes amis. C'était
 Marcus, ou rien.  Benson s'est assis derrière son bureau et a commencé à
 tapoter sa chevalière nerveusement. Il faisait ça à chaque fois que ça
-tournait mal pour lui. Les joueurs de pocker appellent ça ??? — quelque
+tournait mal pour lui. Les joueurs de pocker appellent ça *tell* — quelque
 chose qui vous dit ce qui se passe dans la tête du gars en face. Je
-connais les ??? de Benson à l'envers et à l'endroit.\
+connais les *tell* de Benson à l'envers et à l'endroit.\
 — Marcus, j'espère que tu comprends à quel point c'est sérieux.\
 — Je comprendrai dès que vous m'aurez expliqué de quoi il s'agit,
 monsieur.\
 Je dis toujours « monsieur » aux figures d'autorité quand je fais le
-malin. C'est mon propre ???. Il a secoué la tête et m'a regardé de très
-haut, encore un ???. D'un moment à l'autre, il allait me hurler dessus.\
+malin. C'est mon propre *tell* Il a secoué la tête et m'a regardé de très
+haut, encore un *tell* D'un moment à l'autre, il allait me hurler dessus.\
 — Écoute, gamin ! Il est temps que tu comprennes que nous savons ce que
 tu as fait, et que nous n'allons pas laisser passer ça. Tu as de la
 chance si tu n'es pas expulsé avant la fin de cette entrevue. Tu le
@@ -228,11 +228,9 @@ japonais), les extra-terrestres, les inspecteurs du fisc, leurs parents,
 et une intelligence artificielle renégate. Ils passent aux joueurs des
 messages codés que nous devons déchiffrer et utiliser par trouver des
 indices qui mènent à d'autres messages et encore plus d'indices et ainsi
-de suite. Imaginez le meilleur après-midi que vous ayiez jamais vécu à
-zoner en ville en espionnant les gens bizarres, à repérer les poignées
-de main secrètes, à  ??????\
-checking out all the weird people, funny hand-bills, street-maniacs, and
-funky shops.
+de suite. Imaginez le meilleur après-midi que vous ayez jamais vécu à
+zoner en ville en observant tous les gens bizarres, les poignées
+de main secrètes, les cinglés vivants rues et les échoppes excentriques.
 
 Ajoutez une chasse au trésor à tout ça, une qui demande de faire des
 recherches dans des vieux films dingues et dans les cultures d'ados à
