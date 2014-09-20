@@ -14,7 +14,7 @@ quand elle est partie pour écrire à plein temps — et j'ai appris des
 leçons inoubliables sur les façons et les raisons pour lesquelles les
 gens achètent des livres. Je pense que tout écrivain devrait travailler
 dans une librairie (et une pléthore d'écrivains ont travaillé chez Bakka
-au fil des années ! Pour le 30e anniversaire du magasin, il est sortir
+au fil des années ! Pour le 30e anniversaire du magasin, il est sorti
 une anthologie de nouvelles écrites par les écrivains de Bakka, incluant
 des œuvres de Michelle Sagara (aussi connue sous le nom de Michelle
 West), Tanya Huff, Nalo Hopkinson, Tara Tallan –et moi-même !)\
@@ -49,7 +49,7 @@ trompais les logiciels de reconnaissance de pas, et que je tuais aux
 micro-ondes les puces avec lesquelles ils nous traquent. Galvez est
 chouette, par contre, elle ne m'en a jamais voulu pour ça (surtout pas
 quand je lui donne un coup de pouce avec son webmail pour qu'elle puisse
-parlé à son frère qui est en garnison en Irak). Mon ami Darryl m'a claqué
+parler à son frère qui est en garnison en Irak). Mon ami Darryl m'a claqué
 les fesses quand je suis passé devant lui. J'ai connu Darryl depuis que
 nous avions des couches et que nous faisions le mur de l'école
 maternelle, et je l'ai enfoncé dans les ennuis et retiré des ennuis
@@ -62,9 +62,9 @@ Je me suis faufilé aux toilettes et je me suis enfermé dans la cabine du
 milieu (celle du fond est toujours la plus sale parce que tout le monde
 s'y précipite dans l'espoir d'éviter les odeurs — le bon plan, et la
 meilleure hygiène, sont au milieu). J'ai vérifié mon téléphone — mon PC
-de la maison lui avait envoyé un mail pour lui annoncé qu'il y avait du
+de la maison lui avait envoyé un mail pour lui annoncer qu'il y avait du
 nouveau sur Harajuku Fun Madness, qui se trouve être le meilleur jeu
-jamais inventé. J'ai eu un grand sourire.  Passer ses vendredis à
+jamais inventé. J'ai eu un grand sourire. Passer ses vendredis à
 l'école, c'est naze de toute façon, et j'étais content d'avoir une
 raison de prendre le large. J'ai parcouru le reste du chemin jusqu'au
 bureau de Benson et l'ai salué d'un grand geste en passant la porte.
@@ -79,7 +79,7 @@ péniblement immanquable à travers ses polos promotionnels de dot-coms. Il
 a toujours l'air sur le point de vous claquer la tronche, et il adore monter
 le ton pour donner de l'effet dramatique. Mais ces deux tactiques
 perdent de leur efficacité quand on les rabâche.\
-— Désolé, non, j'ai dit: je n'ai jamais entendu parlé de ce R2D2 dont
+— Désolé, non, j'ai dit : je n'ai jamais entendu parlé de ce R2D2 dont
 vous parlez.\
 — W1n5t0n, il a dit, de nouveau en épelant.\
 Il m'a fixé un moment en fonçant les sourcils, en espérant que je me
@@ -95,7 +95,7 @@ J'avais fait quelques trucs pas mal sous ce pseudo — j'étais très fier
 de mon travail sur les tueurs de puces cafteuses — et s'il arrivait à
 lier mes deux identités, j'aurais des ennuis. Personne à l'école ne
 m'appelait jamais w1n5t0n, ni même Winston. Pas même mes amis. C'était
-Marcus, ou rien.  Benson s'est assis derrière son bureau et a commencé à
+Marcus, ou rien.Benson s'est assis derrière son bureau et a commencé à
 tapoter sa chevalière nerveusement. Il faisait ça à chaque fois que ça
 tournait mal pour lui. Les joueurs de pocker appellent ça *tell* — quelque
 chose qui vous dit ce qui se passe dans la tête du gars en face. Je
@@ -115,7 +115,7 @@ problème…\
 Il a tapé du poing contre son bureau en me pointant de l'index.\
 — Le problème, monsieur Yallow, est que tu es complice d'une entreprise
 criminelle visant à subvertir les systèmes de sécurité de cette école,
-et que tu as fourni des contre-mesures à vos camarades. Tu sais que nous
+et que tu as fourni des contre-mesures à tes camarades. Tu sais que nous
 avons expulsé Graciella Uriarte la semaine dernière pour avoir utilisé
 un de tes engins.\
 Uriarte s'était mise dans la mouise. Elle avait acheté un brouilleur
@@ -141,12 +141,12 @@ police et les leur confier. L'affaire a l'air sérieuse, et je ne
 voudrais pas interférer avec une enquête en bonne et due forme des
 autorités compétentes.\
 — Tu veux que j'appelle la police ?\
-— Et mes parents, je pense. Ca vaudrait sans doute mieux.\
+— Et mes parents, je pense. Ça vaudrait sans doute mieux.\
 Nous nous sommes fixés par-dessus le bureau. Il s'était clairement
 attendu à ce que je me couche à la seconde où il lâcherait sa bombe. Je
 ne me couche pas. J'ai un truc pour soutenir le regard de gens comme
 Benson. Je regarde légèrement à gauche de leur tête, et je pense à des
-paroles de chansons traditionnelles, du genre qui ne finissent pas. Ca me
+paroles de chansons traditionnelles, du genre qui ne finissent pas. Ça me
 donne un air posé et détaché.\
 « Un kilomètre à pied, ça uuuuuseuh, ça uuuuseuh, un kilomètre à pied,
 ça uuuuseuh les souliers. La peinture à l'huileuh, c'est bien
@@ -177,7 +177,7 @@ espéré me les faire confirmer en me déstabilisant. J'ai avancé dans le
 corridor d'une démarche légère et élastique, en gardant mes foulées bien
 régulières et mesurées pour les caméras de reconnaissance de pas. Elles
 avaient été installées l'année précédente, et je les adorais pour leur
-massive imbécilité. Avant ça, on avait eu des caméras à reconnaissance
+massive imbécillité. Avant ça, on avait eu des caméras à reconnaissance
 de visages qui couvraient pratiquement tous les espaces publics de
 l'école, mais un tribunal les avait jugées anticonstitutionnelles.
 Alors, Benson et beaucoup d'autres administrateurs scolaires
@@ -213,8 +213,8 @@ Madness, mon pote. Tu es des nôtres ?\
 — Pas question. Si je me fais chopper à sécher les cours une troisième
 fois, je me fais expulser, mec. Je t'ai déjà dit. On ira après les
 cours.\
-— Tu as une pause pour déjeuner et ensuite un heure libre, non ? Ca te
-fait deux heures. Ca nous laisse tout le temps de chasser cet indice et
+— Tu as une pause pour déjeuner et ensuite un heure libre, non ? Ça te
+fait deux heures. Ça nous laisse tout le temps de chasser cet indice et
 de revenir avant qu'on nous remarque. Je bas le rappel de toute
 l'équipe.\
 Harajuku Fun Madness est le meilleur jeu jamais créé. Je sais, je l'ai
@@ -224,9 +224,9 @@ découvrent une pierre de jouvence miraculeuse dans le temple de
 Harajuku, l'endroit où les adolescents japonais branchés ont inventé
 pratiquement toutes les sous-cultures majeures des 10 dernières années.
 Ils sont pourchassés par des moines du Mal, des yakuza (la mafia
-japonais), les extra-terrestres, les inspecteurs du fisc, leurs parents,
+japonaise), les extra-terrestres, les inspecteurs du fisc, leurs parents,
 et une intelligence artificielle renégate. Ils passent aux joueurs des
-messages codés que nous devons déchiffrer et utiliser par trouver des
+messages codés que nous devons déchiffrer et utiliser pour trouver des
 indices qui mènent à d'autres messages et encore plus d'indices et ainsi
 de suite. Imaginez le meilleur après-midi que vous ayez jamais vécu à
 zoner en ville en observant tous les gens bizarres, les poignées
@@ -241,7 +241,7 @@ rapporter tout ce qu'on peut soulever en merchandising Astro le Petit
 Robot. Sauf qu'ils l'appellent « Atom Boy », au Japon. Harajuku Fun
 Madness, c'est ça, et quand on a résolu une énigme ou deux, on devient
 accro.\
-— No, mec, juste non. NON. Ne me le demande même pas.\
+— Non, mec, juste non. NON. Ne me le demande même pas.\
 — Mais j'ai besoin de toi, D. Tu es le meilleur que j'aie. Je te jure
 qu'on sera revenus avant que personne ne nous remarque. Tu sais que je
 peux le faire, n'est-ce pas ?\
@@ -255,7 +255,7 @@ avoir passé plus de temps à jouer à des jeux.\
 — Ouais mais tu ne penses pas que tu pourrais regretter de ne pas avoir
 passé plus de temps avec Vanessa Pak ?\
 Van était un membre de mon équipe. Darryl en était raide amoureux depuis
-des années — même depuis avant que la puberté  lui ait accordé des
+des années — même depuis avant que la puberté lui ait accordé des
 cadeaux généreux. Darrly était tombé amoureux de son esprit. Triste, en
 vérité.\
 — Tu es vraiment un connard.\
@@ -289,7 +289,7 @@ costume donnaient du pittoresque à l'événement, et nous, nous pouvions
 nous amuser comme des fous au milieu de gens encore plus socialement
 marginaux que nous. Le problème des hôtels est qu'on y trouve aussi
 plein de non-joueurs, aussi  — et pas seulement les fans de SF. Des gens
-normaux. Venant d'États dont le nom commence et fini par une voyelle. En
+normaux. Venant d'États dont le nom commence et finit par une voyelle. En
 vacances. Et parfois, ces gens comprennent mal la nature du jeu. Mais
 laissons ça de côté, d'accord ?
 
@@ -299,7 +299,7 @@ caméras à reconnaissance de pas. Comme je disais, elles avaient commencé
 leur carrière comme caméras à reconnaissance de visages, mais ça, ça
 avait été jugé anticonstitutionnel. Pour autant que je sache, aucun
 tribunal ne s'était prononcé pour dire que la reconnaissance des pas
-était plus légal, mais d'ici à ce que la question soit tranchée, nous
+était plus légale, mais d'ici à ce que la question soit tranchée, nous
 les avions dans les pattes.\
 La démarche, c'est la façon dont on marche. Les gens sont assez bons
 pour reconnaitre des démarches — la prochaine fois que vous faites du
@@ -311,9 +311,9 @@ c'est telle personne qui approche. Les logiciels de reconnaissance de
 pas vous photographient pendant votre mouvement et essayent de vous
 isoler dans l'image comme une silhouette, et ensuite tentent de faire
 correspondre cette silhouette à une base de données pour voir s'ils vous
-connaissent. C'est un identificateur biométriques, comme les empreintes
+connaissent. C'est un identificateur biométrique, comme les empreintes
 digitales ou les empreintes rétiniennes, mais ça présente bien plus de
-« collisions » de celles-ci. Une « collision » biométrique survient
+« collisions » que celles-ci. Une « collision » biométrique survient
 lorsqu'une mesure correspond à plus d'une personne. Vous êtes le seul à
 avoir vos empreintes digitales, mais vous partagez votre démarche avec
 quantité d'autres gens. Pas exactement, bien sûr. Votre démarche
@@ -338,7 +338,7 @@ Initialement, les caméras déclenchaient une alarme à chaque fois que
 quelqu'un d'inconnu mettait un pied sur le campus. Ça ne marchait pas.
 L'alarme sonnait toutes les dix minutes. Quand le facteur faisait sa
 tournée. Quand un parent passait. Quand les services d'entretien
-entamaient la réflexion du terrain de basket. Quand un élève venait avec
+entamaient la réfection du terrain de basket. Quand un élève venait avec
 de nouvelles chaussures. Alors, maintenant, le système essayait juste de
 tenir la trace de qui était où et quand. Si quelqu'un franchissait le
 portail du lycée pendant les cours, ses pas étaient analysés pour
@@ -365,7 +365,7 @@ son propre pire ennemi. Il y a toute une pléthore de programmes que
 Vista4Schools ne veut pas que vous puissiez éteindre — les keyloggers
 qui enregistrent les frappes au clavier, les censorwares qui limitent
 l'accès à Internet — et ces programmes tournent sous un mode spécial qui
-les rend invisible au système. Vous ne pouvez pas les éteindre parce que
+les rend invisibles au système. Vous ne pouvez pas les éteindre parce que
 vous ne pouvez même pas voir qu'ils sont là. Tout programme dont le nom
 commence par \$SYS\$ est ainsi invisible pour le système d'exploitation.
 Il n'apparait pas dans l'inventaire du disque dur, ni dans la liste des
@@ -406,7 +406,7 @@ ils sont bien plus bizarres, avec des lignes narratives qui
 s'entre-croisent et parfois des chansons vraiment stupides, ou de
 l'action. Beaucoup d'histoires d'amour, bien sûr. Tout le monde aime
 voir ses héros de papier préférés se mettre en couple.\
-Je résoudrais ces énigmes plus tard, quand je rentrerais à la maison.
+Je résoudrai ces énigmes plus tard, quand je rentrerai à la maison.
 Elles sont plus faciles à résoudre en groupe, à télécharger des tonnes
 de fichiers dojinshi et les écumer à la recherche des solutions. Je
 venais de récupérer tous les indices quand la cloche a sonné et que nous
