@@ -3,7 +3,7 @@ Chapitre 1
 
 *Ce chapitre est dédié à BakkaPhoenix Books à Toronto, Canada. Bakka est
 la plus ancienne librairie de science fiction du monde, et c'est elle
-qui a fiat de moi le mutant que je suis aujourd'hui. Je m'y suis
+qui a fait de moi le mutant que je suis aujourd'hui. Je m'y suis
 aventuré pour la première fois quand j'avais environ 10 ans et y ai
 demandé conseil. Tanya Huff (oui, LA Tanya Huff, mais elle n'était pas
 encore un écrivain célèbre à l'époque) m'a emmené au rayon des livres
@@ -34,7 +34,7 @@ plaie, du genre pneumothorax. Mais tant qu'à avoir un geôlier, autant
 qu'il soit à la rue plutôt qu'il touche sa bille. « Marcus Yallow »,
 dit-il au haut-parleur un vendredi matin. Ce haut-parleur n'est déjà pas
 de la grande Hi-Fi, si on ajoute à ça les habituelles marmonnements de
-Benson, on obtient on son qui évoque plus quelqu'un qui lutte pour
+Benson, on obtient un son qui évoque plus quelqu'un qui lutte pour
 digérer un mauvais burrito qu'une annonce officielle de l'école. Mais
 les être humains sont bons pour reconnaître leur nom dans du bruit audio
 — ça aide à la survie. J'ai attrapé mon sac et refermé mon laptop aux
@@ -46,7 +46,7 @@ yeux au ciel, et je l'ai regardée en levant les yeux au ciel. Ce type
 était toujours après moi, simplement parce que je passais à travers les
 firewalls de l'école comme à travers des kleenex mouillés, que je
 trompais les logiciels de reconnaissance de pas, et que je tuais aux
-micro-ondes les puces avec lesquelles ils nous traquent. Galvex est
+micro-ondes les puces avec lesquelles ils nous traquent. Galvez est
 chouette, par contre, elle ne m'en a jamais voulu pour ça (surtout pas
 quand je lui donne un coup de pouce avec son webmail pour qu'elle puisse
 parlé à son frère qui est en garnison en Irak). Mon ami Darryl m'a claqué
@@ -104,8 +104,8 @@ connais les *tell* de Benson à l'envers et à l'endroit.\
 — Je comprendrai dès que vous m'aurez expliqué de quoi il s'agit,
 monsieur.\
 Je dis toujours « monsieur » aux figures d'autorité quand je fais le
-malin. C'est mon propre *tell* Il a secoué la tête et m'a regardé de très
-haut, encore un *tell* D'un moment à l'autre, il allait me hurler dessus.\
+malin. C'est mon propre *tell*. Il a secoué la tête et m'a regardé de très
+haut, encore un *tell*. D'un moment à l'autre, il allait me hurler dessus.\
 — Écoute, gamin ! Il est temps que tu comprennes que nous savons ce que
 tu as fait, et que nous n'allons pas laisser passer ça. Tu as de la
 chance si tu n'es pas expulsé avant la fin de cette entrevue. Tu le
@@ -118,7 +118,7 @@ criminelle visant à subvertir les systèmes de sécurité de cette école,
 et que tu as fourni des contre-mesures à vos camarades. Tu sais que nous
 avons expulsé Graciella Uriarte la semaine dernière pour avoir utilisé
 un de tes engins.\
-Uriarte s'était mis dans la mouise. Elle avait acheté un brouilleur
+Uriarte s'était mise dans la mouise. Elle avait acheté un brouilleur
 radio dans un magasin de bricolage près de la station de métro de la
 16ème rue et il avait déclenché les contre-mesures du corridor de
 l'école. Je n'avais rien à voir avec ça, mais j'avais mal pour elle.\
@@ -130,7 +130,7 @@ demander s'il avais seulement compris que le « 1 » se lisait « I » et qu
 — Nous savons que ce w1n5t0n est responsable du vol des tests standards de
 l'année dernière.\
 En fait, ça n'avait pas été moi, mais c'était un joli hack, et c'était plutôt
-flatteur de me le voir attribué.
+flatteur de me le voir attribué.\
 — Et en conséquence, passible de plusieurs années de prison si tu ne coopères
 pas avec moi.\
 — Vous avez des renseignements probants ? Puis-je les voir ?\
@@ -158,7 +158,7 @@ nôôôôôôtreuh, c'est de mettre un pied d'vant l'autre, et
 d'recommencer. »\
 « Deux kilomètres à pied… »\
 — Tu peux retourner en classe !, a-t-il aboyé, je te rappellerai quand
-la police sera là pour te parler\
+la police sera là pour te parler.\
 — Vous allez les appeler maintenant ?\
 — La procédure pour appeler la police est compliquée. J'espérais que je
 pourrais régler cette affaire en étant juste et rapide, mais puisque tu
@@ -184,7 +184,7 @@ Alors, Benson et beaucoup d'autres administrateurs scolaires
 paranoïaques avaient claqué les budgets pour nos manuels sur ces caméras
 idiotes qui étaient censées pouvoir différencier la démarche d'une
 personne de celle d'une autre personne. Mais bien sûr. Je suis retourné
-en classe et me suis rassis, Madade Galvez saluant mon retour
+en classe et me suis rassis, Madame Galvez saluant mon retour
 chaleureusement. J'ai déballé mon ordinateur fourni en standard par
 l'école et me suis remis en mode cours. Le SchoolBook relève de la plus
 cafteuse des technologies, enregistrant la frappe de chaque touche,
@@ -194,9 +194,9 @@ sur le net. On les avait reçus en seconde, et il avait suffit de
 quelques mois pour qu'ils ne paraissent plus tous beaux tous brillants.
 Dès que les gens ont eu pigé que ces portables « gratuits » étaient en
 fait des espions — et nous passaient un flux incessant de publicités
-exaspérantes, par-dessus le marché — ils se devenus lourds et
+exaspérantes, par-dessus le marché — ils sont soudainement devenus lourds et
 encombrants. Il avait été facile de cracker mon Schoolbook. Le crack
-était sur Internet moins d'un moins après que la machine était sortie,
+était sur Internet moins d'un mois après que la machine était sortie,
 et ça n'était pas sorcier — simplement télécharger une image DVD, la
 graver, mettre le DVD dans le SchoolBook, et le démarrer tout en
 enfonçant un certain nombre de touches du clavier. Le DVD faisait le
@@ -243,7 +243,7 @@ Madness, c'est ça, et quand on a résolu une énigme ou deux, on devient
 accro.\
 — No, mec, juste non. NON. Ne me le demande même pas.\
 — Mais j'ai besoin de toi, D. Tu es le meilleur que j'aie. Je te jure
-qu'on sera revenus quand que personne ne nous remarque. Tu sais que je
+qu'on sera revenus avant que personne ne nous remarque. Tu sais que je
 peux le faire, n'est-ce pas ?\
 — Je sais que tu peux le faire.\
 — Alors, tu viens ?\
@@ -288,9 +288,9 @@ avaient loué l'espace. Les gamins enthousiastes qui couraient partout en
 costume donnaient du pittoresque à l'événement, et nous, nous pouvions
 nous amuser comme des fous au milieu de gens encore plus socialement
 marginaux que nous. Le problème des hôtels est qu'on y trouve aussi
-plein de non-joueurs, aussi  — et pas seulement les fans ds SF. Des gens
+plein de non-joueurs, aussi  — et pas seulement les fans de SF. Des gens
 normaux. Venant d'États dont le nom commence et fini par une voyelle. En
-vacances. Et parfois, ces gens comprennent mal à nature du jeu. Mais
+vacances. Et parfois, ces gens comprennent mal la nature du jeu. Mais
 laissons ça de côté, d'accord ?
 
 Le cours finissait dans dix minutes, et ça ne me laissait pas beaucoup
@@ -321,7 +321,7 @@ personnelle, au millimètre près, est à vous et à vous seul. Le problème,
 c'est que votre démarche au millimètre change selon que vous êtes plus
 ou moins fatigué, en fonction du sol, de si vous vous êtes bousillé la
 cheville au basket, ou se si vous avez récemment changé de chaussures.
-Alors, le système lisse votre profil, pour recherche des gens qui
+Alors, le système lisse votre profil, pour rechercher des gens qui
 marchent un peu comme vous. Il y a des tas de gens qui marchent un peu
 comme vous. De plus, il vous est facile de ne pas marcher un peu comme
 vous-même — il vous suffit d'enlever une chaussure. Bien sûr, vous
@@ -370,7 +370,7 @@ vous ne pouvez même pas voir qu'ils sont là. Tout programme dont le nom
 commence par \$SYS\$ est ainsi invisible pour le système d'exploitation.
 Il n'apparait pas dans l'inventaire du disque dur, ni dans la liste des
 processus. Aussi ma copie de Firefox s'appelait-elle \$SYS\$Firefox — et
-quand la lançais, elle devenait invisible pour Windows, et donc
+quand je la lançais, elle devenait invisible pour Windows, et donc
 invisible pour les logiciels espions sur le réseau. Maintenant que
 j'avais mon propre navigateur en fonction, il me fallait aussi une
 connection réseau à moi. Le réseau de l'école enregistre chaque clic en
