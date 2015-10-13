@@ -23,7 +23,7 @@ question de s’il irait n’avait jamais été l’objet de débats.\
 — C’est très bien, mais tu ne pourrais pas étudier sur Internet ?\
 — Mon père m’a dit que je devrais le lire. Et puis, je n’avais pas
 l’intention de commettre des crimes aujourd’hui.\
-— Sécher les cours n’est pas un crime. C’est une infraction. Ca n’a rien
+— Sécher les cours n’est pas un crime. C’est une infraction. Ça n’a rien
 à voir.\
 — Qu’est-ce qu’on va faire, Marcus ?\
 — Eh bien, je ne peux pas le cacher, alors je vais devoir le bousiller
@@ -33,9 +33,9 @@ veut voir des clients mal intentionnés se promener dans ses rayons en
 laissant dans son sillage des monceaux de marchandises lobotomisées
 auquel il manque leur code-barre invisible, alors les fabricants ont
 refusé d’implémenter un “signal de terminaison” que l’on pourrait
-envoyer par radio à en arphid pour le désactiver. On peut reprogrammer
+envoyer par radio à un arphid pour le désactiver. On peut reprogrammer
 les arphids avec les bons outils, mais je déteste faire ça à des livres
-de bibliothèque. Ca n’est pas exactement aussi grave que de déchirer les
+de bibliothèque. Ça n’est pas exactement aussi grave que de déchirer les
 pages, mais ça reste mal, parce qu’un livre à la puce reprogrammée ne
 peut plus se ranger et on ne le retrouve plus. Il devient une aiguille
 dans une botte de foin. Cela ne me laissait plus qu’une possibilité :
@@ -46,18 +46,18 @@ comme l’arphid ne répondrait plus du tout quand Darryl rendrait le livre
 recoderaient avec la cote du livre, et il se retrouverait tout nouveau
 tout brillant sur son étagère. Tout ce dont nous avions besoin, c’était
 un micro-ondes.\
-— “Donnons-nous encore deux minutes et la salle des maîtres sera vide”,
+— “Donnons-nous encore deux minutes et la salle des profs sera vide”,
 j’ai dit.\
 Darryl a agrippé son livre et s’est dirigé vers la porte.\
 — Oublie tout ça, je ne marche plus. Je vais en cours.\
 J’ai attrapé son coude et l’ai traîné en arrière.\
 — Allez, D., calme. Tout va bien se passer.\
-— La salle des maîtres ? Tu n’as peut-être pas bien écouter, Marcus, si
+— La salle des profs ? Tu n’as peut-être pas bien écouté, Marcus, si
 je me fais prendre encore une fois, c’est l’expulsion. Tu entends ?
 L’expulsion.\
 — Tu ne te feras pas prendre.\
 S’il y a un endroit qu’un prof ne surveillerait pas, ça serait la salle
-des maîtres. “On passera par l’entrée de derrière”. La salle avait une
+des profs. “On passera par l’entrée de derrière”. La salle avait une
 petite kitchenette sur un côté, avec sa propre entrée pour les profs qui
 voulaient juste prendre une tasse de café au passage. Le micro-onde —
 qui dégoulinait toujours de restes de pop-corn et de soupe renversée —
@@ -67,12 +67,12 @@ réfléchi très vite.\
 vas te prendre un avertissement pour retard. Tu es mieux barré en
 n’allant pas du tout. Je peux m’infiltrer et m’exfiltrer de n’importe
 quelle salle de ce campus, D. Tu m’as vu faire. Je te couvrirai, mec.\
-Il a grogné encore une fois. Ca, c’était un ??? de Darryl: quand il
-commence à gragner, c’est qu’il est prêt à se laisser convaincre.
-“Allons-y”, j’ai dit, et nous nous sommes mis en mouvement. Ca s’est
+Il a grogné encore une fois. Ca, c’était un *tell* de Darryl: quand il
+commence à grogner, c’est qu’il est prêt à se laisser convaincre.
+“Allons-y”, j’ai dit, et nous nous sommes mis en mouvement. Ça s’est
 passé aux petits oignons. Nous avons doublé les salles de classe,
 descendu l’escalier de derrière qui mène à la cave, et avons réémergé
-des escaliers de devant juste devant la salle des maîtres. Il n’y avait
+des escaliers de devant juste devant la salle des profs. Il n’y avait
 pas le moindre bruit derrière la porte, j’ai tourné le bouton tout
 doucement et j’ai entraîné Darryl à l’intérieur avant de refermer la
 porte en silence. Le livre entrait tout juste dans le micro-ondes,
@@ -83,7 +83,7 @@ profs sont des cochons”, sifflai-je. Darryl, le visage livide et tendu,
 n’a rien répondu.\
 L’arphid a péri dans une gerbe d’étincelles, ce qui est toujours très
 joli à voir (encore que pas aussi joli, et de loin, que ce qu’on obtient
-en passant aux micro-onde une grape de raisin surgelée; il faut le voir
+en passant aux micro-onde une grappe de raisin surgelée; il faut le voir
 pour le croire).\
 Maintenant, exfiltrer le campus en parfait anonymat et mener notre
 évasion à bien. Darryl a ouvert la porte et a commencé à sortir, avec
@@ -103,7 +103,7 @@ plaisir à rapporter aux profs toutes les infractions qu’il repère.
 Benson adore Charles. Charles s’est débrouillé pour laisser entendre
 qu’il souffrait d’un problème urinaire non spécifié, ce qui lui donne
 une excuse permanente pour patrouiller dans les couloirs de Chavez
-enquête de gens à fliquer.\
+en quête de gens à fliquer.\
 La dernière fois que Charles m’avait pris dans le pif, ça m’avait forcé
 à abandonner les GN. Je n’avais aucune intention de le laisser
 m’attrapper encore une foi.\
@@ -160,12 +160,12 @@ la fente dans la porte.\
 — “Qu’est-ce qu’il fait ?”, a murmuré Darryl\
 — “J’ai bousillé son téléphone, mais là il est juste en train de le
 regarder, au lieu de bouger”.\
-Ca ne serait pas facile de redémarrer ce truc. Une fois que la mémoire
+Ça ne serait pas facile de redémarrer ce truc. Une fois que la mémoire
 est totalement saturée, il lui serait difficile de charger le code dont
 il avait besoin pour détruire les messages bidons — et il n’y avait pas
 de suppression en masse sur son modèle, il devrait détruire manuelle
 lui-même  tous les milliers de messages. Darryl m’a repoussé et a collé
-son oeil àla fente. L’instant d’après, ses épaules ont commencé à
+son oeil à la fente. L’instant d’après, ses épaules ont commencé à
 secouer. J’ai eu un moment de terreur à l’idée qu’il était pris de
 panique, mais alors il s’est reculé, et j’ai vu qu’il riait tellement
 fort qu’un flot de larmes coulait sur ses joues.\
@@ -191,7 +191,7 @@ elle est assez adorable pour faire comme si elle n’avait jamais
 remarqué. Elle m’a serré dans ses bras et s’est tournée vers Darryl,
 déposant sur sa joue un baiser fraternel qui l’a fait rougir jusqu’en
 haut des oreilles. Ces deux-là font une drôle de paire : Darryl est
-plutôt rondouillet, encore que ça lui va bien, et il a le genre de tein
+plutôt rondouillet, encore que ça lui va bien, et il a le genre de teint
 rose qui devient franchement rouge dès qu’il court ou qu’il s’excite. Il
 a eu de la barbe depuis l’âge de 14 ans, mais Dieu merci il a pris
 l’habitude de se raser après une brève période que notre petite bande
@@ -200,13 +200,13 @@ grand comme un joueur de basket. Alors que Van, elle, a une demi-tête de
 moins que moi, et est toute maigre, avec des cheveux noirs raides
 qu’elle porte avec des tresse démentes et sophistiquées dont elle trouve
 les plans sur Internet. Elle a une jolie peau couleur du cuivre et des
-yeux sombres, et elle adorer porter des disques de verre de la taille de
+yeux sombres, et elle adore porter des disques de verre de la taille de
 radis qui cliquette quand elle dance.\
 — “Où est Jolu ?” a-t-elle dit\
 — “Quuucomment ça va, Van?” a demandé Darryl d’une voix étranglée.\
 Il avait toujours un temps de retard dans la conversation quand il y
 avait Van.\
-— “Ca va super, D. Et toi, comment ça va, mon cher petit ?”\
+— “Ça va super, D. Et toi, comment ça va, mon cher petit ?”\
 Oh, c’était vraiment méchant.  Darryl a failli s’évanouir.\
 Jolu l’a sauvé du ridicule en apparaissant juste à ce moment, dans une
 veste de baseball trop grande pour lui, des baskets de luxe, et une
@@ -298,7 +298,7 @@ des cours courbés dans trente secondes si vous quatre ne dégagez pas
 d’ici et laissez mes amis et moi trouver l’indice. Vous pouvez revenir
 dans une heure et il sera à vous. Je trouve ça plus qu’honnête.”\
 J’ai regardé derrière elle et j’ai vu trois autres filles habillées plus
-ou moins pareil — l’uune avec des cheveux bleus, l’autre avec du vert,
+ou moins pareil — l’une avec des cheveux bleus, l’autre avec du vert,
 et la dernière en violet.\
 — “Vous êtes qui, la Brigade des Sucettes ?”\
 — “On est l’équipe qui va vous bottez le cul à Harajuku Fun Madness,”
@@ -351,9 +351,9 @@ Des touristes — vous pouvez toujours repérer les touristes, ce sont ceux
 qui pensent que “Californie = soleil” et qui passent leurs vacances à
 San Francisco à se geler en bermudas et t-shirts — se dispersaient dans
 toutes les directions.\
-— “On devrait y aller !” a braillé Daarrly dans mon oreille, à peine
+— “On devrait y aller !” a braillé Darryl dans mon oreille, à peine
 audible par-dessus le meuglement des sirènes, auquel répondaient
-maitenant les sirèmes habituelles de la police. Une douzaine de voitures
+maintenant les sirènes habituelles de la police. Une douzaine de voitures
 de patrouille nous ont dépassés en hurlant.\
 — “RENDEZ-VOUS AUX ABRIS IMMÉDIATEMENT !”\
 — “A la station du BART !”, ai-je hurlé\

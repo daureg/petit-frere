@@ -12,12 +12,12 @@ potentiels, les boutiques B&N ont maintenu les carrières de bien des
 écrivains à flot, en gardant en stock des titres que des magasins plus
 petits n’auraient jamais pu garder avec leurs étagères limitées. B&N a
 toujours maintenu des programmes solides pour encourager la lecture, et
-j’ai participé à certaines de mes plus agréables scéances de signature,
+j’ai participé à certaines de mes plus agréables séances de signature,
 et des mieux organisées, à des boutiques B&N, y compris les grands
 événements spéciaux au B&N de Union Square (aujourd’hui malheureusement
-disparu), à New York, où une méga-scéance de signature a eu lieu après
+disparu), à New York, où une méga-séance de signature a eu lieu après
 l’attribution du prix Nebula, et le B&N de Chicago qui a accueilli
-l’événement d’apr-s-Nébula quelques années plus tard. Le mieux est que
+l’événement d’après-Nébula quelques années plus tard. Le mieux est que
 les geeks qui achètent à B&N touchent vraiment leur bille pour ce qui
 est de la Science-Fiction, des bandes dessinées et du manga, des jeux,
 et de ce genre de titres. Ils sont passionnée et cultivés dans le
@@ -31,7 +31,7 @@ de suite retombé par terre. Mes jambes étaient tellement engourdies
 qu’elles me paraissaient comme des blocs de glace, sauf mes genoux qui
 avaient gonflé et étaient devenus sensibles après des heures à genoux.
 Des mains ont saisi mes épaules et mes pieds, et j’ai été soulevé comme
-un sac de patates. Il y avait des vois indistinctes autours de moi.
+un sac de patates. Il y avait des voix indistinctes autours de moi.
 Quelqu’un pleurait. Quelqu’un d’autre jurait. J’ai été déplacé sur une
 courte distance, déposé et re-menotté à une autre barrière. Mes genoux
 ne me portaient plus et je me suis affaissé en avant, pour finir tordu
@@ -58,16 +58,16 @@ capuchon, j’étais dans une cellule.
 
 La cellule était vieille et croulante, et sentait l’air de la mer. Il y
 avait un soupirail en haut, condamné par des barreaux rouillés. Il
-faisait toujours nuit dehors. Il y avait une couverture sur lesol et une
+faisait toujours nuit dehors. Il y avait une couverture sur le sol et une
 petite cuvette de WC sans siège, encastrée dans le mur.  Le garde qui
 m’a enlevé mon capuchon m’a fait un grand sourire et a claqué la porte
-d’acier massif derrière lui. Je me suis massé délicatemet les jambes,
+d’acier massif derrière lui. Je me suis massé délicatement les jambes,
 grimaçant quand le sang est retournée dedans et dans mes mains.
 Finalement, j’ai pu me remettre debout et marcher. J’ai entendu d’autres
 gens parler, pleurer, hurler. J’ai essayé de crier aussi : “Jolu !
 Darryl ! Vanessa !” D’autres voix dans le même bloc de détention ont
 repris mes cris, hurlant des noms, et hurlant des obscénités. Les voix
-les plus proches resemblaient à celles des ivrognes qui perdent la
+les plus proches ressemblaient à celles des ivrognes qui perdent la
 raison aux coins des rues. Peut-être que moi aussi j’avais cet air-là.
 Les gardes nous ont hurlé de nous taire, ce qui nous a juste fait crier
 plus fort. A la fin, nous étions tous à hurler, à nous époumonner, à
@@ -77,7 +77,7 @@ perdre ?
 A mon interrogatoire suivant, j’étais dégoûtant et épuisé, j’avais faim
 et soif. Madame Coupe-à-la-Serpe faisait partie du nouveau comité
 d’interrogatoire, avec trois types massifs qui m’ont déménagé comme si
-j’étais une pièce de viande. L’un était noi, les deux autres, blancs,
+j’étais une pièce de viande. L’un était noir, les deux autres, blancs,
 encore que l’un avait l’air hispanique. Tous étaient armés. On aurait
 dit une pub de Benneton croisée avec une partie de Counter-Strike. Ils
 m’avaient arraché à ma cellule et entravé les poignets et les chevilles.
@@ -96,7 +96,7 @@ derrière.
 La salle d’interrogatoire était moderne, avec des tubes néon, des
 chaises ergonomiques — par pour moi, par contre, je n’ai eu droit qu’à
 une chaise de jardin pliante en plastique — et une grande table en
-contreplaqué. Un grand miroir courrait sur toute la longueur d’une mur,
+contreplaqué. Un grand miroir courrait sur toute la longueur d’un mur,
 comme dans les films policiers, et j’ai supposé que quelqu’un devait
 surveiller la scène derrière. Coupe-à-la-Serpe et ses amis se sont servi
 des cafés d’une thermos sur une table de service (je les aurais égorgés
@@ -107,7 +107,7 @@ Vraiment très drôle.\
 — “Bonjour Marcus”, a dit Coupe-à-la-Serpe, “est-ce que ton attitude
 s’est améliorée aujourd’hui ?”\
 Je n’ai rien répondu.\
-— “Ca n’est pas le pire qui puisse t’arriver, tu sais”, a-t-elle dit.
+— “Ça n’est pas le pire qui puisse t’arriver, tu sais”, a-t-elle dit.
 “Ca, c’est le mieux qui peut t’arriver, à partir de maintenant. Même
 quand tu nous auras dit ce que nous voulons savoir, même si ça nous
 convaint que tu étais juste au mauvais endroit au mauvais moment,
@@ -123,7 +123,7 @@ bouée de sauvetage qui se balotterait devant moi alors que j’aurais
 lutté pour me maintenir à la surface.\
 — “Salut, Marcus ?” Elle a fait claquer ses doigts devant mon visage.
 “Par ici, Marcus.”\
-Il y avait un petit sourir sur osn visage, et je me suis détesté pour
+Il y avait un petit sourire sur son visage, et je me suis détesté pour
 lui avoir laissé entrevoir ma peur.\
 — “Marcus, ça pourrait être bien pire. Ce n’est pas le pire endroit où
 on pourrait te mettre, de très loin pas.”\
@@ -150,7 +150,7 @@ admettons. Tu aurais pu être sur le pont quand il a explosé. Tes parents
 auraient pu y être. Tes amis. Tu ne veux pas que nous attrapions ceux
 qui ont attaqué ton pays ?”\
 C’est curieux, mais quand elle parlait de m’”autoriser”, ça me forçait
-par la peur dans une position de soumission. Ca faisait comme si j’avais
+par la peur dans une position de soumission. Ça faisait comme si j’avais
 fait quelque chose pour mériter d’être où j’étais, peut-être comme si ça
 avait été en partie ma faute, comme si j’avais pu agir pour y changer
 quelque chose. Mais quand elle a entamé ces conneries sur la “sécurité”
@@ -234,8 +234,8 @@ cabine de verre transparent au milieu de Times Square, où tout le monde
 verrait vos fesses ? Même s’il n’y a rien de laid ou de bizarre dans
 votre corps — et combien d’entre nous peuvent en dire autant ? — vous
 devriez être quelqu’un d’assez étrange pour aimer l’idée. La plupart
-d’etre nous fuiraient en hurlant. La plupart d’entre nous se
-retiendraient jusqu’à ce qu’ils explosent. Ca n’a rien à voir avec faire
+d’entre nous fuiraient en hurlant. La plupart d’entre nous se
+retiendraient jusqu’à ce qu’ils explosent. Ça n’a rien à voir avec faire
 quelque chose de honteux. Il s’agit juste de quelque chose de personel.
 C’est ce qui fait que votre vie vous appartient. C’est ça qu’ils
 m’arrachaient, morceau par morceau. En retournant en cellule, le
@@ -259,12 +259,12 @@ Potrero Hill. The carton avec son graphisme familier et le numéro de
 téléphone 415 dessus me rappelait que la veille encore, j’avais été un
 homme libre dans un pays libre, et que j’étais maintenant un prisonnier.
 Je me faisais du soucis constamment pour Darryl et pour mes autres amis.
-Peut-être avaient-ils étéplus coopératifs et avaient-ils déjà été
+Peut-être avaient-ils été plus coopératifs et avaient-ils déjà été
 relâchés. Peut-être avaient-ils prévenu mes parents, qui seraient en
 train de téléphoner à tout le monde comme des fous. Ou peut-être pas. La
 cellule était fantastiquement nue, aussi vide que mon âme. J’ai joué
 avec l’idée que le mur qui faisait face au lit était un écran et que je
-pouvais le kacker dès maintenant pour ouvrir la porte de la cellule.
+pouvais le hacker dès maintenant pour ouvrir la porte de la cellule.
 J’ai rêvé de mon établi et de mes projets qui traînaient dessus — les
 veilles boites que je transformais en stéréo surround, le cerf-volant
 avec caméra intégrée pour la photographie aérienne, mon ordinateur
@@ -278,11 +278,11 @@ contenaient quelques messages intéressants que j’avais téléchargés d’un
 ou l’autre forum, des transcriptions de discussions en ligne, des
 moments où des gens m’aidaient en m’offrant l’expertise dont j’avais
 besoin pour mes projets. Il n’y avait là rien que vous ne pourriez
-trouver avec Google, bien sûr, mais j ne pensais pas que ce fait
+trouver avec Google, bien sûr, mais je ne pensais pas que ce fait
 compterait en ma faveur.
 
 J’ai eu droit à une autre promenade l’après-midi, et cette fois-là il y
-avait d’autres prisoniers dans la cour quand j’y suis arrivé, quatre
+avait d’autres prisonniers dans la cour quand j’y suis arrivé, quatre
 hommes et deux femmes, de tous âges et toutes races. J’ai supposé que
 beaucoup de gens faisaient des choses pour gagner des « autorisations ».
 Ils m’ont accordé une demi-heure, et j’ai essayé d’entamer la
@@ -300,8 +300,8 @@ fatiguée et renfermée, mais pas blessée, et quand elle m’a vu, elle a
 crié mon nom et a couru vers moi. Nous nous sommes pris dans les bras
 l’un de l’autre et j’ai réalisé que je tremblais. Et alors j’ai remarqué
 qu’elle tremblait elle aussi.\
-— “Ca va ?” m’a-t-elle demandé en me tenant à bout de bras\
-— “Ca va”, j’ai dit. “Ils m’ont dit qu’ils me laisseraient partir si je
+— “Ça va ?” m’a-t-elle demandé en me tenant à bout de bras\
+— “Ça va”, j’ai dit. “Ils m’ont dit qu’ils me laisseraient partir si je
 leur donnais mes mots de passe”.\
 — “Ils n’arrêtent pas de me poser des questions sur toi et Darryl”. Une
 voix rugissait au haut-parleur, nous hurlant d’arrêter de parler et de
@@ -320,7 +320,7 @@ mes pieds, et jeté en cellule.
 Je n’ai pas eu à dîner cette nuit-là. Le lendemain matin, je n’ai pas eu
 de petit déjeuner. Personne n’est venu pour me conduire à la salle
 d’interrogatoire et m’arracher mes secrets. On ne m’a pas enlevé les
-menottes en plastique, et mes épaules m’ont brûlé, puis m’a élancé, puis
+menottes en plastique, et mes épaules m’ont brûlé, puis elle m’ont élancé, puis
 je ne les ai plus senties du tout, et elles se sont remises à me brûler.
 J’ai perdu toute sensation dans mes mains. J’avais besoin d’uriner. Je
 ne pouvais pas ouvrir mon pantalon. Il fallait vraiment, vraiment que
@@ -338,7 +338,7 @@ revenus. Coupe-à-la-Serpe siégeait déjà. Elle était parfaite : coiffée,
 avec juste une touche de maquillage. J’ai senti l’odeur de son produit
 pour les cheveux. Elle a froncé le nez en me voyant. J’ai senti monter
 la honte en moi.\
-— “Eh bien, tu été un vilain garçon, n’est-ce pas ? Tu es vraiment
+— “Eh bien, tu a été un vilain garçon, n’est-ce pas ? Tu es vraiment
 répugnant.”\
 Honte. J’ai baissé les yeux sur la table. Je ne pouvais pas soutenir son
 regard. Je voulais lui dire mes mots de passe et partir.\
@@ -373,7 +373,7 @@ vas devoir t’en tenir à répondre à mes questions. ” Je n’ai rien dit.
 e-mail”.
 
 Je m’étais préparé à ça. Je leur ai tout donné : les serveurs, les
-adresses, les login, les mots de passe. Ca n’avais pas d’importance. Je
+adresses, les login, les mots de passe. Ça n’avais pas d’importance. Je
 ne gardais pas de mails sur mon serveur. Je téléchargeais et gardais
 tout sur mon portable à la maison, qui téléchargeait et effaçait mon
 courrier du serveur toutes les soixante secondes. Ils n’apprendraient
@@ -384,12 +384,12 @@ De retour en cellule, ils m’ont détaché les mains et m’ont donné une
 douche, et une paire de pantalons de prison orange à porter. Ils étaient
 trop grands pour moi et me tombaient sur les hanches, comme les gamins
 des gangs mexicains de la Mission. C’est de là que vient ce look
-“pantalon coupé comme un sac qui vous tombe sur les fesse”, vous saviez
+“pantalon coupé comme un sac qui vous tombe sur les fesses”, vous saviez
 ça ? De la prison. Et je vais vous dire, c’est moins marrant quand ça
 n’est pas juste une question de mode. Ils ont pris mes jeans, et j’ai
 passé une autre journée en prison. Les murs étaient faits de béton armé.
-ça se voyait parce l’acier de l’armage rouillait avec l’air marin, et se
-voyait en rouge-orangé à travers le vert de la painture. Mes parents se
+Ça se voyait parce l’acier de l’armage rouillait avec l’air marin, et se
+voyait en rouge-orangé à travers le vert de la peinture. Mes parents se
 trouvaient quelque part de l’autre côté du soupirail.
 
 On m’a recherché le lendemain.\
@@ -405,7 +405,7 @@ toi et confisquons ton ordinateur. Il y en a assez pour te garder en
 prison jusqu’à ce que tu sois vieux. Tu comprends ça ?”\
 Je n’en croyais pas un mot. Il n’y a aucun moyen qu’un juge considère
 tout cela comme un vrai crime. C’était de la liberté d’expression,
-c’était de l’expérimentation technologique. Ca n’était pas un crime.
+c’était de l’expérimentation technologique. Ça n’était pas un crime.
 Mais qui disait que ces gens me mettraient jamais en face d’un juge ?\
 — “Nous savons où tu vis, nous savons qui sont tes amis. Nous savons
 comment tu opères et comment tu penses.”\
@@ -425,7 +425,7 @@ triste. “Tu t’en tirais si bien jusqu’à maintenant. Dis-nous et tu
 pourras rentrer chez toi. Tu pourras prendre un avocat et te défendre
 devant un tribunal. Il y a certainement des circonstances atténuantes
 que tu pourras plaider pour expliquer tes actes. Dis-nous cette dernière
-chore, et tu seras libre.”\
+chose, et tu seras libre.”\
 — “Je ne sais pas de quoi vous parlez !” Je pleurais et je ne m’en
 souciais même pas. Sanglottant, morveux. “Je n’ai aucune idée de quoi
 vous parlez !” Elle a secoué la tête.\
@@ -433,7 +433,7 @@ vous parlez !” Elle a secoué la tête.\
 compris que nous finissons toujours par obtenir ce que nous voulons.” Il
 y avait une sorte de murmure au fond de mon esprit. Ils étaient fous. Je
 me sus ressaisi, me battant pour ravaler mes larmes.\
-— “Écoutez, madame, c’est du déélire. Vous avez fouillé mes affaires,
+— “Écoutez, madame, c’est du délire. Vous avez fouillé mes affaires,
 vous avez tout vu. Je suis un lycéen de 17 ans, pas un terroriste ! Vous
 ne pensez pas sérieusement –”\
 — “Marcus, tu n’as pas compris que nous sommes sérieux ?” Elle a secoué
@@ -463,20 +463,20 @@ relâchait. Peut-être que cela voulait dire qu’elle me jetterait dans un
 puit et oublierait mon existance.\
 — “Et ?”, ai-je dit finalement.\
 — “Et je veux te signifier une nouvelle fois à quel point nous sommes
-sérieux. Notre pays a connu lepire attentat terroriste jamais commis sur
+sérieux. Notre pays a connu le pire attentat terroriste jamais commis sur
 son territoire. Combien de Onze Septembre veux-tu que nous subissions
 avant de collaborer ? Les détails de nos enquêtes sont secrets. Nous ne
 reculerons devant rien pour traîner ceux qui ont perpétré ces crimes
 atroces devant la justice. Tu comprends bien ?”\
 — “Oui”, j’ai marmonné.\
-— “nous allons te renvoyer chez toi aujourd’hui, mais tu es en sursis.
+— “Nous allons te renvoyer chez toi aujourd’hui, mais tu es en sursis.
 Tu restes suspect — nous te relâchons uniquement parce que nous en avons
 fini avec les interrogatoires. Mais depuis maintenant, tu nous
 appartiens. Nous te surveillerons. Nous attendrons que tu fasses une
 erreur. Tu comprends que nous pouvons te surveiller de près, en
 permanence ?”\
 — “Oui”, ai-je murmuré.\
-— “Bien. Tu ne parleras jamais de ce qui s’est psasé ici à personne,
+— “Bien. Tu ne parleras jamais de ce qui s’est passé ici à personne,
 jamais. C’est une question de sécurité nationale. Tu as conscience que
 la peine de mort est applicable aux traîtres en temps de guerre ?”\
 — “Oui”.\
@@ -495,7 +495,7 @@ m’ont jeté sur mes pieds. “Attendez !” ai-je crié “S’il-vous-plaît 
 vais signer !”. Ils m’ont traîné vers la porte. Tout ce que je pouvais
 voir, c’était la porte, et tout ce que je pouvais penser, c’est qu’elle
 se refermerait sur moi. Je craqué. J’ai pleuré. J’ai supplié qu’on me
-laisse signer les papiers. Être si proche de la liberté et la se la voir
+laisse signer les papiers. Être si proche de la liberté et se la voir
 arrachée, ça m’aurait fait faire n’importe quoi. Je ne sais pas combien
 de fois j’ai entendu quelqu’un dire “je préfèrerais mourir que de faire
 ceci ou celà” — j’ai utilisé cette expression moi aussi. Mais c’est là
@@ -514,7 +514,7 @@ prêt à signer n’importer quoi. J’aurais signé des aveux que j’aurais
 assassiné Abraham Lincoln. J’ai essayé de pleurer, mais c’est comme si
 mes yeux était secs, à court de larmes.
 
-Ils m’ont encore saisi. Un garde s’est approché aévec un sac, comme le
+Ils m’ont encore saisi. Un garde s’est approché avec un sac, comme le
 capuchon que j’avais eu sur la tête quand ils nous ont pris, je ne sais
 plus quand, des jours avant, des semaines avant. Le capuchon est passé
 sur ma tête et s’est serré sur mon cou. J’étais dans le noir complet, et
