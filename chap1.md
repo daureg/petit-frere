@@ -64,7 +64,7 @@ s'y précipite dans l'espoir d'éviter les odeurs — le bon plan, et la
 meilleure hygiène, sont au milieu). J'ai vérifié mon téléphone — mon PC
 de la maison lui avait envoyé un mail pour lui annoncer qu'il y avait du
 nouveau sur Harajuku Fun Madness, qui se trouve être le meilleur jeu
-jamais inventé. J'ai eu un grand sourire.  Passer ses vendredis à
+jamais inventé. J'ai eu un grand sourire. Passer ses vendredis à
 l'école, c'est naze de toute façon, et j'étais content d'avoir une
 raison de prendre le large. J'ai parcouru le reste du chemin jusqu'au
 bureau de Benson et l'ai salué d'un grand geste en passant la porte.
@@ -95,7 +95,7 @@ J'avais fait quelques trucs pas mal sous ce pseudo — j'étais très fier
 de mon travail sur les tueurs de puces cafteuses — et s'il arrivait à
 lier mes deux identités, j'aurais des ennuis. Personne à l'école ne
 m'appelait jamais w1n5t0n, ni même Winston. Pas même mes amis. C'était
-Marcus, ou rien.  Benson s'est assis derrière son bureau et a commencé à
+Marcus, ou rien.Benson s'est assis derrière son bureau et a commencé à
 tapoter sa chevalière nerveusement. Il faisait ça à chaque fois que ça
 tournait mal pour lui. Les joueurs de pocker appellent ça *tell* — quelque
 chose qui vous dit ce qui se passe dans la tête du gars en face. Je
@@ -104,8 +104,8 @@ connais les *tell* de Benson à l'envers et à l'endroit.\
 — Je comprendrai dès que vous m'aurez expliqué de quoi il s'agit,
 monsieur.\
 Je dis toujours « monsieur » aux figures d'autorité quand je fais le
-malin. C'est mon propre *tell* Il a secoué la tête et m'a regardé de très
-haut, encore un *tell* D'un moment à l'autre, il allait me hurler dessus.\
+malin. C'est mon propre *tell*. Il a secoué la tête et m'a regardé de très
+haut, encore un *tell*. D'un moment à l'autre, il allait me hurler dessus.\
 — Écoute, gamin ! Il est temps que tu comprennes que nous savons ce que
 tu as fait, et que nous n'allons pas laisser passer ça. Tu as de la
 chance si tu n'es pas expulsé avant la fin de cette entrevue. Tu le
@@ -118,7 +118,7 @@ criminelle visant à subvertir les systèmes de sécurité de cette école,
 et que tu as fourni des contre-mesures à tes camarades. Tu sais que nous
 avons expulsé Graciella Uriarte la semaine dernière pour avoir utilisé
 un de tes engins.\
-Uriarte s'était mis dans la mouise. Elle avait acheté un brouilleur
+Uriarte s'était mise dans la mouise. Elle avait acheté un brouilleur
 radio dans un magasin de bricolage près de la station de métro de la
 16ème rue et il avait déclenché les contre-mesures du corridor de
 l'école. Je n'avais rien à voir avec ça, mais j'avais mal pour elle.\
@@ -130,7 +130,7 @@ demander s'il avais seulement compris que le « 1 » se lisait « I » et qu
 — Nous savons que ce w1n5t0n est responsable du vol des tests standards de
 l'année dernière.\
 En fait, ça n'avait pas été moi, mais c'était un joli hack, et c'était plutôt
-flatteur de me le voir attribué.
+flatteur de me le voir attribué.\
 — Et en conséquence, passible de plusieurs années de prison si tu ne coopères
 pas avec moi.\
 — Vous avez des renseignements probants ? Puis-je les voir ?\
@@ -158,7 +158,7 @@ nôôôôôôtreuh, c'est de mettre un pied d'vant l'autre, et
 d'recommencer. »\
 « Deux kilomètres à pied… »\
 — Tu peux retourner en classe !, a-t-il aboyé, je te rappellerai quand
-la police sera là pour te parler\
+la police sera là pour te parler.\
 — Vous allez les appeler maintenant ?\
 — La procédure pour appeler la police est compliquée. J'espérais que je
 pourrais régler cette affaire en étant juste et rapide, mais puisque tu
@@ -184,7 +184,7 @@ Alors, Benson et beaucoup d'autres administrateurs scolaires
 paranoïaques avaient claqué les budgets pour nos manuels sur ces caméras
 idiotes qui étaient censées pouvoir différencier la démarche d'une
 personne de celle d'une autre personne. Mais bien sûr. Je suis retourné
-en classe et me suis rassis, Madade Galvez saluant mon retour
+en classe et me suis rassis, Madame Galvez saluant mon retour
 chaleureusement. J'ai déballé mon ordinateur fourni en standard par
 l'école et me suis remis en mode cours. Le SchoolBook relève de la plus
 cafteuse des technologies, enregistrant la frappe de chaque touche,
@@ -194,7 +194,7 @@ sur le net. On les avait reçus en seconde, et il avait suffit de
 quelques mois pour qu'ils ne paraissent plus tous beaux tous brillants.
 Dès que les gens ont eu pigé que ces portables « gratuits » étaient en
 fait des espions — et nous passaient un flux incessant de publicités
-exaspérantes, par-dessus le marché — ils se devenus lourds et
+exaspérantes, par-dessus le marché — ils sont soudainement devenus lourds et
 encombrants. Il avait été facile de cracker mon Schoolbook. Le crack
 était sur Internet moins d'un mois après que la machine était sortie,
 et ça n'était pas sorcier — simplement télécharger une image DVD, la
@@ -213,7 +213,11 @@ Madness, mon pote. Tu es des nôtres ?\
 — Pas question. Si je me fais chopper à sécher les cours une troisième
 fois, je me fais expulser, mec. Je t'ai déjà dit. On ira après les
 cours.\
+<<<<<<< HEAD
 — Tu as une pause pour déjeuner et ensuite un heure libre, non ? Ca te
+=======
+— Tu as une pause pour déjeuner et ensuite un heure libre, non ? Ça te
+>>>>>>> d624ea3ea89f65ea6e133bc30cc302f6a72ee86f
 fait deux heures. Ça nous laisse tout le temps de chasser cet indice et
 de revenir avant qu'on nous remarque. Je bas le rappel de toute
 l'équipe.\
@@ -243,7 +247,7 @@ Madness, c'est ça, et quand on a résolu une énigme ou deux, on devient
 accro.\
 — Non, mec, juste non. NON. Ne me le demande même pas.\
 — Mais j'ai besoin de toi, D. Tu es le meilleur que j'aie. Je te jure
-qu'on sera revenus quand que personne ne nous remarque. Tu sais que je
+qu'on sera revenus avant que personne ne nous remarque. Tu sais que je
 peux le faire, n'est-ce pas ?\
 — Je sais que tu peux le faire.\
 — Alors, tu viens ?\
@@ -255,7 +259,11 @@ avoir passé plus de temps à jouer à des jeux.\
 — Ouais mais tu ne penses pas que tu pourrais regretter de ne pas avoir
 passé plus de temps avec Vanessa Pak ?\
 Van était un membre de mon équipe. Darryl en était raide amoureux depuis
+<<<<<<< HEAD
 des années — même depuis avant que la puberté lui ait accordé des
+=======
+des années — même depuis avant que la puberté lui ait accordé des
+>>>>>>> d624ea3ea89f65ea6e133bc30cc302f6a72ee86f
 cadeaux généreux. Darrly était tombé amoureux de son esprit. Triste, en
 vérité.\
 — Tu es vraiment un connard.\
@@ -288,9 +296,15 @@ avaient loué l'espace. Les gamins enthousiastes qui couraient partout en
 costume donnaient du pittoresque à l'événement, et nous, nous pouvions
 nous amuser comme des fous au milieu de gens encore plus socialement
 marginaux que nous. Le problème des hôtels est qu'on y trouve aussi
+<<<<<<< HEAD
 plein de non-joueurs, aussi  — et pas seulement les fans ds SF. Des gens
 normaux. Venant d'États dont le nom commence et finit par une voyelle. En
 vacances. Et parfois, ces gens comprennent mal à nature du jeu. Mais
+=======
+plein de non-joueurs, aussi  — et pas seulement les fans de SF. Des gens
+normaux. Venant d'États dont le nom commence et finit par une voyelle. En
+vacances. Et parfois, ces gens comprennent mal la nature du jeu. Mais
+>>>>>>> d624ea3ea89f65ea6e133bc30cc302f6a72ee86f
 laissons ça de côté, d'accord ?
 
 Le cours finissait dans dix minutes, et ça ne me laissait pas beaucoup
@@ -321,7 +335,7 @@ personnelle, au millimètre près, est à vous et à vous seul. Le problème,
 c'est que votre démarche au millimètre change selon que vous êtes plus
 ou moins fatigué, en fonction du sol, de si vous vous êtes bousillé la
 cheville au basket, ou se si vous avez récemment changé de chaussures.
-Alors, le système lisse votre profil, pour recherche des gens qui
+Alors, le système lisse votre profil, pour rechercher des gens qui
 marchent un peu comme vous. Il y a des tas de gens qui marchent un peu
 comme vous. De plus, il vous est facile de ne pas marcher un peu comme
 vous-même — il vous suffit d'enlever une chaussure. Bien sûr, vous
@@ -370,7 +384,7 @@ vous ne pouvez même pas voir qu'ils sont là. Tout programme dont le nom
 commence par \$SYS\$ est ainsi invisible pour le système d'exploitation.
 Il n'apparait pas dans l'inventaire du disque dur, ni dans la liste des
 processus. Aussi ma copie de Firefox s'appelait-elle \$SYS\$Firefox — et
-quand la lançais, elle devenait invisible pour Windows, et donc
+quand je la lançais, elle devenait invisible pour Windows, et donc
 invisible pour les logiciels espions sur le réseau. Maintenant que
 j'avais mon propre navigateur en fonction, il me fallait aussi une
 connection réseau à moi. Le réseau de l'école enregistre chaque clic en

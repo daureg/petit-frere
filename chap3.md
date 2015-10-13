@@ -13,7 +13,7 @@ comme librairie agréable, bourré de coins confortables où s’asseoir et
 lire, et tenu par des libraires à l’incroyable culture qui savent tout
 ce qu’il y a à savoir sur la science-fiction. Encore mieux, ils sont
 toujours volontaires pour prendre des commandes de mes livres (par
-Internet ou par télépone) et les garder pour que le les signe quand je
+Internet ou par télépone) et les garder pour que je les signe quand je
 passe chez eux, et les envoyer ensuite à des adresses aux USA
 gratuitement !\
 Borderlands Books: 866 Valencia Ave, San Francisco CA USA 94110 +1 888
@@ -23,7 +23,7 @@ Nous avons dépassé pas mal de monde dans la rue sur le chemin de la
 station BART de Powell Street. Ils couraient ou marchaient, livides et
 silencieux, ou hurlants et paniqués. Les SDF se recroquevillaient sous
 les porches et regardaient la scène, pendant qu’une grande prostituée
-nore flamboyante s’engueulait avec deux jeunes hommes moustachus à
+noire flamboyante s’engueulait avec deux jeunes hommes moustachus à
 propos de Dieu sait quoi. Plus nous nous rapprochions du BART, plus la
 pression des corps dans la foule s’aggravait. Le temps que nous
 arrivions aux escaliers d’accès à la station, il était devenu un lieu
@@ -44,7 +44,7 @@ A la mention du gaz lacrymogène, le type a eu l’air terrifié et à en
 quelque sorte fondu en arrière, malgré la foule qui le poussait en
 avant. Plus loin, j’ai vu quelqu’un, une dame entre deux âges en robe
 hippie, tituber et tomber. Elle hurlait en tombant, et je l’ai vue
-lutter pour se relever, vainement à caues de la pression de la foule.
+lutter pour se relever, vainement à cause de la pression de la foule.
 Quand je m’en suis rapproché, je me suis baissé pour l’aider, et j’ai
 presque été plaqué contre elle. J’ai fini par lui marcher sur l’estomac
 parce que la foule me poussait, mais je crois qu’à ce moment, elle ne
@@ -52,7 +52,7 @@ sentait déjà plus rien. J’étais plus effrayé que je ne l’avais jamais
 été. Il y avait des cris de partout maintenant, et d’autres corps par
 terre, et la poussée de derrière était aussi puissante que celle d’un
 bulldozer. Tout ce que je pouvais faire était de me maintenir sur mes
-pieds. Nous étions dans le hall où se toruvent les tourniquets. C’était
+pieds. Nous étions dans le hall où se trouvent les tourniquets. C’était
 à peine mieux là — l’écho des voix autours de nous renvoyées par
 l’espace confiné rugissait si fort que mes oreilles tintaients, et
 l’odeur et la pression contre les corps me rendait plus claustrophobe
@@ -73,10 +73,10 @@ au courant.\
 — “On va devoir retourner sur nos pas !”, j’ai répliqué en criant et en
 montrant du doigt la marée sans pitié des corps.\
 — “C’est impossible !”\
-— “Ca va devenir de plus en plus impossible si on attend !”\
+— “Ça va devenir de plus en plus impossible si on attend !”\
 Il a haussé les épaules. Van s’est faufilée jusqu’à moi et m’a pris le
 poignet. J’ai saisi Darryl et Darryl a empoigné Jolu par l’autre main,
-et nous nous sommes frayé un chemin vers la sortie. Ca n’a pas été
+et nous nous sommes frayé un chemin vers la sortie. Ça n’a pas été
 facile. Nous avancions de dix centimètres à la minute au début, mais
 nous avons dû ralentir encore plus en nous rapprochant des escaliers.
 D’ailleurs les gens que nous dépassions n’était pas vraiment contents
@@ -173,7 +173,7 @@ un sac de jutte sur ma tête et l’a serré sur mon cou, si vite et si
 furieusement que j’ai à peine eu le temps de pousser un cri avant qu’il
 se referme sur moi.
 
-On m’a poussé sur mon ventrre rudement mais sans colère, et quelque
+On m’a poussé sur mon ventre rudement mais sans colère, et quelque
 chose m’a encerclé les poignets par deux fois et s’est serré aussi, avec
 la sensation d’un fil de fer qui me mordait la peau. J’ai crié et j’ai
 entendu ma propres voix étouffée par le capuchon. J’étais dans le noir
@@ -198,7 +198,7 @@ utilisaient une matraque ou quelque chose — c’était plus dur que tous
 les coups que j’avais jamais pris sur la tête. Mes yeux roulaient et
 pleuraient et je ne pouvais littéralement pas respirer à cause de la
 douleur.  Un instant plus tard, j’ai pu reprendre mon souffle, mais je
-n’ai plus rien dit. J’avais compris la lesson.
+n’ai plus rien dit. J’avais compris la leçon.
 
 Qui étaient ces clowns ? Ils ne portaient pas d’insignes. C’étaient
 peut-être des terroristes ! Je n’avais jamais vraiment cru aux
@@ -245,7 +245,7 @@ haleine, et entendre ma propre respiration.
 J’ai même réussi à presque dormir, à ce moment, à genoux, la circulation
 sanguine coupée dans mes jambes, ma tête dans le crepuscule de tissus.
 Mon corps avait fait gicler pour une année d’adréaline dans mon sang en
-l’espace de 30 minutes, et même si ce truc pent vous donner la force de
+l’espace de 30 minutes, et même si ce truc peut vous donner la force de
 soulever une voiture pour l’enlever de dessus ceux que vous aimez, ou
 sauter par-dessus des bâtiments de plusieurs étages, vous le payez
 toujours très cher.
@@ -271,20 +271,20 @@ flancs du véhicule, et attachés à ces rails, il y avait les prisonniers.
 J’ai tout de suite repéré Van et Jolu. Darryl aurait pu faire partie de
 la douzaine d’autres menottés là-derrière, mais c’était impossible à
 dire — il y en avait beaucoup empilés les uns sur les autres, qui
-bloquaient ma vue. Ca puait la sueur et la peur. Vanessa m’a regardé et
+bloquaient ma vue. Ça puait la sueur et la peur. Vanessa m’a regardé et
 s’est mordu la lèvre. Elle était terrifiée. Et moi aussi. Et Jolu
 également, ses yeux roulaient comme des fous dans leurs orbites au point
 qu’on en voyait le blanc. J’avais peur. Et de plus, j’avais terriblement
 besoin de pisser.
 
 J’ai cherché nos capteurs du regard. J’avais évité de les regarder
-jusqu’à maintenant, de la même façon qu’on ne regardre pas le fond du
+jusqu’à maintenant, de la même façon qu’on ne regarde pas le fond du
 placard à l’intérieur duquel l’esprit a invoqué un monstre. On n’a pas
 envie de savoir si on avait raison. Mais j’ai mieux regardé ces connards
 qui nous avaient kidnappés. Si c’étaient des terroristes, je voulais le
 savoir. Je ne savais pas à quoi ressemblait un terroriste, quoi que les
 émissions de télé avaient fait tout ce qu’elles pouvaient pour me
-convaincre que c’était des Arabes à la peau matte, avec des grandes
+convaincre que c’était des Arabes à la peau mate, avec des grandes
 barbes, des bonnets tricotés et des vêtements de coton qui leur
 descendaient aux chevilles. Nos capteurs n’étaient pas comme ça. Ils
 auraient pu être des cheerleaders de la mi-temps du Super Bowl. Ils
@@ -305,7 +305,7 @@ disparu en un clin d’oeil.\
 mais il faut vraiment que je pisse, vous pigez ?”\
 Elle m’a regardé comme si elle n’avait pas entendu.\
 — “Je suis sérieux, si je ne trouve pas des toilettes tout bientôt, il
-va y avoir un accident. Ca va puer ici, vous voyez ?”\
+va y avoir un accident. Ça va puer ici, vous voyez ?”\
 Elle s’est tournée vers ses collègues, une petite bande de trois d’entre
 eux, et ils conversé à voix basse sans que je puisse les entendre avec
 le bruit des ventilateurs des ordinateurs. Elle s’est retournée vers moi
@@ -331,10 +331,10 @@ de gaz lacrymogène ou un spray ou poivre.\
 — “Aucun”, ai-je acquiescé.\
 Il a touché quelque chose sur la ceinture et les menottes dans mon dos
 on se sont ouvertes, et mes bras sont retombés brusquement. C’est comme
-s’il avait porté la ceinture mutli-usage de Batman — une télécommande
+s’il avait porté la ceinture multi-usage de Batman — une télécommande
 pour des menottes ! J’imagine que c’est logique, notez : vous ne
 voudriez pas vous pencher par-dessus un prisonnier en laissant pendre
-toute cette quincaillerie de mort au miveau de leurs yeux — ils
+toute cette quincaillerie de mort au niveau de leurs yeux — ils
 pourraient, genre, arracher votre arme avec les dents et appuyer sur la
 détente avec leur langue, ou je ne sais quoi.
 
@@ -391,12 +391,12 @@ cruellement dans ma chair, mais j’ai refusé de leur offrir le plaisir de
 crier. Il m’a entravé à ma place et a attrapé la personne suivante, qui,
 je le voyais maintenant, était Jolu, son visage tout gonflé avec un
 méchant hématome sur la joue.\
-— “Ca va ?”, je lui ai demandé, et mon bon copain à la ceinture
+— “Ça va ?”, je lui ai demandé, et mon bon copain à la ceinture
 mutli-usages a brusquement mis sa main sur mon front et m’a repoussé
 violemment, me cognant l’occiput contre la paroi métallique du camion
 avec le bruit d’une horloge qui sonne l’heure.\
 — “Pas de bavardage”, m’a-t-il dit alors que je m’efforçais de remettre
-mes yeux au point. Je m’aimais pas des gens. C’est alors que j’ai décidé
+mes yeux au point. Je n’aimais pas ces gens. C’est alors que j’ai décidé
 qu’ils payeraient pour tout ça.
 
 Un à un, tous les prisonniers sont passés aux toilettes, et sont
@@ -416,9 +416,9 @@ prisonnier de terroristes — j’étais fait prisonnier par les États-Unis
 d’Amérique.
 
 Ils ont installé un paravent à l’extrémité du camion et ils sont venus
-nous chercher un par un, nous détachant e tnous conduisant  à l’arrière
+nous chercher un par un, nous détachant et nous conduisant à l’arrière
 de la remorque. Pour autant que j’arrive à le chronométrer — en comptant
-les secondes dans ma tête, “une hippopotame, deux hippopotames…” — les
+les secondes dans ma tête, “un hippopotame, deux hippopotames…” — les
 entrevues duraient environ sept minutes chacune. Ma tête battait de
 déshydratation et de manque de cafféine. Je suis passé en troisième,
 conduit par la femme coiffée sévèrement. De près, elle avait l’air
@@ -434,12 +434,12 @@ ergonomiques. Il y avait une petite table entre eux où tout le contenu
 de mo porte-feuille et de mon sac à dos était étalé.\
 — “Bonjour, Marcus”, a dit Coupe-à-la-Serpe. “Nous avons quelques
 questions à te poser”\
-— “Suis-je en état d’arrestation ?”, j’ai demandé. Ca n’était pas une
-question de pure forme. Si vous n’être pas en état d’arrestation, il y a
+— “Suis-je en état d’arrestation ?”, j’ai demandé. Ça n’était pas une
+question de pure forme. Si vous n’êtes pas en état d’arrestation, il y a
 des limites à ce que les flics peuvent et ne peuvent pas vous faire.
-Pour commence, ils ne peuvent pas vous garder en détention indéfiniment
+Pour commencer, ils ne peuvent pas vous garder en détention indéfiniment
 sans vous arrêter, vous permettre de passer un coup de télépohone, et
-vous offrir un entretien avec un avocat. Et bon sang, qu’est-ce que
+vous offrir un entretien avec un avocat. Et bon sang, est-ce que
 j’allais parler à un avocat.\
 — “A quoi ça sert, ça ?”, m’a-t-elle demandé en brandissant mon
 smartphone. L’écran montrait le message d’erreur que l’on obtient si
@@ -448,14 +448,14 @@ C’était un message assez grossier — une main animée faisant un geste
 universellement compris — parce que j’aime bien paramétrer mon matériel
 en fonction de mes goûts.\
 — “Est-ce que je suis en état d’arrestation ?”, j’ai répété. On ne peut
-pas vous forcer à répondre à quelque question que ce soit si vous n’être
+pas vous forcer à répondre à quelque question que ce soit si vous n’êtes
 pas officiellement arrêté, et quand vous demandez si vous êtes en état
 d’arrestation, ils doivent vous répondre. C’est la règle.\
-— “Vous êtes retenu par le Departement de la Sécurité Intérieure”,
+— “Vous êtes retenu par le Département de la Sécurité Intérieure”,
 a-t-elle répondu sèchement.\
 — “Suis-je en état d’arrestation ?”\
 — “Tu vas être plus coopératif que ça, Marcus, et à partir d’exactement
-maintenant”. Elle n’a pas dit “ou sinon…”, mais c’était sous-entendu.\
+maintenant.”. Elle n’a pas dit “ou sinon…”, mais c’était sous-entendu.\
 — “Je souhaiterais prendre contact avec un avocat”, j’ai dit. “Je
 voudrais savoir de quoi je suis inculpé. J’aimerais bien voir vos
 cartes, à tous les deux.” Les deux agents ont échangé un coup d’oeil.\
@@ -465,19 +465,19 @@ repenser tout de suite. Nous avons trouvé un certain nombre
 d’accessoires suspects sur ta personne. Nous t’avons trouvé, toi et tes
 complices, à proximité du lieu du plus terrible attentat terroriste que
 ce pays ait jamais subit. Additionne ces deux éléments, et ton avenir
-parait sombre, Marcus. Tu peux collaborer, ou alors tu peux le regreter
+parait sombre, Marcus. Tu peux collaborer, ou alors tu peux le regretter
 très, très amèrement. Donc, ce truc, qu’est-ce que c’est ?\
 — “Vous pensez que je suis un terroriste ? J’ai dix-sept ans !”\
-— “Juste l’âge idéal — Al Qaeda apprécie les jeunes recrues
+— “Juste l’âge idéal — Al Qaïda apprécie les jeunes recrues
 impressionables et idéalistes. Nous avons cherché ton nom sur Google, tu
-sais. Tu as posté pas mal de vraiment sales trucs sur Internet”\
+sais. Tu as posté pas mal de trucs vraiment sales sur Internet.”\
 — “Je voudrais parler à un avocat”, j’ai dit.\
 Coupe-à-la-Serpe m’a regardé comme si j’étais un cafard.\
 — “Tu sembles entretenir l’illusion d’avoir été appréhendé par la police
 pour un délit. Tu devrais abandonner cette idée. Tu en détenu comme
 combattant ennemi potentiel par le gouvernement des Etats-Unis. Si
 j’étais toi, je penserais très fort à une façon de nous convaincre que
-tu n’es pas un combattant ennemi. Très fort. Pare qu’il y a des
+tu n’es pas un combattant ennemi. Très fort. Parce qu’il y a des
 oubliettes où l’on fait disparaître les combattants ennemis, des
 oubliettes très sombres, des oubliettes où ils disparaissent tout
 simplement. Pour toujours. Tu m’écoutes, jeune homme ? Je veux que tu
