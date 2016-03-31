@@ -31,7 +31,7 @@ de suite retombé par terre. Mes jambes étaient tellement engourdies
 qu’elles me paraissaient comme des blocs de glace, sauf mes genoux qui
 avaient gonflé et étaient devenus sensibles après des heures à genoux.
 Des mains ont saisi mes épaules et mes pieds, et j’ai été soulevé comme
-un sac de patates. Il y avait des voix indistinctes autours de moi.
+un sac de patates. Il y avait des voix indistinctes autour de moi.
 Quelqu’un pleurait. Quelqu’un d’autre jurait. J’ai été déplacé sur une
 courte distance, déposé et re-menotté à une autre barrière. Mes genoux
 ne me portaient plus et je me suis affaissé en avant, pour finir tordu
@@ -45,7 +45,7 @@ bien pu savoir où ? J’avais déjà eu peur avant, mais cette pensée m’a
 terrifié, me laissant paralysé et muet d’angoisse. J’ai compris que je
 pourrais très bien ne plus jamais revoir mes parents et j’ai senti le
 goût de mon propre vomi me brûler la gorge. Le sac sur ma tête. Le sac
-que j’avais autours de la tête m’étranglait et je pouvais à peine
+que j’avais autour de la tête m’étranglait et je pouvais à peine
 respirer, un effet accentué par la position bizarre dans laquelle
 j’étais tordu. Mais grâce au ciel nous ne sommes pas restés longtemps
 sur l’eau. J’ai eu l’impression d’une heure, mais je sais que ça n’avait
