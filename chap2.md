@@ -67,7 +67,7 @@ réfléchi très vite.\
 vas te prendre un avertissement pour retard. Tu es mieux barré en
 n’allant pas du tout. Je peux m’infiltrer et m’exfiltrer de n’importe
 quelle salle de ce campus, D. Tu m’as vu faire. Je te couvrirai, mec.\
-Il a grogné encore une fois. Ca, c’était un *tell* de Darryl: quand il
+Il a grogné encore une fois. Ça, c’était un *tell* de Darryl: quand il
 commence à grogner, c’est qu’il est prêt à se laisser convaincre.
 “Allons-y”, j’ai dit, et nous nous sommes mis en mouvement. Ça s’est
 passé aux petits oignons. Nous avons doublé les salles de classe,
