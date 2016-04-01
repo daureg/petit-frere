@@ -196,7 +196,7 @@ Dès que les gens ont eu pigé que ces portables « gratuits » étaient en
 fait des espions — et nous passaient un flux incessant de publicités
 exaspérantes, par-dessus le marché — ils sont soudainement devenus lourds et
 encombrants. Il avait été facile de cracker mon Schoolbook. Le crack
-était sur Internet moins d'un mois après que la machine était sortie,
+était sur Internet moins d'un mois après que la machine soit sortie,
 et ça n'était pas sorcier — simplement télécharger une image DVD, la
 graver, mettre le DVD dans le SchoolBook, et le démarrer tout en
 enfonçant un certain nombre de touches du clavier. Le DVD faisait le
