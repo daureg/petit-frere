@@ -93,7 +93,7 @@ de champagne, clignant des yeux dans la lumière poussiéreuse. Les
 sirènes de la défense civile hurlaient toujours, et le bruit des
 véhicules d’urgence qui fonçaient à travers Market Street était encore
 plus fort. Il n’y avait presque plus personne dans les rues — seulement
-ceux qui essayaient désespérément de descendre des les sous-sols.
+ceux qui essayaient désespérément de descendre dans les sous-sols.
 Beaucoup étaient en larmes. J’ai aperçu des bancs libres — d’habitude
 ils étaient complètement recouverts d’ivrognes — et les ai montrés du
 doigt. Nous avons mis le cap dessus, les sirènes et la fumée nous
@@ -127,13 +127,13 @@ n’obtient pas de signal pareil à moins qu’il n’y ait trois millions de
 personnes qui appellent le même numéro en même temps. A quoi servent les
 botnets quand il y a des terroristes ?\
 — “Et Wikipédia ?”, a dit Jolu.\
-— “Pas de télépone, pas de données”, j’ai dit.\
+— “Pas de téléphone, pas de données”, j’ai dit.\
 — “Et eux ?”, a demandé Darryl en montrant la rue du doigt.\
 J’ai regardé ce qu’il montrait, m’attendant à y voir un flic ou un
 ambulancier, mais il n’y avait personne.\
 — “Tout va bien, mon pote, reste tranquille”.\
 — “Mais non, idiot, et eux, les flics dans les voitures ? Là-bas !”\
-Il avait raison. Toutes les cinq secondes, une voiture de polie, une
+Il avait raison. Toutes les cinq secondes, une voiture de police, une
 ambulance ou un camion de pompier passaient à toute vitesse. Ils
 pourraient nous aider. J’était vraiment un idiot.\
 — “Allons-y, alors”, j’ai dit, “on va là où ils pourront nous voir et on
@@ -176,7 +176,7 @@ se referme sur moi.
 On m’a poussé sur mon ventre rudement mais sans colère, et quelque
 chose m’a encerclé les poignets par deux fois et s’est serré aussi, avec
 la sensation d’un fil de fer qui me mordait la peau. J’ai crié et j’ai
-entendu ma propres voix étouffée par le capuchon. J’étais dans le noir
+entendu ma propre voix étouffée par le capuchon. J’étais dans le noir
 absolu et je me tordais les oreilles pour entendre ce qui arrivait à mes
 amis. J’ai entendu leurs cris à travers le tissu absorbant du sac, et
 tout d’un coup on m’a pris par les pieds et les poignets comme un
@@ -184,7 +184,7 @@ paquet, mes bras tordus derrière mon dos, mes épaules hurlant de
 douleur. J’ai titubé, une main m’a baissé la tête, et je me suis
 retrouvé à l’intérieur du Hummer. D’autres corps ont été empilés
 brutalement à côté de moi.\
-— “Les gars ?”, j’ai hurlé, ce qi m’a valu un gros coup sur la tête pour
+— “Les gars ?”, j’ai hurlé, ce qui m’a valu un gros coup sur la tête pour
 ma peine.\
 J’ai entendu Jolu répondre, et je l’ai senti se faire battre aussi. Ma
 tête sonnait comme un gong.\
@@ -250,8 +250,8 @@ soulever une voiture pour l’enlever de dessus ceux que vous aimez, ou
 sauter par-dessus des bâtiments de plusieurs étages, vous le payez
 toujours très cher.
 
-Je me suis réveillé quand quelqu’un a retiré le sac de ma tête. Ca
-n’était ni brutal, ni soigneux — juste… impersonel. Comme quelqu’un qui
+Je me suis réveillé quand quelqu’un a retiré le sac de ma tête. Ça
+n’était ni brutal, ni soigneux — juste… impersonnel. Comme quelqu’un qui
 assemble les hamburgers au McDonald.
 
 La lumière dans la pièce était si éblouissante que j’ai refermé les
@@ -277,7 +277,7 @@ s’est mordu la lèvre. Elle était terrifiée. Et moi aussi. Et Jolu
 qu’on en voyait le blanc. J’avais peur. Et de plus, j’avais terriblement
 besoin de pisser.
 
-J’ai cherché nos capteurs du regard. J’avais évité de les regarder
+J’ai cherché nos ravisseurs du regard. J’avais évité de les regarder
 jusqu’à maintenant, de la même façon qu’on ne regarde pas le fond du
 placard à l’intérieur duquel l’esprit a invoqué un monstre. On n’a pas
 envie de savoir si on avait raison. Mais j’ai mieux regardé ces connards
@@ -286,7 +286,7 @@ savoir. Je ne savais pas à quoi ressemblait un terroriste, quoi que les
 émissions de télé avaient fait tout ce qu’elles pouvaient pour me
 convaincre que c’était des Arabes à la peau mate, avec des grandes
 barbes, des bonnets tricotés et des vêtements de coton qui leur
-descendaient aux chevilles. Nos capteurs n’étaient pas comme ça. Ils
+descendaient aux chevilles. Nos ravisseurs n’étaient pas comme ça. Ils
 auraient pu être des cheerleaders de la mi-temps du Super Bowl. Ils
 avaient l’air américain d’une façon que je n’arrivais pas à définir.
 Machoires carrées, cheveux coupés cours et propres mais pas tout à fait
@@ -294,7 +294,7 @@ Machoires carrées, cheveux coupés cours et propres mais pas tout à fait
 femmes, qui se souriaient chaleureusement les uns aux autres en
 s’asseyant à l’autre bout du camion, en blaguant et en buvant du café
 dans des tasses en plastique. Ce n’étaient pas des Arabes d’Afghanistan
-: on aurait plutôt dit des touristes du Nebraska. J’en un fixé une, une
+: on aurait plutôt dit des touristes du Nebraska. J’en ai fixé une, une
 jeune femme blanche aux cheveux bruns qui avait l’air à peine plus âgée
 que moi, assez jolie dans le style cadre-dynamique-en-costume-de-ville
 flippant. Si l’on regarde quelqu’un assez longtemps, il finit par vous
@@ -304,7 +304,7 @@ disparu en un clin d’oeil.\
 — “Hé”, j’ai dit. “Ecoutez, je ne comprends pas ce qui se passe ici,
 mais il faut vraiment que je pisse, vous pigez ?”\
 Elle m’a regardé comme si elle n’avait pas entendu.\
-— “Je suis sérieux, si je ne trouve pas des toilettes tout bientôt, il
+— “Je suis sérieux, si je ne trouve pas des toilettes très bientôt, il
 va y avoir un accident. Ça va puer ici, vous voyez ?”\
 Elle s’est tournée vers ses collègues, une petite bande de trois d’entre
 eux, et ils conversé à voix basse sans que je puisse les entendre avec
@@ -326,8 +326,8 @@ Américain, d’ue façon indéfinissable.
 
 Il a écarté son blouson pour que je vois l’équipement qui y était
 dissimulé : j’ai reconnu un pistolet automatique, un tazer et une bombe
-de gaz lacrymogène ou un spray ou poivre.\
-— “Pas de boxon”, il a dit\
+de gaz lacrymogène ou un spray au poivre.\
+— “Pas de boxon”, il a dit.\
 — “Aucun”, ai-je acquiescé.\
 Il a touché quelque chose sur la ceinture et les menottes dans mon dos
 on se sont ouvertes, et mes bras sont retombés brusquement. C’est comme
@@ -340,7 +340,7 @@ détente avec leur langue, ou je ne sais quoi.
 
 Mes mains étaient toujours liées par les bandes de plastique, et
 maintenant que je n’avais plus le soutien des menottes, j’ai découvert
-que les jambes s’étaient transformées en liège pendant que j’étais
+que mes jambes s’étaient transformées en liège pendant que j’étais
 maintenu sans pouvoir bouger. Pour faire court, je suis tombé face
 contre terre et j’ai vaguement remué mes jambes qui s’étaient
 transformées en boites d’épingles, en essayant de les positionner sous
@@ -355,7 +355,7 @@ comme des saucisses violettes à cause des heures de bondage dans les
 menottes en plastique. Le type n’a pas bronché. “Écoutez”, ai-je dit en
 faisant de mon mieux pour ne paraître ni sarcastique, si aggressif (et
 ça n’était pas facile), “Écoutez. Soit vous me détachez, soit vous
-devrez viser pour moi. On ne va pas aux toilettes dans utiliser ses
+devrez viser pour moi. On ne va pas aux toilettes sans utiliser ses
 mains.”\
 Quelqu’un dans le camion a pouffé. Le type ne m’aimait pas, ça se voyant
 à la façon dont les muscles de sa mâchoire bougeaient. Bon sang, ces
@@ -402,7 +402,7 @@ qu’ils payeraient pour tout ça.
 Un à un, tous les prisonniers sont passés aux toilettes, et sont
 revenus, et quand ça a été fini, mon garde est retourné auprès de ses
 copains et a repris une tasse de café — ils buvaient dans de grands
-gobelets un carton de chez Starbucks, j’ai remarqué — et ils ont tenu
+gobelets en carton de chez Starbucks, j’ai remarqué — et ils ont tenu
 une conversation indistincte qui les faisait passablement rire. Et
 alors, les portes à l’arrière du camion se sont ouvertes et nous avons
 eu de l’air frais, plus enfumé comme il l’avait été jusque-là, mais
@@ -412,7 +412,7 @@ pleuvait, une de ces petites pluies de San Francisco qui font presque du
 brouillard. L’homme qui est entré portait un uniforme militaire. Un
 uniforme militaire américain. Il a salué les gens dans le camion, qui
 lui ont rendu son salut, et c’est là que j’ai su que je n’étais pas
-prisonnier de terroristes — j’étais fait prisonnier par les États-Unis
+détenu par des terroristes — j’étais détenu par par les États-Unis
 d’Amérique.
 
 Ils ont installé un paravent à l’extrémité du camion et ils sont venus
@@ -431,14 +431,14 @@ le paravent. Il y avait une unique chaise pliante, sur laquelle je me
 suis assis. Deux d’entre eux — la nana Coupe à la Serpe et le type à la
 ceinture multi-fonctions — m’ont toisé depuis leurs super-chaises
 ergonomiques. Il y avait une petite table entre eux où tout le contenu
-de mo porte-feuille et de mon sac à dos était étalé.\
+de mon porte-feuille et de mon sac à dos était étalé.\
 — “Bonjour, Marcus”, a dit Coupe-à-la-Serpe. “Nous avons quelques
 questions à te poser”\
 — “Suis-je en état d’arrestation ?”, j’ai demandé. Ça n’était pas une
 question de pure forme. Si vous n’êtes pas en état d’arrestation, il y a
 des limites à ce que les flics peuvent et ne peuvent pas vous faire.
 Pour commencer, ils ne peuvent pas vous garder en détention indéfiniment
-sans vous arrêter, vous permettre de passer un coup de télépohone, et
+sans vous arrêter, vous permettre de passer un coup de téléphone, et
 vous offrir un entretien avec un avocat. Et bon sang, est-ce que
 j’allais parler à un avocat.\
 — “A quoi ça sert, ça ?”, m’a-t-elle demandé en brandissant mon
