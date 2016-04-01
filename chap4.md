@@ -21,7 +21,7 @@ l’événement d’après-Nébula quelques années plus tard. Le mieux est que
 les geeks qui achètent à B&N touchent vraiment leur bille pour ce qui
 est de la Science-Fiction, des bandes dessinées et du manga, des jeux,
 et de ce genre de titres. Ils sont passionnée et cultivés dans le
-domaine, et ça se voit à l’excellente sélection exposée sur les rayons.
+domaine, et ça se voit à l’excellente sélection exposée sur les rayons.\
 Barnes and Noble, dans tous les USA.*
 
 Il m’ont repassé les menottes et remis le sac sur la tête, et m’ont
