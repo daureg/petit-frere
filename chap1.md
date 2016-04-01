@@ -213,11 +213,7 @@ Madness, mon pote. Tu es des nôtres ?\
 — Pas question. Si je me fais chopper à sécher les cours une troisième
 fois, je me fais expulser, mec. Je t'ai déjà dit. On ira après les
 cours.\
-<<<<<<< HEAD
-— Tu as une pause pour déjeuner et ensuite un heure libre, non ? Ca te
-=======
 — Tu as une pause pour déjeuner et ensuite un heure libre, non ? Ça te
->>>>>>> d624ea3ea89f65ea6e133bc30cc302f6a72ee86f
 fait deux heures. Ça nous laisse tout le temps de chasser cet indice et
 de revenir avant qu'on nous remarque. Je bas le rappel de toute
 l'équipe.\
@@ -259,11 +255,7 @@ avoir passé plus de temps à jouer à des jeux.\
 — Ouais mais tu ne penses pas que tu pourrais regretter de ne pas avoir
 passé plus de temps avec Vanessa Pak ?\
 Van était un membre de mon équipe. Darryl en était raide amoureux depuis
-<<<<<<< HEAD
-des années — même depuis avant que la puberté lui ait accordé des
-=======
 des années — même depuis avant que la puberté lui ait accordé des
->>>>>>> d624ea3ea89f65ea6e133bc30cc302f6a72ee86f
 cadeaux généreux. Darrly était tombé amoureux de son esprit. Triste, en
 vérité.\
 — Tu es vraiment un connard.\
@@ -296,15 +288,9 @@ avaient loué l'espace. Les gamins enthousiastes qui couraient partout en
 costume donnaient du pittoresque à l'événement, et nous, nous pouvions
 nous amuser comme des fous au milieu de gens encore plus socialement
 marginaux que nous. Le problème des hôtels est qu'on y trouve aussi
-<<<<<<< HEAD
-plein de non-joueurs, aussi  — et pas seulement les fans ds SF. Des gens
-normaux. Venant d'États dont le nom commence et finit par une voyelle. En
-vacances. Et parfois, ces gens comprennent mal à nature du jeu. Mais
-=======
 plein de non-joueurs, aussi  — et pas seulement les fans de SF. Des gens
 normaux. Venant d'États dont le nom commence et finit par une voyelle. En
 vacances. Et parfois, ces gens comprennent mal la nature du jeu. Mais
->>>>>>> d624ea3ea89f65ea6e133bc30cc302f6a72ee86f
 laissons ça de côté, d'accord ?
 
 Le cours finissait dans dix minutes, et ça ne me laissait pas beaucoup
