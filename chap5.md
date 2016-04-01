@@ -1,5 +1,5 @@
-Chapitre 5 {.calibre1}
-----------
+#Chapitre 5
+
 
 *Ce chapitre est dédié au Secret Headquarters à Los Angeles, mon magasin
 de bande dessinée préféré qui est à tomber. Il est petit et choisit

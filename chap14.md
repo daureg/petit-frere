@@ -1,5 +1,5 @@
-Chapitre 14 {.calibre1}
------------
+#Chapitre 14
+
 
 *Ce chapitre est dédié à l’incomparable Mysterious Galaxy à San Diego,
 en Californie.\

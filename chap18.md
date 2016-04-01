@@ -1,5 +1,5 @@
-Chapitre 18 {.calibre1}
------------
+#Chapitre 18
+
 
 *Ce chapitre est dédié à la librairie multilingue Sophia Books, de
 Vancouver,\

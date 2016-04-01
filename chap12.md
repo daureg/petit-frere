@@ -1,5 +1,5 @@
-Chapitre 12 {.calibre1}
------------
+#Chapitre 12
+
 
 *Ce chapitre est dédié à Forbidden Planet, une chaîne britannique de
 livres de science-fiction et de fantasy, ainsi que de bandes dessinées,

@@ -1,5 +1,5 @@
-Chapitre 19 {.calibre1}
------------
+#Chapitre 19
+
 
 *Ce chapitre est dédié à la librairie des presses du MIT, un magasin
 auquel j’ai\

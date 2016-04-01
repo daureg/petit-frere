@@ -1,5 +1,5 @@
-Chapitre 3 {.calibre1}
-----------
+#Chapitre 3
+
 
 *Ce chapitre est dédié à Borderlands Books, la magnifique librairie de
 science-fiction indépendante de San Francisco. Borderlands est en gros

@@ -1,5 +1,5 @@
 Chapitre 1
-----------
+
 
 *Ce chapitre est dédié à BakkaPhoenix Books à Toronto, Canada. Bakka est
 la plus ancienne librairie de science fiction du monde, et c'est elle

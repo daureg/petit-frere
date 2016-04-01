@@ -1,5 +1,5 @@
-Chapitre 2 {.calibre1}
-----------
+#Chapitre 2
+
 
 *Ce chapitre est dédié à Amazon.com, la plus grande librairie en livre
 sur Internet du monde. Amazon est fantastique — un “magasin” où vous

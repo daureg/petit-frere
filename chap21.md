@@ -1,5 +1,5 @@
-Chapitre 21 {.calibre1}
------------
+#Chapitre 21
+
 
 *Je dédie ce chapitre à Pages Books, de Toronto au Canada. De longue
 date un monument de la terriblement trendy Queen Street West strip,

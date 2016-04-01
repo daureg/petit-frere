@@ -1,5 +1,5 @@
-Chapitre 10 {.calibre1}
------------
+#Chapitre 10
+
 
 *Ce chapitre est dédié à Anderson’s bookshop, la librairie pour enfant
 de légende à Chicago. Anderson’s est une vieille, vieille entreprise de

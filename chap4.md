@@ -1,5 +1,5 @@
-Chapitre 4 {.calibre1}
-----------
+#Chapitre 4
+
 
 *Ce chapitre est dédié à Barnes and Nobles, une chaîne de librairies aux
 Etats-Unis. Alors que les librairies familiales disparaissaient, Barnes

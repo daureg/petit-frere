@@ -1,5 +1,5 @@
-Chapitre 6 {.calibre1}
-----------
+#Chapitre 6
+
 
 *Ce chapitre est dédié à Powell’s Books, la légendaire “cité des livres”
 à Portland, dans l’Orégon. Powell est la plus grande librairie du monde,

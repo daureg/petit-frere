@@ -1,5 +1,5 @@
-Chapitre 8 {.calibre1}
-----------
+#Chapitre 8
+
 
 *Ce chapitre est dédié à Borders, le géant mondial de la distribution de
 livres qu’on trouve dans toutes les villes du monde — je n’oublierai
