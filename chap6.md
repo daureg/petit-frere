@@ -11,7 +11,8 @@ livres, et ils ont toujours été incroyablement élégants quand ils me
 demandent de signer leur stock. Les libraires sont agérables, le stock
 est fabuleux, et il y a même une sucursale à l’aéroport de Portland, ce
 qui en fait probablement la meilleure librairie d’aéroport du monde, en
-ce qui me concerne. Powell’s Books: 1005 W Burnside, Portland, OR 97209
+ce qui me concerne. \
+Powell’s Books: 1005 W Burnside, Portland, OR 97209
 USA +1 800 878 7323*
 
 Croyez-le ou non, mes parents m’ont envoyé à l’école le lendemain. Je ne

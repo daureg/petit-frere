@@ -12,8 +12,8 @@ science-fiction et rencontrent leurs fans. Quand je me trouve dans une
 ville étrangère )ce qui m’arrive souvent) et que j’ai besoin d’un bon
 bouquin pour mon prochain vol, il semble qu’il y a toujours un Borders
 prêt à proposer d’excellentes sélections — je suis particulièrement
-amateur du Borders d’Union Square à San Francisco. Borders, dans le
-monde entier.*
+amateur du Borders d’Union Square à San Francisco. \
+Borders, dans le monde entier.*
 
 Je n’étais pas le seul à me faire avoir par les histogrammes. Il y a des
 tas de gens qui ont des profils de traffic anormaux, ou des profils

@@ -14,7 +14,8 @@ et j’ai fais toujours du shopping comme un fou (d’après mes comptes, il
 semble que j’achète sur Amazon environ tous les six jours). Amazon est
 en train de réinventer ce que c’est que d’être une librairie au 21ème
 siècle, et je ne vois pas quels gens seraient plus indiqués pour
-confronter cet épineux problème. Amazon.*
+confronter cet épineux problème. \
+Amazon.com*
 
 “Je pense à m’inscrire en Physique à Berkeley”, a dit Darryl. Son père
 avait enseigné à l’université de Californie à Berkeley, ce qui lui
