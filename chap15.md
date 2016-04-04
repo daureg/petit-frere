@@ -1,5 +1,5 @@
-Chapitre 15 {.calibre1}
------------
+#Chapitre 15
+
 
 *Ce chapitre est dcédié à Chapitres/Indigo, la grande chaîne
 canadienne.\

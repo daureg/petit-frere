@@ -1,5 +1,5 @@
-Chapitre 10 {.calibre1}
------------
+#Chapitre 10
+
 
 *Ce chapitre est dédié à Anderson’s bookshop, la librairie pour enfant
 de légende à Chicago. Anderson’s est une vieille, vieille entreprise de
@@ -11,8 +11,8 @@ les enfants de façon enthousiasmante. Le meilleur d’entre eux est le
 marché aux livres mobile, dans lequel ils livrent de gigantesques
 étagères sur roues, pré-chargées d’excellents livres pour enfants,
 directement aux écoles, dans des camions — et voilà, une bourse aux
-livres instantannée ! Anderson’s Bookshops: 123 West Jefferson,
-Naperville, IL 60540 USA +1 630 355 2665*
+livres instantannée ! \
+Anderson’s Bookshops: 123 West Jefferson, Naperville, IL 60540 USA +1 630 355 2665*
 
 Qu’est-ce que vous feriez si vous trouviez un espion dans vos rangs ?
 Vous pouriez le dénoncer, le coller au mur et vous en débarasser. Mais

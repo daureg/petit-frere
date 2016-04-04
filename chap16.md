@@ -1,5 +1,5 @@
-Chapitre 16 {.calibre1}
------------
+#Chapitre 16
+
 
 *Ce chapitre est dédié à Booksmith à San Francisco, qui niche dans le
 fameux quartier\

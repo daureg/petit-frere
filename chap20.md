@@ -1,5 +1,5 @@
-Chapitre 20 {.calibre1}
------------
+#Chapitre 20
+
 
 *Ce chapitre est dédié à The Tarrered Cover, la légendaire librairie
 indépendante de Denver. Je suis tombé sur The tattered Cover par pur

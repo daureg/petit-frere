@@ -1,5 +1,5 @@
-Chapitre 9 {.calibre1}
-----------
+#Chapitre 9
+
 
 *Ce chapitre est dédié à Compass Books/Books Inc, la plus ancienne
 librairie de l’ouest des USA. Ils ont des officines à travers toute la

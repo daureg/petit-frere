@@ -1,5 +1,5 @@
-Chapitre 5 {.calibre1}
-----------
+#Chapitre 5
+
 
 *Ce chapitre est dédié au Secret Headquarters à Los Angeles, mon magasin
 de bande dessinée préféré qui est à tomber. Il est petit et choisit
@@ -11,7 +11,7 @@ cherche, et qu’ils le disposaient sur les rayonnages quelques secondes
 avant que je mette le pied chez eux. J’ai découvert les trois quarts de
 mes bandes dessinées préférées en me promenant dans SHQ, en attrapant
 quelque chose d’intéressant, en m’enfonçant dans l’un des fauteuils, et
-me retrouvant transporté dnas un autre monde. Quand ma deuxième
+me retrouvant transporté dans un autre monde. Quand ma deuxième
 collection de nouvelles, OVERCLOCKED, est parue, ils ont travaillé avec
 un dessinateur local, Martin Cenreda, pour produire une mini-BD basée
 sur Printcrime, la première nouvelle du livre. J’ai quitté Los Angeles
@@ -26,7 +26,7 @@ mon visage enfoncé dans ses cheveux.\
 — “Tu es sain et sauf !”, a-t-elle dit.\
 — “Je suis sain et sauf”, j’ai réussi à dire.\
 Finalement, elle m’a lâché, et une autre paire de bras m’a enserré.
-C’était Jolu ! Ils étaient là tous les deux. Il a murmuré “Tous va bien,
+C’était Jolu ! Ils étaient là tous les deux. Il a murmuré “Tout va bien,
 mon gars” dans mon oreille et m’a serré encore plus fort que Vanessa.
 Quand il m’a relâché, j’ai regardé autour de moi. “Où est Darryl ?” j’ai
 demandé. Ils se sont entreregardés.\
@@ -51,7 +51,7 @@ banc sur lequel ils m’ont assis. Tous deux pleuraient aussi, et nous
 nous sommes tenus les uns les autres pendant un moment, et je savais que
 nous pleurions pour Darryl, qu’aucun de nous comptait revoir jamais.
 
-Nous nous trouvions au nord de Chinatown, là où ilse transforme en North
+Nous nous trouvions au nord de Chinatown, là où il se transforme en North
 Beach, un quartier avec des clubs de strip-tease à tubes néons et la
 légendaire librairie de contre-culture City Lights, où le mouvement de
 la poésie Beat avait été fondé dans les années 50. Je connaissais bien
@@ -90,7 +90,7 @@ récit factuel de la journée et de notre amitié. On lui avait fait
 répéter sa déposition encore et encore, mais ils n’avaient pas joué avec
 son esprit comme pour moi. Il avait mangé ses repas dans une salle de
 cantine avec un groupe d’autres gens, et il avait eu un moment dans une
-salle de télévision où les films à succès de l’année précédante
+salle de télévision où les films à succès de l’année précédente
 passaient en vidéo.
 
 L’histoire de Vanessa ne différait que légèrement. Après qu’elle les
@@ -98,7 +98,7 @@ avait énervés en me parlant, ils lui avaient confisqué ses vêtements et
 lui avaient fait porter un uniforme de prison orange. Elle avait été
 isolée dans sa cellule pendant deux jours sans contact avec quiconque,
 quoi qu’elle ait été nourrie régulièrement. Mais pour l’essentiel,
-c’était commepour Jolu : les mêmes quelques répétées encore et encore.
+c’était comme pour Jolu : les mêmes questions répétées encore et encore.
 
 — “Ils te détestaient vraiment”, a dit Jolu. “Ils avaient vraiment un
 dent contre toi. Pourquoi ça ?”. Je ne voyais vraiment pas pourquoi . Et
@@ -126,7 +126,7 @@ cabines téléphonique dans ce quartier. J’ai même envisagé de prendre un
 taxi, mais nous n’avions pas assez d’argent à nous tous pour que ce soit
 possible. Alors nous avons marché. Au coin de la rue, nous avons injecté
 quelques pièces dans un distributeur du journal San Francisco Chronicle
-et nous nous sommes arrêtés pour lire la première page.  Ca faisait cinq
+et nous nous sommes arrêtés pour lire la première page.  Ça faisait cinq
 jours que les bombes avaient explosé, mais elles faisaient toujours la
 une. Coupe-à-la-Serpe avait parlé du “pont” qui aurait explosé, et
 j’avais supposé qu’elle parlait du Golden Gates, mais j’avais tort. Les
@@ -134,32 +134,32 @@ terroristes avaient fait sauter le Bay Bridge.
 
 — Pourquoi diable faire sauter le Bay Bridge ?”, ai-je demandé. “C’est
 le Golden Gates qui est sur toutes les cartes postales”.\
-Meme si vous n’avaez jamais mis les pieds à San Francisco, vous savez
+Même si vous n’avez jamais mis les pieds à San Francisco, vous savez
 probablement à quoi ressemble le Golden Gates : c’est ce gros pont
 suspendu orange qui s’élance romantiquement par-dessus une vieille base
 militaire nommée Presidio to Sausalito, où tous les pays producteurs de
 vin sont représentés par des restaurants aux chandelles et des galleries
 d’art. C’est aussi touristique que possible, et sert pratiquement de
 symbole à la Californie. Si vous allez au parc d’attractions Disneyland
-California, il y en a une reproduction juste derrière l’entrés, avec un
-monorail qui passe dessus. Aussi avais spontanément supposé que si vous
+California, il y en a une reproduction juste derrière l’entrée, avec un
+monorail qui passe dessus. Aussi j'avais spontanément supposé que si vous
 vouliez faire sauter un pont à San Francisco, vous choisiriez celui-là.\
-— “ils ont probablement eu peur des caméras et tout ça”, a proposé Jolu.
+— “Ils ont probablement eu peur des caméras et tout ça”, a proposé Jolu.
 “La Garde National a des barrages aux deux extrémités pour fouiller les
 voitures, et il y a les garde-fous pour éviter les suicides et tout ce
 genre de trucs tout du long”. Les gens ont sauté du Golden Gate depuis
-qu’il a ouvert en 1937 — on a arrêté de compter aprés le millière
+qu’il a ouvert en 1937 — on a arrêté de compter aprés le millième
 suicide en 1995.\
 — “Oui”, a repris Vanessa. “De plus, le Bay Bridge conduit vraiment
 quelque part”.\
 Le Bay Bridge relie la ville basse à Oakland, et donc conduit vers
 Berkeley et les petites villes de East Bay où logent beaucoup de gens
 qui vivent et travaillent en ville. C’est l’un des seuls endroits où de
-la Bay où quelqu’un de norma peut s’offrir une maison assez grande pour
+la Bay où quelqu’un de normal peut s’offrir une maison assez grande pour
 qu’on puisse s’étirer dedans, et il y a aussi l’université et tout un
 fourbi d’industries légères là-bas. Le BART passe sous la baie et
 connecte les deux villes, aussi, mais c’est sur le Bay Bridge que l’on
-voit l’esentiel du traffic. Le Golden Gates était un joli pont pour les
+voit l’essentiel du traffic. Le Golden Gates était un joli pont pour les
 touristes ou les riches retraîtés qui vivent dans les vignobles, mais
 c’était essentiellement une décoration. Le Bay Bridge, c’est — c’était —
 le cheval de labour des ponts de San Francisco.
@@ -170,9 +170,9 @@ seules raisons. Nous faisons tout le temps comme si les terroristes
 attaquaient les points pitoresques parce qu’ils vouent une haine aux
 endroits pitoresques. Les terroristes n’ont rien contre les endroits
 pitoresques, ou les pont, ou les avions. Ils veulent juste bousiller
-quelque chose et faire peux aux genre. Créer de la terreur. Alors
+quelque chose et faire peur aux gens. Créer de la terreur. Alors
 évidemment ils ont pris le Bay Bridge pour cible, après que le Golden
-Gates a reçu toutes ces caméras — et après que les avions ont reçu des
+Gates soit équipé toutes ces caméras — et après que les avions soient équipés des
 détecteurs de métaux et des rayons X.” J’y ai réfléchi encore un peu,
 regardant les voitures qui passaient dans la rue d’un regard vide, les
 gens qui marchaient sur le trottoir, la ville autour de moi.\
@@ -181,7 +181,7 @@ la terreur.”\
 C’était tellement évident que j’étais stupéfait de n’y avoir jamais
 pensé avant. J’imagine que d’être traité comme un terroriste m’avait
 clarifié l’esprit. Les deux autres me regardaient fixement.\
-— “J’ai raison, non ?” Toutes des conneries, les rayons X et les
+— “J’ai raison, non ?” Toutes ces conneries, les rayons X et les
 contrôles d’identité, ça ne sert à rien, n’est-ce pas ?”\
 Ils ont hoché lentement la tête.\
 — “C’est pire d’inutile”, ai-je poursuivi en m’étranglant. “Parce qu’ils
@@ -191,8 +191,8 @@ mon ami, absent, disparu. J’ai arrêté de parler et j’ai serré les
 mâchoires.\
 — “Nous devons en parler à nos parents”, a dit Jolu.\
 — “Nous devrions prendre un avocat”, a dit Van.\
-J’ai pensé à raconter mon histoire. A raconter au monde ce qui m’était
-arrivé. Aux vidéos qui émergeraient sans nul doute, me ontrant en
+J’ai pensé à raconter mon histoire. À raconter au monde ce qui m’était
+arrivé. Aux vidéos qui émergeraient sans nul doute, me montrant en
 pleurs, réduit à ramper comme un animal.\
 — “On ne peut rien leur dire”, ai-je fait sans réfléchir.\
 — “Qu’est-ce que tu veux dire”, a demandé Van\
@@ -210,9 +210,9 @@ l’autre côté de la baie. J’avais traversé pour vous retrouver là-bas et
 je me suis retrouvé coincé, et j’ai pu sortir seulement aujourd’hui. Ils
 disaient dans le journal qu’il y a encore des gens qui en sortent pour
 cherchent leur maison.”\
-— “Je ne peux pas faireune chose pareille”, a dit Vanessa. “Après ce
+— “Je ne peux pas faire une chose pareille”, a dit Vanessa. “Après ce
 qu’ils t’ont fait, comment peux-tu même penser à faire ça ?”\
-— “Ca m’est arrivé, c’est précisément le problème. Maintenant, c’est
+— “Ça m’est arrivé, c’est précisément le problème. Maintenant, c’est
 entre eux et moi. Je les vaincrai, je retrouverai Darryl. Je refuse de
 rester applati. Mais si nous impliquons nos parents, c’est fini pour
 nous. Personne ne nous croira et personne ne s’y intéressera. Si nous
@@ -230,11 +230,11 @@ Les deux autres un hoché la tête avec réticence, et nous sommes
 redescendus de la colline, en direction de nos foyers.
 
 J’habite sur Portrero Hill, Vanessa vivant dans North Mission, et Jolu
-vivant à Noe Valley — trois quarties profondément différents à quelques
+vivant à Noe Valley — trois quartiers profondément différents à quelques
 minutes de marche les uns des autres. Nous avons tourné sur Market
 Street et nous sommes arrêtés net. La rue était barricadée de partout,
-les croisemens réduits à des simple voies, et stationnée sur tout la
-longueur de Market Street, des gros 38-tonnes sans marquages comme celui
+les croisemens réduits à de simples voies, et stationnés sur toute la
+longueur de Market Street, des gros 38 tonnes sans marquages comme celui
 qui nous avait transporté, la tête dans des sacs, des quais du bateau à
 Chinatown. Chacun d’entre eux avait trois échelons de métal sous la
 porte et ils bourdonnaient d’activité comme des soldats, des gens en
@@ -242,8 +242,8 @@ costumes et des flics y rentraient et en sortaient. Les encravatés
 portaient des petits badges sur le revers et les soldates les scannaient
 quand ils allaient et venaient — des badges d’identification sans fil.
 Comme nous en dépassions un, j’ai jeté un oeil à l’intérieur, et j’ai vu
-un logo familier : “Département de la Sécurité Intérieure. Le soldat m’a
-vu regarder et m’a jeter un regard noir et menaçant. J’ai compris le
+un logo familier : “Département de la Sécurité Intérieure”. Le soldat m’a
+vu regarder et m’a jeté un regard noir et menaçant. J’ai compris le
 message et j’ai poursuivi mon chemin. Nous nous sommes séparés à Van
 Ness. Nous nous sommes agglutinés, nous avons pleuré et promis de nous
 téléphoner.
@@ -257,17 +257,17 @@ rues résidentielles et vieilles maisons victoriennes qu’on appelle
 “Dames peintes” à cause de leurs revêtements de peinture luxueux et
 sophistiqués, et des jardinets avec des fleurs et de hautes herbes. Les
 chats domestiques vous regardent depuis les gouttières, et on n’y voit
-guère de sans-abris. Il faisait si tranquille dans ces rues que j’aurais
-voulu avoir pris une autre route, par la Mision, qui est… tonitruante
+guère de sans-abris. C'était tellement paisible dans ces rues que j’aurais
+voulu avoir pris l'autre route, par la Mission, qui est… tonitruante
 est probablement le meilleur mot pour le dire. Bruyante et vibrante.
 Pleine d’ivrognes crasseux et de cinglés en colère et de junkies
 inconscients, mais aussi de familles avec des berceaux, de vieilles
-dames qui s’échangent des ragots sur les paliers, de jackies avec des
+dames qui s’échangent des ragots sur les paliers, de junkies avec des
 voitures tunées surbaissées qui font tump-tump-tump dans la rue. Il y
-avait les hipsers et les étudiants en art émo et même un couple de
+avait les hipsters et les étudiants en art émo et même un couple de
 punk-rockers à l’ancienne, des vieux types avec des bides qui
-dépassaient de leurs t-shirts des Dead Kennedys. Et ausi des drag
-queens, des groupes de gamins en colère, des artistes de graffiti et des
+dépassaient de leurs t-shirts des Dead Kennedys. Et ausi des drag-queens, 
+des groupes de gamins en colère, des artistes de graffiti et des
 BCBG ahuris essayant de ne pas se faire tuer pendant que leurs
 investissements dans l’immobilier raportaient.
 
@@ -275,7 +275,7 @@ J’ai remonté Goat Hill et je suis passé devant Goat Hill Pizza, ce qui
 m’a fait repenser à la prison où j’avais été détenu, et j’ai dû
 m’asseoir sur le banc devant le restaurant jusqu’à ce que j’arrête de
 trembler. C’est alors que j’ai remarqué le camion en haut de la colline,
-un 38-tonnes sans marquages avec trois échelons de métal sous la porte.
+un 38 tonnes sans marquages avec trois échelons de métal sous la porte.
 Je me suis relevé et j’ai marché. J’ai senti des yeux me surveiller de
 toutes les directions. Je me suis hâté sur le reste du chemin vers la
 maison. Je n’ai pas regardé les Dames Peintes, ni les jardinets, ni les
@@ -339,7 +339,7 @@ Nous avions été à Londres deux fois pour voir sa famille et je dirais
 pas que je l’avais trouvée plus civilisée que San Francisco, juste plus
 encombrée.\
 — “Mais ils nous ont laissé partir, et on nous a fait traverser
-aujourd’hui”. J’improvisans.\
+aujourd’hui”. J’improvisais.\
 — “Tu es blessé ?”, a demandé Maman. “Tu as faim ? Sommeil ?”\
 — “Oui, un peu de tout ça. Et aussi Simplet, Doc, Atchoum et Grincheux.”
 Nous avions une tradition de famille avec les blagues sur les Sept
@@ -355,7 +355,7 @@ comme un poisson rouge mange sa nourriture, j’en engloutis jusqu’à ce
 qu’il n’y en ait plus ou que j’explose. J’ai essayé de sourire.\
 — “Je n’ai pas trop la tête à une pizza”, ai-je dit un peu platement.
 “Si on commandait un curry, ça vous dirait ?”\
-Dieu merci, San Francisco a une culture de la mourriture à emporter.
+Dieu merci, San Francisco a une culture de la nourriture à emporter.
 Maman est allée au tiroir aux menus à commander (encore quelque chose de
 familier, aussi bon qu’un verre d’eau dans une gorge sèche et
 douloureuse) et a fouillé dedans. Nous avons passé quelques minutes à
@@ -365,7 +365,7 @@ crème avec du fromage, un lassi à la mangue salé (c’est bien meilleur
 que ce qu’on pourrait croire) et des petites pâtisseries frites dans un
 sirop caramel.
 
-La nourriture commandée, les questions on repris de plus belle. Ils
+La nourriture commandée, les questions ont repris de plus belle. Ils
 avaient pris contact avec les familles de Van, de Jolu et de Darryl et
 avaient essayé de nous signaler comme disparus. La police avait noté nos
 noms, mais il y avait aussi tellement de “déplacés” qu’ils n’ouvraient
@@ -382,7 +382,7 @@ Ils étaient couverts de publicités, bien entendu, et des photos des
 disparus, surtout des photos de promotions, de mariage ou ce genre de
 choses. C’était assez morbide. J’ai trouvé ma propre photo et vu que j’y
 étais lié à Van, Jolu et Darryl. Il y avait un petit formulaire pour
-signaler les gensqui avaient été retrouvés, et un autre pour noter des
+signaler les gens qui avaient été retrouvés, et un autre pour noter des
 informations sur d’autres disparus. J’ai rempli les champs pour Van,
 Jolu et moi, et j’ai laissé celui de Darryl vierge.\
 — “Tu as oublié Darryl”, a dit Papa. Il n’aimait pas trop Darryl — un
@@ -404,7 +404,7 @@ J’ai secoué la tête. J’entrevoyais où tout cela menait. J’ai cru que le
 sol me sautait au visage.\
 — “Ils l’ont fait sauter”, a dit Papa. “Les salopards l’ont fait sauter
 en même temps que le pont.”\
-Ca n’avait pas été à la Une du Chronicle, mais bien sûr, une explosion
+Ça n’avait pas été à la Une du Chronicle, mais bien sûr, une explosion
 du BART sous l’eau ne serait pas aussi spectaculaire que les images du
 pont pendant en pièces et en lambeaux par-dessus la Baie. Le tunnel du
 BART qui reliait l’Embarcadero à San Francisco à la station de West
@@ -443,7 +443,7 @@ les revoir — et enfiler une paire de boxers et un t-shirt propres. Les
 habits blanchis de frais, tirés tout droit de mon tiroir, me donnaient
 une impression de familiarité et de confort, comme d’être serré dans les
 bras de mes parents. J’ai allumé mon ordinateur portable et entassé une
-pille d’oreillers derrière moi à la tête du lit. Je me suis allongé,
+pile d’oreillers derrière moi à la tête du lit. Je me suis allongé,
 j’ai ouvert l’écran du laptop et je l’ai installé sur mes cuisses. Il
 était toujours dans sa séquence de démarrage, et nom d’un chien, ces
 icônes qui progressaient sur l’écran avaient de la gueule.
@@ -462,7 +462,7 @@ de ce genre, et on se demande “ça a toujours été comme ça ?” Peut-être
 qu’on n’avait jamais remarqué. Mais avec mon laptop, c’était impossible.
 Vous voyez, je l’ai assemblé. Après que le Bureau de l’Education nous
 avait distribué les SchoolBooks, il n’y avait plus aucune chance que mes
-parents m’achètent un ordinateur à moi, mais si techniquement le
+parents m’achètent un ordinateur à moi, même si techniquement le
 SchoolBook ne m’appartenait pas, que je n’étais pas censé installer de
 programme dessus ou le bricoler. J’avais économisé un peu d’argent — des
 petits boulots, les Noëls et les anniversaires, quelques ventes
@@ -490,18 +490,18 @@ fourrer dans un minuscule boitier. A la différence d’un gros PC — qui
 contient surtout de l’air — chaque milimètre cube d’espace à l’intérieur
 d’un laptop a une fonction précise. Chaque fois que je croyais avoir
 réussi, j’entreprenais le vissage final pour me rendre compte que
-quelque coinçait et empêchait le boitier de se refermer complètement, et
+quelque chose coinçait et empêchait le boitier de se refermer complètement, et
 je devais recommencer de zéro.
 
 De sorte que je savais exactement à quoi ressemblait normalement la
 joiture de mon boitier quand il était fermé, et il n’était pas censé
-ressembler à ça. J’ai continué à triturer l’adaptateur d’alimentatio,
+ressembler à ça. J’ai continué à triturer l’adaptateur d’alimentation,
 mais c’était sans espoir. Je n’arriverais jamais à faire démarrer la
 machine sans la démonter. J’ai grogné et je l’ai posée à côté du lit. Je
 m’en occuperais le lendemain matin.
 
 Enfin, en théorie. Deux heures plus tard, je regardais toujours le
-plafon, à me repasser dans ma tête le film de ce que j’avais subit, de
+plafond, à me repasser dans ma tête le film de ce que j’avais subit, de
 ce que j’aurais dû faire, tout mes regrets et l’esprit d’escalier. J’ai
 roulé hors du lit. Il était minuit passé et j’avais entendu mes parents
 se coucher vers onze heures. J’ai attrapé le laptop, dégagé un peu
@@ -559,10 +559,10 @@ place. J’ai démarré la machine et j’ai posé mes mains sur le clavier, en
 pensant aux diagnostiques que j’allais faire tourner. Mais je ne pouvais
 pas. Bon Dieu, peut-être que ma chambre était sur écoute. Peut-être
 qu’il y avait une caméra qui m’espionnait en ce moment même. J’avais eu
-des pensées paranoïaques en retrant à la maison. Maintenant, je délirais
+des pensées paranoïaques en rentrant à la maison. Maintenant, je délirais
 complètement. J’avais l’impression que j’étais de nouveau en prison, de
 retour dans la salle d’interrogatoire, suivi par des entités qui
-m’avaient entièrement en leur pouvoir. Ca me donnait envie de hurler.
+m’avaient entièrement en leur pouvoir. Ça me donnait envie de hurler.
 
 Il n’y avait qu’une seule solution. Je suis allé à la salle de bain,
 j’ai pris le rouleau de papier toilette et je l’ai remplacé par un
@@ -570,7 +570,7 @@ nouveau. Par chance, il était presque déjà fini. J’ai déroulé le reste
 de papier et j’ai fouillé dans la boite à pièces détachées jusqu’à
 trouver une petite enveloppe de plastique pleine de LEDs
 ultra-puissantes que j’avais récupérées d’une lampe de vélo cassée. J’ai
-passé soigneusement leurs pates à travers le carton, en utilisant une
+passé soigneusement leurs pattes à travers le carton, en utilisant une
 épingle pour faire les trous, puis récupéré un peu de fil et tout
 connecté en série avec de petites pinces de métal. J’ai tordu les fils
 sur les pôles d’une pile de neuf volts, et fermé le circuit. J’avais
@@ -590,7 +590,7 @@ pour trois dollars d’électronique en un détecteur de caméra relève du
 simple bon sens. C’est la façon la plus simple de détecter une
 caméra-espion. Elles ont des lentilles minuscules, mais elles reflètent
 la lumière tout comme les grosses. Ca marche mieux dans une chambre
-assez obscure : portez votre oeil à l’ouverture et parcourez du regardd,
+assez obscure : portez votre oeil à l’ouverture et parcourez du regard,
 lentement, les murs et tous les endroits où quelqu’un aurait pu
 dissimuler une caméra jusqu’à repérer un reflet. Si le reflet reste en
 place quand vous vous déplacez en le fixant, c’est une lentille.
@@ -598,7 +598,7 @@ place quand vous vous déplacez en le fixant, c’est une lentille.
 Il n’y avait pas de caméra dans ma chambre — pas que je puisse détecter,
 en tout cas. Il aurait pu y avoir des micro, bien entendu. Ou de
 meilleures caméras. Ou rien du tout. Aurait-on pu m’en vouloir d’être
-paranoïaque ? J’adorais celaptop. Je l’avais baptisé Salmagundi, ce qui
+paranoïaque ? J’adorais ce laptop. Je l’avais baptisé Salmagundi, ce qui
 signifie “fait de bric et de broc”. Quand on en vient à donner un nom à
 son ordinateur, c’est qu’on a une relation profonde avec lui. Mais
 maintenant, j’avais envie de ne plus jamais y toucher. J’aurais voulu le
@@ -620,7 +620,7 @@ veulent avoir le droit de vendre leurs jeux pour cette plateforme — mais
 l’Universal était la premièreXbox que Microsoft avait décidé de
 distribuer entièrement gratuitement. A la dernière saison des fêtes, on
 avait vu des pauvres types à tous les coins de rue, costumés en
-guerriers de la série des Halo, distribuant des sacs de ces consoles
+guerriers de la série Halo, distribuant des sacs de ces consoles
 aussi vite qu’ils le pouvaient. Je suppose que ça marchait — tout le
 monde disait qu’ils avaient vendu une quantité astronomique de jeux.
 Bien entendu, il y avait des contre-mesures pour faire en sorte que vous
@@ -628,7 +628,7 @@ ne puissiez jouer qu’aux jeux des éditeurs qui avaient acheté des
 licenses Microsoft pour les publier. Les hackers pulvérisaient ces
 contre-mesures. La Xbox avait été crackée par un gosse du MIT qui en
 avait tiré un livre best-seller, puis la 360 s’était fait avoir, et
-ensuite la Xbox Portable qui n’avait pas fait de mieux os (nous
+ensuite la Xbox Portable qui n’avait pas fait de vieux os (nous
 l’appelions la transportable — elle pesait un kilo et demi !). La
 Universal était censée être absolument inviolable. Le lycéen qui l’avait
 crackée était un hacker Linux brésilien qui vivait dans une favela — une
@@ -665,8 +665,8 @@ multijoueurs. On peut se connecter au réseau sans fil des voisins et
 aller sur Internet, si on a une connection Internet sans fil. J’ai
 trouvé trois réseaux de voisins à bonne portée. Deux d’entre eux avaient
 même leurs Xbox Universal connectées à Internet. ParanoidXbox adorait
-cette configuration : il pouvait exploiter le connection Internet de mes
-voisins et l’utiliser pour se mettre en ligne par le réseau de jeu. Les
+cette configuration : il pouvait exploiter la connection Internet de mes
+voisins et l’utiliser pour se mettre en ligne par le réseau pour les jeux. Les
 paquets réseau ne manqueraient jamais aux voisins : ils payaient des
 connections Internet à forfait illimité, et ils ne surfaient pas
 énormément à deux heures du matin. Le mieux de tout ça était comment ça
@@ -679,7 +679,7 @@ maintenant. Il y avait des tas de raisons de faire tourner ParanoidXbox
 — la meilleure étant que tout le monde pouvait écrire de jeux pour. On
 trouvait déjà un portage de MAME, l’émulateur multiple de machine
 d’aracde, de sorte qu’on pouvait jouer à pratiquement tous les jeux
-jamais écrits, depuis Pong — des jeux pour l’Apple ][+, des jeux pour le
+jamais écrits, depuis Pong — des jeux pour l’Apple ][+, des jeux pour la
 Colecovision, pour la NES et la\
 Dreamcast, et ainsi de suite. Encore mieux, il y avait plein de jeux
 multijoueurs sympas faits spécifiquement pour ParanoidXbox — des jeux de

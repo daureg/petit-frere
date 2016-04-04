@@ -1,5 +1,5 @@
-Chapitre 17 {.calibre1}
------------
+#Chapitre 17
+
 
 *Ce chapitre est dédié à Waterstone, la chaîne de librairies anglaise.\
 Waterstone au beau être une chaîne de magasins, chacun d’eux a\

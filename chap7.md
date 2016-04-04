@@ -1,5 +1,5 @@
-Chapitre 7 {.calibre1}
-----------
+#Chapitre 7
+
 
 *Ce chapitre est dédié à Books of Wonder à New York, la plus ancienne et
 la plus grande librairie pour enfants de Manhattan. Ils se situent juste

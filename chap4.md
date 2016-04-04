@@ -1,5 +1,5 @@
-Chapitre 4 {.calibre1}
-----------
+#Chapitre 4
+
 
 *Ce chapitre est dédié à Barnes and Nobles, une chaîne de librairies aux
 Etats-Unis. Alors que les librairies familiales disparaissaient, Barnes
@@ -21,7 +21,7 @@ l’événement d’après-Nébula quelques années plus tard. Le mieux est que
 les geeks qui achètent à B&N touchent vraiment leur bille pour ce qui
 est de la Science-Fiction, des bandes dessinées et du manga, des jeux,
 et de ce genre de titres. Ils sont passionnée et cultivés dans le
-domaine, et ça se voit à l’excellente sélection exposée sur les rayons.
+domaine, et ça se voit à l’excellente sélection exposée sur les rayons.\
 Barnes and Noble, dans tous les USA.*
 
 Il m’ont repassé les menottes et remis le sac sur la tête, et m’ont
@@ -31,7 +31,7 @@ de suite retombé par terre. Mes jambes étaient tellement engourdies
 qu’elles me paraissaient comme des blocs de glace, sauf mes genoux qui
 avaient gonflé et étaient devenus sensibles après des heures à genoux.
 Des mains ont saisi mes épaules et mes pieds, et j’ai été soulevé comme
-un sac de patates. Il y avait des voix indistinctes autours de moi.
+un sac de patates. Il y avait des voix indistinctes autour de moi.
 Quelqu’un pleurait. Quelqu’un d’autre jurait. J’ai été déplacé sur une
 courte distance, déposé et re-menotté à une autre barrière. Mes genoux
 ne me portaient plus et je me suis affaissé en avant, pour finir tordu
@@ -45,7 +45,7 @@ bien pu savoir où ? J’avais déjà eu peur avant, mais cette pensée m’a
 terrifié, me laissant paralysé et muet d’angoisse. J’ai compris que je
 pourrais très bien ne plus jamais revoir mes parents et j’ai senti le
 goût de mon propre vomi me brûler la gorge. Le sac sur ma tête. Le sac
-que j’avais autours de la tête m’étranglait et je pouvais à peine
+que j’avais autour de la tête m’étranglait et je pouvais à peine
 respirer, un effet accentué par la position bizarre dans laquelle
 j’étais tordu. Mais grâce au ciel nous ne sommes pas restés longtemps
 sur l’eau. J’ai eu l’impression d’une heure, mais je sais que ça n’avait
@@ -108,7 +108,7 @@ Vraiment très drôle.\
 s’est améliorée aujourd’hui ?”\
 Je n’ai rien répondu.\
 — “Ça n’est pas le pire qui puisse t’arriver, tu sais”, a-t-elle dit.
-“Ca, c’est le mieux qui peut t’arriver, à partir de maintenant. Même
+“Ça, c’est le mieux qui peut t’arriver, à partir de maintenant. Même
 quand tu nous auras dit ce que nous voulons savoir, même si ça nous
 convaint que tu étais juste au mauvais endroit au mauvais moment,
 maintenant, tu es marqué. Nous te surveillerons partout où tu iras et
@@ -193,7 +193,7 @@ la victoire, et les gardes m’ont emmené. Quand la porte s’est refermée,
 je l’ai vue se pencher sur le smartphone et y taper le mot de passe.
 J’aimerais bien pouvoir prétendre que j’avais prévu le cas et créé un
 faux mot de passe qui aurait révélé une partition sans aucun intérêt sur
-mon téléphone, mais je n’étais de loins pas si malin ou paranoïaque.\
+mon téléphone, mais je n’étais de loin pas si malin ou paranoïaque.\
 Vous vous demandez sans doute, à ce stade, quel sont ces sombres secrets
 que je conservais jalousement sur mon téléphone, mes clefs USB et  mes
 e-mails. En vérité, j’ai tout à cacher, et rien du tout. Entre mon
@@ -225,7 +225,7 @@ la NSA. Il n’y a qu’une seule sorte de crypto qui s’utilise : la crypto
 publique, ouverte et utilisable par tout le monde. C’est comme ça qu’on
 sait que ça marche. Il y a quelque chose de profondément libérateur à
 avoir un coin de votre vie qui est à vous, et que personne ne voit à
-part vous. C’est un peu comme la nudité, ou aller aux toilettes. Tous le
+part vous. C’est un peu comme la nudité, ou aller aux toilettes. Tout le
 monde se met tout nu de temps en temps. Tout le monde va aux toilettes.
 Il n’y a rien de honteur, de pervers ou de bizarre à ça. Mais qu’est-ce
 que vous diriez si je décidais qu’à partir de maintenant, à chaque fois
@@ -243,7 +243,7 @@ sentiment de mériter tout cela m’est revenu. J’avais violé certaines
 règles toute ma vie et je m’en étais sorti plus ou moins impunément.
 Peut-être ce qui m’arrivait maintenant n’était que justice. Peut-être
 était-ce mon passé qui revenait me hanter. Après tout, je m’étais
-retrouvé là parce que j’avais courbé les cours.
+retrouvé là parce que j’avais séché les cours.
 
 J’ai pris ma douche. J’ai fait ma promenade dans la cour. Il y avait un
 carré de ciel au-dessus de ma tête, et l’air avait l’odeur de la Baie,
@@ -534,7 +534,7 @@ Mon sac m’a été enlevé. J’étais de retour dans le camion.
 Coupe-à-la-Serpe était là, assise au petit bureau où elle était
 installée avant. Elle avait un petit sac à fermeture éclair, avec mon
 téléphone et mes autres gadgets, mon porte-feuille et la monnaie de mes
-poches. Elle me l’a tendu sans un mot. J’ai rempli mes poches. Ca
+poches. Elle me l’a tendu sans un mot. J’ai rempli mes poches. Ça
 faisant drôle de tout avoir de nouveau aux endroits habituels, de porter
 des vêtements familiers. Hors du camion, j’ai entendu le bruit familier
 de ma ville familière. Un garde m’a passé mon sac à dos. La femme m’a

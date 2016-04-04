@@ -1,5 +1,5 @@
-Chapitre 13 {.calibre1}
------------
+#Chapitre 13
+
 
 *Ce chapitre est dédié à Books-a-Million, une chaîne de gigantesques
 librairies répendue dans tous le USA. Je suis entré en contact avec

@@ -1,5 +1,5 @@
-Chapitre 11 {.calibre1}
------------
+#Chapitre 11
+
 
 *Ce chapitre est dédié à la librairie universitaire de l’université de
 Washington, dont la section de science-fiction rivalise avec bien des
